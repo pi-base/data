@@ -4,5 +4,3 @@ space: tychonoff-plank
 property: scattered
 value: true
 ---
--
-
