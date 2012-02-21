@@ -4,5 +4,3 @@ space: uncountable-products-of-mathbb{z}^+
 property: normal
 value: false
 ---
--
-
