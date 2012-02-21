@@ -4,5 +4,3 @@ space: tangora's-connected-space
 property: connected
 value: true
 ---
--
-
