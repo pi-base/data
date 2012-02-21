@@ -3,7 +3,7 @@ uid: S000084
 slug: one-point-compactification-topology
 name: One Point Compactification Topology
 ---
-Given a space $(X, \tau)$, let $p$ be a point not in $X$ and define a new space $(X^*, \tau^*)$ by $X^* = X \cup \{p\}$ and $U \in \tau^*$ if and only if $U \in \tau$ or $X^* \setminus U$ is closed and compact in $X$.
+Given a space $(X, \tau)$, let $p$ be a point not in $X$ and define a new space $(X^*, \tau^\ast)$ by $X^\ast = X \cup \{p\}$ and $U \in \tau^\ast$ if and only if $U \in \tau$ or $X^\ast \setminus U$ is closed and compact in $X$.
 
 See also:
 
