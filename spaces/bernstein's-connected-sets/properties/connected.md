@@ -4,5 +4,3 @@ space: bernstein's-connected-sets
 property: connected
 value: true
 ---
--
-
