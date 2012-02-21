@@ -4,5 +4,3 @@ space: countable-complement-extension-topology
 property: semiregular
 value: false
 ---
--
-
