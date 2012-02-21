@@ -4,5 +4,3 @@ space: michael's-product-topology
 property: metacompact
 value: true
 ---
--
-
