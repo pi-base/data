@@ -4,5 +4,3 @@ space: countable-complement-extension-topology
 property: first-countable
 value: false
 ---
--
-
