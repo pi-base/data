@@ -4,5 +4,3 @@ space: tychonoff-plank
 property: zero-dimensional
 value: true
 ---
--
-
