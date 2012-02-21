@@ -1,0 +1,21 @@
+---
+uid: I000053
+if:
+  and:
+  - lindelof: true
+  - locally-compact: true
+then:
+  sigma-locally-compact: true
+converse:
+- !ruby/object:Uid
+  prefix: I
+  id: 8
+- !ruby/object:Uid
+  prefix: I
+  id: 5
+- !ruby/object:Uid
+  prefix: I
+  id: 122
+---
+If $X$ is locally compact and Lindelof, cover $X$ with compact neighborhoods. Since $X$ is Lindelof, countably many of these neighborhoods cover $X$ and so $X$ is the union of countably many compact subsets.
+
