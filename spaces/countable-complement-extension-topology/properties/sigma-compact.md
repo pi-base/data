@@ -4,5 +4,3 @@ space: countable-complement-extension-topology
 property: sigma-compact
 value: false
 ---
--
-
