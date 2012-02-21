@@ -4,5 +4,3 @@ space: wheel-without-its-hub
 property: arc-connected
 value: true
 ---
--
-
