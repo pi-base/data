@@ -1,0 +1,8 @@
+---
+uid: T000940
+space: double-pointed-reals
+property: locally-arc-connected
+value: true
+---
+Given $(a,i) \neq (b,j) \in U \times \{0,1\} \subset \mathbb{R} \times \{0,1\}$ with $U$ open, let $f'$ be an arc in $U \subset \mathbb{R}$ from $a$ to $b$ and $g:[0,1] \rightarrow \{0,1\}$ any function with $g(0)=i$ and $g(1)=j$. Then $f = f' \times g$ is an arc in $X$ from $(a,i)$ to $(b,j)$.
+
