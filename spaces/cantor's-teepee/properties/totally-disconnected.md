@@ -4,7 +4,9 @@ space: cantor's-teepee
 property: totally-disconnected
 value: true
 ---
-Let $Y$ be any subset of Cantor's Teepee containing more than one point. Our goal is to produce two sets $A$ and $B$ such that $A$ and $B$ are separated open sets in the subspace topology induced by $Y$ and $Y = A \cup B$.
+Let $Y$ be any subset of Cantor's Teepee containing more than one point. Our goal is to produce two sets $A$ and $B$ such that 
+- $A$ and $B$ are separated open sets in the subspace topology induced by $Y$, and 
+- $Y = A \cup B$.
 
 Since Cantor's Teepee is itself a subspace of the usual topology on $\mathbb{R}^2$, we may revise these conditions to read $A$ and $B$ are separated open sets in the usual topology on $\mathbb{R}$ and $Y \subseteq A \cup B$.
 
