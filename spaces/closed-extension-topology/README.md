@@ -3,7 +3,7 @@ uid: S000139
 slug: closed-extension-topology
 name: Closed Extension Topology
 ---
-Let $(X,\tau)$ be a nonempty space and $p \notin X$. Let $X^\ast = X \cup \{p\}$ and define a topology on $X\ast$ by declaring $U^\ast \subset X^\ast$ open if and only if $U^\ast = \emptyset$ or $U^\ast = U \cup \{p\}$ for some $U \in \tau$.
+Let $(X,\tau)$ be a nonempty space and $p \notin X$. Let $X^* = X \cup \{p\}$ and define a topology on $X^*$ by declaring $U^* \subset X^*$ open if and only if $U^* = \emptyset$ or $U^* = U \cup \{p\}$ for some $U \in \tau$.
 
 See also:
 
