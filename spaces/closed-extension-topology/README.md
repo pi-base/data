@@ -10,5 +10,3 @@ See also:
 * Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 44-46.
 * [Extension topology](http://en.wikipedia.org/wiki/Closed_extension_topology) on Wikipedia.
 
-Test $x^*$ hi $x^*$
-
