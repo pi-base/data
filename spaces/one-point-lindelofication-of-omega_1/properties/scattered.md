@@ -4,5 +4,5 @@ space: one-point-lindelofication-of-omega_1
 property: scattered
 value: true
 ---
-$\omega_1$ is discrete, leaving $\{\infty\}$.
+Every non-empty subset contains a point in discrete $\omega_1$, or is $\{\infty\}$.
 
