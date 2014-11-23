@@ -4,5 +4,11 @@ space: countable-complement-extension-topology
 property: lindelof
 value: true
 ---
--
+$X$ is Lindelöf: let $\left\{U_i, i \in I\right\}$ be a basic open cover of $X$. There are two cases: 
+
+1: One of the $U_i$ has countable complement, then we only need countably many extra $U_j$ to cover all of $X$, and so we find a countable subcover, or
+
+2: All $U_i$ are standard Euclidean open sets. But then we can use that $\mathbb{R}$ in the usual topology is Lindelöf (as it's second countable e.g.) to see that we again have a countable subcover.
+
+So the countable complement extension topology is Lindelöf.
 
