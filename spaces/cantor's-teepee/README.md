@@ -10,5 +10,5 @@ See also:
 * Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 145-147.
 * The [Knaster-Kuratowski fan](http://en.wikipedia.org/wiki/Knaster-Kuratowski_fan) on Wikipedia.
 
-![enter image description here](http://imgur.com/m2a0RHL&P36Jx0z)
+![enter image description here](http://i.imgur.com/m2a0RHL.png?1)
 
