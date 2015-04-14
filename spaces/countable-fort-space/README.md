@@ -3,7 +3,7 @@ uid: S000020
 slug: countable-fort-space
 name: Countable Fort Space
 ---
-Fix a point $p$ in a countable set $X$ and define $U \subset X$ to open provided $X \setminus U$ is finite or $p \notin U$.
+Fix a point $p$ in a set $X$ and define $U \subset X$ to open provided $X \setminus U$ is countable or $p \notin U$.
 
 See also:
 
