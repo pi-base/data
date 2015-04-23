@@ -4,5 +4,5 @@ space: sigma-product-of-uncountably-many-copies-of-mathbb-r
 property: corson-compact
 value: true
 ---
-obvious.
+THIS WAS AN ERROR! PLEASE DELETE ME
 
