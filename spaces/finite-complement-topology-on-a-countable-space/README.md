@@ -17,5 +17,3 @@ See also:
 
 3) Let $A$ be a collection of open sets in $X$. Let $U = \bigcap\limits_i^j a_i$ where $a_i \in A$. So, $X/U = X/\bigcap\limits_i^j a_i = (X/a_i) \cup (X/a_{i+1}) \cup \dots \cup (X/a_j)$. A finite union of finite sets is finite.
 
-....we have proven the topology.
-
