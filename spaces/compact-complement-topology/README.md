@@ -15,7 +15,7 @@ See also:
 [[Proof of Topology]]
 1) $U = \emptyset$ is open by definition. Now, allow $U = \mathbb{R}$. This implies $\mathbb{R} / \mathbb{R} = \emptyset$. 
 
-2) Let $A= \bigcup\limits^\infty_{i=1} U_i$ where $U_i \in \tau$. Note, $\mathbb{R} / A$ is bounded and closed. $\mathbb{R} / (\bigcup\limits^\infty_{i=1} U_i) = \bigcap\limits^\infty_{i=1} \mathbb{R}/U_i$. Since compact sets are closed in this space, an arbitrary intersection of compact sets is compact, so each of these is compact by definition.
+2) Let $A= \bigcup\limits^\infty_{i=1} U_i$ where $U_i \in \tau$. Note, $\mathbb{R} / A$ is bounded and closed. $\mathbb{R} / (\bigcup\limits^\infty_{i=1} U_i) = \bigcap\limits^\infty_{i=1} \mathbb{R}/U_i$. Since the compact sets are precisely the closed sets in this space, an arbitrary intersection of compact sets is compact, so each of these is compact by definition.
 
 3) Let $A=\bigcap\limits_{i=1}^nU_i$ where $U_i \in \tau$. Note, $\mathbb{R} / A$ is bounded and closed. $\mathbb{R} / (\bigcap\limits^n_{i=1} U_i) = \bigcup\limits^\infty_{i=1} \mathbb{R}/U_i$. Each of these sets already has their limit points within them (closed). A finite union of compact sets is compact.
 
