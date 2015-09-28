@@ -11,6 +11,8 @@ $$r(x,y) = \begin{cases}
 \end{cases}
 $$
 
+This metric is also known as the [Paris metric](https://en.wikipedia.org/w/index.php?title=Paris_metric).
+
 See also:
 
 * Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 155-156.
