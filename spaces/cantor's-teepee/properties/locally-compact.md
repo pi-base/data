@@ -4,5 +4,5 @@ space: cantor's-teepee
 property: locally-compact
 value: false
 ---
-Needs proof.
+(Locally compact + totally disconnected) implies zero dimensional.  Cantor's Teepee is totally disconnected but not zero dimensional, therefore it is not locally compact.
 
