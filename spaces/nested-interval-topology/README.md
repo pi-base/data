@@ -11,15 +11,15 @@ See also:
 * [Nested interval topology](http://en.wikipedia.org/wiki/Nested_interval_topology) on Wikipedia.
 
 [[Proof of Topology]]
-Let $N$ be the Nested Interval Topology defined on $X=(0,1)$ as above. To show $N$ is a Topology we need to show that $X,$ $\emptyset$, all arbitrary unions of open sets, and finite intersections of open sets are open. Note that $X \in N$ by definition and $U_1=(0,1-\frac{1}{1})=(0,0)= \emptyset$ thus $\emptyset \in N$. Now we need to show that an arbirtrary union is in $N$ thus let $I$ be any indexing set of $n \in \mathbb{N}$ where $\bigcup\limits_{n \in I} U_n$ where $U_n \in N$. Thus
+1. Note that $X \in N$ by definition and $U_1=(0,1-\frac{1}{1})=(0,0)= \emptyset$ thus $\emptyset \in N$. 
+2. Let $I$ be any indexing set of $n \in \mathbb{N}$ where $\bigcup\limits_{n \in I} U_n$ where $U_n \in N$. Thus
 \begin{align*}
 \bigcup\limits_{n \in I} U_n &= U_{max(n) \in I}, or X
 \end{align*}
-
-
-Which are both in $N$ thus any arbitrary union of open sets is open. To show any finite intersection of open sets is open let $I$ be any finite indexing set of $n \in \mathbb{N}$. Thus 
+Which are both open. 
+3.  Let $I$ be any finite indexing set of $n \in \mathbb{N}$. Thus 
 \begin{align*}
 \bigcap\limits_{n \in I} U_n &= U_{min(I)}
 \end{align*}
-which is an open set so any finite union of open sets is open, thus $N$ is a Topology.
+which is an open set so any finite union of open sets is open.
 
