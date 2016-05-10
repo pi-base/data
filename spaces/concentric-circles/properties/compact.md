@@ -1,0 +1,12 @@
+---
+uid: T000330
+space: concentric-circles
+property: compact
+value: true
+---
+To prove the concentric circles is compact then it is sufficient to prove that $C_1$ is Compact. We know that $C_1 \subset \mathbb{R}^2$ thus by the Heine-Borel Theorem of Higher Order Reals we must only show that $C_2$ is closed and bounded in $\mathbb{R}^2$. To show $C_1$ is bounded we can see that the distance from $(0,0)$ in $\mathbb{R}^2$ is equal to $1$ thus $C_1$ is bounded by $1$. To show that $C_1$ is closed it is enough to show that the complement of $C_1$ is open thus we will construct the complement of $C_1$ since $C_1 = \left\{x \in \mathbb{R}^2 : |x| = 1 \right\}$ thus 
+
+$C_1 {}^c = \left\{x \in \mathbb{R}^2 : |x| < 1 \right\} \cup \left\{x \in \mathbb{R}^2 : |x| > 1 \right\}$
+
+which are open sets in $\mathbb{R}^2$ therefore $C_1$ is compact. Thus the Concentric Circles Topology is compact.
+
