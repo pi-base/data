@@ -12,11 +12,13 @@ See also:
 
 [[Proof of Topology]]
 1. Note that $X \in N$ by definition and $U_1=(0,1-\frac{1}{1})=(0,0)= \emptyset$ thus $\emptyset \in N$. 
+
 2. Let $I$ be any indexing set of $n \in \mathbb{N}$ where $\bigcup\limits_{n \in I} U_n$ where $U_n \in N$. Thus
 \begin{align*}
 \bigcup\limits_{n \in I} U_n &= U_{max(n) \in I}, or X
 \end{align*}
 Which are both open. 
+
 3.  Let $I$ be any finite indexing set of $n \in \mathbb{N}$. Thus 
 \begin{align*}
 \bigcap\limits_{n \in I} U_n &= U_{min(I)}
