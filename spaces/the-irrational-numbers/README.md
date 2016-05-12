@@ -17,6 +17,7 @@ In order to confirm the topology on the irrational numbers we simply must verify
 Observe both $\emptyset$ and $\mathbb{I}$ belong to $\tau_\mathbb{I}$ since
 $$\emptyset = \mathbb{I} \cap \emptyset$$  $$\mathbb{I} = \mathbb{I} \cap \mathbb{R},$$
 noting that both $\emptyset$ and $\mathbb{I}$ belong to $\tau$.
+
 Taking the arbitrary union of any elements of $\tau_\mathbb{I}$ we note
 $$ \bigcup_{i \in I} (\mathbb{I} \cap U_i) = \mathbb{I} \cap \bigcup_{i \in I} U_i $$
 which is in $\tau_\mathbb{I}$ since $\bigcup_{i \in I} U_i \in \tau$.   
