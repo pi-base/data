@@ -3,7 +3,7 @@ uid: S000017
 slug: countable-complement-topology
 name: Countable Complement Topology
 ---
-Let $X$ be an uncountable space.  Define the open sets on $X$ by a letting a set $U \subset X$ be open iff its complement is is countable.  Taking the collection of all such sets, $U$, together with both the $\emptyset$ and $X$ yields a topology on $X$.
+Let $X$ be an uncountable space.  Define the open sets on $X$ by a letting a set $U \subset X$ be open iff its complement is countable.  Taking the collection of all such sets, $U$, together with both the $\emptyset$ and $X$ yields a topology on $X$.
 
 See also:
 
