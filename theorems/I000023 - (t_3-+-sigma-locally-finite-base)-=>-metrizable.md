@@ -7,9 +7,7 @@ if:
 then:
   metrizable: true
 converse:
-- !ruby/object:Uid
-  prefix: I
-  id: 20
+- I000020
 ---
 By the Nagata-Smirnov Metrization Theorem.
 
