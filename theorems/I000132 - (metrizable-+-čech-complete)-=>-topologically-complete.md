@@ -7,10 +7,6 @@ if:
 then:
   topologically-complete: true
 converse:
-- !ruby/object:Uid
-  prefix: I
-  id: 77
-- !ruby/object:Uid
-  prefix: I
-  id: 133
+- I000077
+- I000133
 ---

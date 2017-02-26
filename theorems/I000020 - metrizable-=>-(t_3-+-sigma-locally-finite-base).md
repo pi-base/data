@@ -7,9 +7,7 @@ then:
   - t_3: true
   - sigma-locally-finite-base: true
 converse:
-- !ruby/object:Uid
-  prefix: I
-  id: 23
+- I000023
 ---
 By the Nagata-Smirnov Metrization Theorem.
 

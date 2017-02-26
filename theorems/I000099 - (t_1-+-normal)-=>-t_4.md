@@ -7,9 +7,7 @@ if:
 then:
   t_4: true
 converse:
-- !ruby/object:Uid
-  prefix: I
-  id: 98
+- I000098
 ---
 By definition.
 

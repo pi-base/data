@@ -7,9 +7,7 @@ then:
   - t_1: true
   - completely-normal: true
 converse:
-- !ruby/object:Uid
-  prefix: I
-  id: 101
+- I000101
 ---
 By definition.
 
