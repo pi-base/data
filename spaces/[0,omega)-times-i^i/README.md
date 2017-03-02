@@ -12,5 +12,6 @@ See also:
 * Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 126-127.
 
 [[Proof of Topology]]
-<img src="http://upload.wikimedia.org/wikipedia/en/a/a6/Ita_Apr_6_2014_2355Z.jpg">
+
+![Proof](http://upload.wikimedia.org/wikipedia/en/a/a6/Ita_Apr_6_2014_2355Z.jpg)
 
