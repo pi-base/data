@@ -1,14 +1,18 @@
 ---
 uid: S000011
 slug: finite-excluded-point-topology
-name: Finite Excluded Point Topology
+name: Excluded Point Topology on a Three-Point Set
+aliases:
+  - Finite Excluded Point Topology
+counterexamples_id: 13
+refs:
+  - doi: 10.1007\/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
+  - wikipedia: Excluded_point_topology
+    name: Excluded point topology on Wikipedia
 ---
-The excluded point topology on a set $X$ consists of $X$ along with all subsets of $X$ which do not contain some fixed point $p$, $\tau = \{U \subset X : p \not\in U \} \cup \{X\}$.
+Let $X=3=\{0,1,2\}$ be any finite set and fix a particular point $0$ of $X$.
+A set is closed in this topology if it contains $0$ or is empty.
 
-For concreteness, we assume $|X| > 2$.
-
-See also:
-
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 47-48.
-* [Excluded point topology](http://en.wikipedia.org/wiki/Excluded_point_topology) on Wikipedia.
-
+Considered as #13 ("Finite Excluded Point Topology")
+in {{doi:10.1007\/978-1-4612-6290-9_6}}.
