@@ -4,5 +4,4 @@ space: uncountable-discrete-topology
 property: locally-countable
 value: true
 ---
-A singleton is countable.
-
+Each point is contained in its open countable (finite) singleton.

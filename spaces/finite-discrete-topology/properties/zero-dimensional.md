@@ -8,4 +8,3 @@ value: true
 
 * [T000028] [Discrete|P000052]
 * [I000066] [Discrete|P000052] => [Zero Dimensional|P000050]
-

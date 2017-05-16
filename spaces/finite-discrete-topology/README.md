@@ -1,12 +1,16 @@
 ---
 uid: S000001
 slug: finite-discrete-topology
-name: Finite Discrete Topology
+name: Discrete Topology on a Two-Point Set
+counterexamples_id: 1
+refs:
+  - doi: 10.1007\/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
+  - wikipedia: Discrete_space
+    name: Discrete Space on Wikipedia
 ---
-Let $X$ be a finite set and let all subsets of $X$ be open.
+Let $X=2=\{0,1\}$ be the space containing two points and
+let all subsets of $X$ be open.
 
-See also:
-
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 41-42.
-* [Discrete topology](http://en.wikipedia.org/wiki/Discrete_topology) on Wikipedia.
-
+Considered as #1 ("Finite Discrete Topology")
+in {{doi:10.1007\/978-1-4612-6290-9_6}}.

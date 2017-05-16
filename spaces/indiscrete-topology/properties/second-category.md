@@ -3,6 +3,11 @@ uid: T000016
 space: indiscrete-topology
 property: second-category
 value: true
+refs:
+  - doi: 10.1007\/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
-The only nowhere dense subset is $\emptyset$, so $X$ is of the second category.
+The only nowhere dense subset is $\emptyset$, so $X$ is not the union
+of countably many nowhere dense sets.
 
+See item #5 for space #4 in {{doi:10.1007\/978-1-4612-6290-9_6}}.
