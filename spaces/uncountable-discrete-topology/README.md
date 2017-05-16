@@ -1,7 +1,7 @@
 ---
 uid: S000003
 slug: uncountable-discrete-topology
-name: Discrete Topology on a First-Uncountable Set
+name: Discrete Topology on the Real Numbers
 aliases:
   - Uncountable Discrete Topology
 counterexamples_id: 3
@@ -11,8 +11,7 @@ refs:
   - wikipedia: Discrete_space
     name: Discrete Space on Wikipedia
 ---
-Let $X=\omega_1$ be the set of all countable ordinals (therefore having
-the cardinality of the least uncountable cardinal),
+Let $X=\mathbb R$ be the set of all real numbers,
 and let all subsets of $X$ be open.
 
 Considered as #3 ("Uncountable Discrete Topology")

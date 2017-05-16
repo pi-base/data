@@ -1,7 +1,7 @@
 ---
 uid: S000009
 slug: uncountable-particular-point-topology
-name: Particular Point Topology on a First-Uncountable Set
+name: Particular Point Topology on the Real Numbers
 aliases:
   - Uncountable Particular Point Topology
 counterexamples_id: 10
@@ -12,8 +12,7 @@ refs:
     name: Particular point topology on Wikipedia
 ---
 
-Let $X=\omega_1$ be the set of all countable ordinals (therefore having
-the cardinality of the least uncountable cardinal).  A set is open in this
+Let $X=\mathbb R$ be the set of real numbers. A set is open in this
 topology if it contains a particular point $0$ or is empty.
 
 Considered as #10 ("Uncountable Particular Point Topology")
