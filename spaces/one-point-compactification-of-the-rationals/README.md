@@ -3,7 +3,7 @@ uid: S000029
 slug: one-point-compactification-of-the-rationals
 name: One Point Compactification of the Rationals
 counterexamples_id: 35
-  refs:
+refs:
   - doi: 10.1007\/978-1-4612-6290-9_6
     name: Counterexamples in Topology
 ---
