@@ -2,6 +2,8 @@
 uid: S000001
 slug: finite-discrete-topology
 name: Discrete Topology on a Two-Point Set
+aliases:
+  - Finite Discrete Topology
 counterexamples_id: 1
 refs:
   - doi: 10.1007\/978-1-4612-6290-9_6

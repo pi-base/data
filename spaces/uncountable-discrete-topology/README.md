@@ -2,6 +2,8 @@
 uid: S000003
 slug: uncountable-discrete-topology
 name: Discrete Topology on a First-Uncountable Set
+aliases:
+  - Uncountable Discrete Topology
 counterexamples_id: 3
 refs:
   - doi: 10.1007\/978-1-4612-6290-9_6
