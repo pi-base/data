@@ -1,7 +1,7 @@
 ---
 uid: S000013
 slug: uncountable-excluded-point-topology
-name: Excluded Point Topology on a First-Uncountable Set
+name: Excluded Point Topology on the Real Numbers
 aliases:
   - Uncountable Excluded Point Topology
 counterexamples_id: 15
@@ -12,8 +12,7 @@ refs:
     name: Excluded point topology on Wikipedia
 ---
 
-Let $X=\omega_1$ be the set of all countable ordinals (therefore having
-the cardinality of the least uncountable cardinal).  A set is open in this
+Let $X=\mathbb R$ be the set of real numbers.  A set is open in this
 topology if it excludes a particular point $0$ or is the whole space.
 
 Considered as #15 ("Uncountable Excluded Point Topology")
