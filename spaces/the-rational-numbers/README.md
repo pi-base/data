@@ -1,12 +1,19 @@
 ---
 uid: S000027
 slug: the-rational-numbers
-name: The Rational Numbers
+name: Rational Numbers
+aliases:
+  - The Rational Numbers
+  - Rationals
+counterexamples_id: 30
+  refs:
+  - doi: 10.1007\/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
+  - wikipedia: Rational_number
+    name: Rational number on Wikipedia
 ---
-Let $X = \mathbb{Q} = \{\frac{a}{b} : a,b \in \mathbb{Z}\}$ with the subspace topology.
+Let $X = \mathbb{Q} = \{\frac{a}{b} : a,b \in \mathbb{Z}\}$
+with the subspace topology induced from the Euclidean real line.
 
-See also:
-
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 59-60.
-* [Rational number](http://en.wikipedia.org/wiki/Rational_number) on Wikipedia.
-
+Considered as #30 ("The Rational Numbers")
+in {{doi:10.1007\/978-1-4612-6290-9_6}}.
