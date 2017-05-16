@@ -2,11 +2,15 @@
 uid: S000006
 slug: deleted-integer-topology
 name: Deleted Integer Topology
+counterexamples_id: 7
+refs:
+  - doi: 10.1007\/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
+  - wikipedia: Partition_topology
+    name: Partition topology on Wikipedia
 ---
-Let $X$ be the union of the open real intervals $(n-1,n)$ for $n \in \mathbb{N}+1$. Take as a basis $\{(n-1,n)\,|\,n \in \mathbb{N}+1\}$.
+Let $X=\mathbb R\setminus\mathbb Z$, and
+take as a basis $\{(n,n+1)\,|\,n \in \mathbb{Z}\}$.
 
-See also:
-
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 43-44.
-* [Partition topology](http://en.wikipedia.org/wiki/Partition_topology) on Wikipedia.
-
+Considered as #7 ("Deleted Integer Topology")
+in {{doi:10.1007\/978-1-4612-6290-9_6}}.
