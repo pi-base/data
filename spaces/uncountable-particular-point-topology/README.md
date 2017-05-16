@@ -1,12 +1,20 @@
 ---
 uid: S000009
 slug: uncountable-particular-point-topology
-name: Uncountable Particular Point Topology
+name: Particular Point Topology on a First-Uncountable Set
+aliases:
+  - Uncountable Particular Point Topology
+counterexamples_id: 10
+refs:
+  - doi: 10.1007\/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
+  - wikipedia: Particular_point_topology
+    name: Particular point topology on Wikipedia
 ---
-Let $X$ be any uncountable set and fix a particular point $p$ of $X$. A set is open in this topology if it contains $p$ or is empty.
 
-See also:
+Let $X=\omega_1$ be the set of all countable ordinals (therefore having
+the cardinality of the least uncountable cardinal).  A set is open in this
+topology if it contains a particular point $0$ or is empty.
 
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 44-46.
-* [Particular point topology](http://en.wikipedia.org/wiki/Particular_point_topology) on Wikipedia.
-
+Considered as #10 ("Uncountable Particular Point Topology")
+in {{doi:10.1007\/978-1-4612-6290-9_6}}.

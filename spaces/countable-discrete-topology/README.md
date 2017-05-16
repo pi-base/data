@@ -2,6 +2,8 @@
 uid: S000002
 slug: countable-discrete-topology
 name: Discrete Topology on a Countably Infinite Set
+aliases:
+  - Countable Discrete Topology
 counterexamples_id: 2
 refs:
   - doi: 10.1007\/978-1-4612-6290-9_6
