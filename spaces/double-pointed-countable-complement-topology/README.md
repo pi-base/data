@@ -1,12 +1,16 @@
 ---
 uid: S000018
 slug: double-pointed-countable-complement-topology
-name: Double Pointed Countable Complement Topology
+name: Double Pointed Countable Complement Topology on the Real Numbers
+aliases:
+  - Double Pointed Countable Complement Topology
+counterexamples_id: 21
+refs:
+  - doi: 10.1007\/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
-$X$ is the product of the [countable complement topology](/brubeck/spaces/countable-complement-topology/) with the indiscrete topology on $\{0,1\}$.
 
-See also:
+$X$ is the product of {{pibase:S000017}} with {{pibase:S000004}}.
 
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 50-51.
-* [Cocountable topology](http://en.wikipedia.org/wiki/Countable_complement_topology) on Wikipedia.
-
+Considered as #21 ("Double Pointed Countable Complement Topology")
+in {{doi:10.1007\/978-1-4612-6290-9_6}}.
