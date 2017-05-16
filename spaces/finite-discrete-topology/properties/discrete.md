@@ -4,5 +4,4 @@ space: finite-discrete-topology
 property: discrete
 value: true
 ---
-By definition.
-
+All subsets of this space are open by definition.

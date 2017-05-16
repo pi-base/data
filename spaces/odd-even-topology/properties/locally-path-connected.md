@@ -3,6 +3,11 @@ uid: T000851
 space: odd-even-topology
 property: locally-path-connected
 value: true
+refs:
+  - doi: 10.1007\/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 Every point is contained in some $\{2k-1,2k\}$ which carries the subspace topology and thus is path connected.
 
+Asserted in the General Reference Chart for space #6 in
+{{doi:10.1007\/978-1-4612-6290-9_6}}.

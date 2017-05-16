@@ -4,5 +4,4 @@ space: countable-discrete-topology
 property: discrete
 value: true
 ---
-By definition.
-
+All subsets of the space are open by definition.

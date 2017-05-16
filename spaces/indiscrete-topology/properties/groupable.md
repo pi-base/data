@@ -4,5 +4,6 @@ space: indiscrete-topology
 property: groupable
 value: true
 ---
-On each (nonempty) set there is a (not unique) group structure. Since every map betweeen indiscrete spaces is continuous this is a topological group.
-
+Consider an arbitrary group defined on this non-empty space.
+Since every map between indiscrete spaces is continuous, the
+binary and inverse operations of this group are continuous.

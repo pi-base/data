@@ -4,5 +4,4 @@ space: odd-even-topology
 property: countable
 value: true
 ---
-By definition.
-
+The cardinality of the space is countable by definition.

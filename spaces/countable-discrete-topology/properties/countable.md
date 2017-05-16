@@ -4,5 +4,4 @@ space: countable-discrete-topology
 property: countable
 value: true
 ---
-By definition.
-
+Its cardinality is \(\aleph_0\) by definition.

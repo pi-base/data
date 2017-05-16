@@ -4,5 +4,4 @@ space: finite-discrete-topology
 property: finite
 value: true
 ---
-By definition.
-
+Its cardinality is \(2<\aleph_0\).
