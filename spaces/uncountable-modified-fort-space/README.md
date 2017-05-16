@@ -1,12 +1,20 @@
 ---
 uid: S000024
 slug: uncountable-modified-fort-space
-name: Uncountable Modified Fort Space
+name: Modified Fort Space on the Real Numbers
+aliases:
+  - Uncountable Modified Fort Space
+  - Modified Fort Space
+counterexamples_id: 27
+refs:
+  - doi: 10.1007\/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
+  - wikipedia: Fort_space
+    name: Fort space
 ---
-Let $Y$ be uncountable, $a,b$ points outside of $Y$ and $X = Y \cup \{a,b\}$. Let $Y$ be discrete and let a set containing $a$ or $b$ be open if and only if it contains all but a finite number of points of $Y$.
+Let \(X=\mathbb{R}\cup\{\infty_1,\infty_2\}\).
+Define $U \subset X$ to open if its complement is finite or includes
+either \(\infty_1\) or \(\infty_2\).
 
-See also:
-
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 55-56.
-* [Fort space](http://en.wikipedia.org/wiki/Fort_space) on Wikipedia.
-
+Considered as #27 ("Modified Fort Space")
+in {{doi:10.1007\/978-1-4612-6290-9_6}}.
