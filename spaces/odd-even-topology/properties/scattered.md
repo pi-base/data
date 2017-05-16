@@ -3,6 +3,11 @@ uid: T000853
 space: odd-even-topology
 property: scattered
 value: false
+refs:
+  - doi: 10.1007\/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
-Any $\{2k-1,2k\}$ is dense-in-itself.
+No points of this space are isolated.
 
+Asserted in the General Reference Chart for space #6 in
+{{doi:10.1007\/978-1-4612-6290-9_6}}.
