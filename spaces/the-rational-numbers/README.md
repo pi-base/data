@@ -1,9 +1,8 @@
 ---
 uid: S000027
 slug: the-rational-numbers
-name: Rational Numbers
+name: Rational numbers
 aliases:
-  - The Rational Numbers
   - Rationals
 counterexamples_id: 30
   refs:

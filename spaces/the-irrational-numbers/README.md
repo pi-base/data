@@ -1,9 +1,8 @@
 ---
 uid: S000028
 slug: the-irrational-numbers
-name: Irrational Numbers
+name: Irrational numbers
 aliases:
-  - The Irrational Numbers
   - Irrationals
 counterexamples_id: 31
   refs:
@@ -14,7 +13,8 @@ counterexamples_id: 31
 ---
 Let $X$ be the complement of the rational numbers in $\mathbb{R}$ with the subspace topology.
 
-This space is equivalent to the Baire space \(\omega^\omega\).
+This space is equivalent to the Baire space \(\omega^\omega\) with the
+product topology.
 
 Considered as #31 ("The Irrational Numbers")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.

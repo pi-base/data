@@ -1,11 +1,16 @@
 ---
 uid: S000039
 slug: the-extended-long-line
-name: The Extended Long Line
+name: Closed long ray
+aliases:
+  - Extended long line
+counterexamples_id: 46
+refs:
+  - doi: 10.1007\/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
-The set of ordinals less than the least uncountable ordinal $\Omega$, with copies of the unit interval $[0,1]$ placed between each ordinal $\alpha$ and its successor $\alpha+1$, with the addition of $\Omega$, paired with the order topology.
+The compactification of $\omega_1 \times [0,1)$ with the
+lexicographic order topology.
 
-See also:
-
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 71-72.
-
+Considered as #46 ("The Extended Long Line")
+in {{doi:10.1007\/978-1-4612-6290-9_6}}.

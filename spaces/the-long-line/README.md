@@ -1,12 +1,17 @@
 ---
 uid: S000038
 slug: the-long-line
-name: The Long Line
+name: Long ray
+aliases:
+  - Long line
+counterexamples_id: 45
+refs:
+  - doi: 10.1007\/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
+  - wikipedia: Long_line_(topology)
+    name: Long line on Wikipedia
 ---
 The lexicographic order topology on $\omega_1 \times [0,1)$.
 
-See also:
-
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 71-72.
-* [Long line](http://en.wikipedia.org/wiki/Long_line_(topology)) on Wikipedia.
-
+Considered as #45 ("The Long Line")
+in {{doi:10.1007\/978-1-4612-6290-9_6}}.
