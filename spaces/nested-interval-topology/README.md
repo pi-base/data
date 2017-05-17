@@ -4,7 +4,7 @@ slug: nested-interval-topology
 name: Nested interval topology
 counterexamples_id: 52
 refs:
-  - doi: 10.1007\/978-1-4612-6290-9_6
+  - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
   - wikipedia: Nested_interval_topology
     name: Nested interval topology on Wikipedia
@@ -12,7 +12,7 @@ refs:
 Let $X$ be the set $(0,1)$ and define a topology on $X$ consisting of all sets $U_n = (0,1-\frac{1}{n})$ for $0<n\leq\omega$.
 
 Defined as counterexample #52 ("Nested Interval Topology")
-in {{doi:10.1007\/978-1-4612-6290-9_6}}.
+in {{doi:10.1007/978-1-4612-6290-9}}.
 
 <!-- [[Proof of Topology]]
 1. Note that $X \in N$ by definition and $U_1=(0,1-\frac{1}{1})=(0,0)= \emptyset$ thus $\emptyset \in N$.

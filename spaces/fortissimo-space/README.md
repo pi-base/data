@@ -6,7 +6,7 @@ aliases:
   - Fortissimo Space
 counterexamples_id: 25
 refs:
-  - doi: 10.1007\/978-1-4612-6290-9_6
+  - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
   - wikipedia: Fort_space
     name: Fort space
@@ -17,7 +17,7 @@ Define $U \subset X$ to open if its complement is countable
 or includes \(\infty\).
 
 Defined as counterexample #25 ("Fortissimo Space")
-in {{doi:10.1007\/978-1-4612-6290-9_6}}.
+in {{doi:10.1007/978-1-4612-6290-9}}.
 
 <!-- [[Proof of Topology]]
 Let $\tau$ be the collection of all open sets $U \subset X$.

@@ -4,10 +4,10 @@ space: indiscrete-topology
 property: ultraconnected
 value: true
 refs:
-  - doi: 10.1007\/978-1-4612-6290-9_6
+  - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
 ---
 $X$ has no disjoint nonempty closed sets.
 
 
-See item #9 for space #4 in {{doi:10.1007\/978-1-4612-6290-9_6}}.
+See item #9 for space #4 in {{doi:10.1007/978-1-4612-6290-9}}.

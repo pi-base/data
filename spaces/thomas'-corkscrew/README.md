@@ -1,11 +1,13 @@
 ---
 uid: S000092
 slug: thomas'-corkscrew
-name: Thomas' Corkscrew
+name: Thomas corkscrew
+counterexamples_id: 94
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
 ---
-Take copies of [Thomas' plank](/brubeck/spaces/thomas-plank/) and use them to build a corkscrew as in the construction of the [Tychonoff corkscrew](/brubeck/spaces/tychonoff-corkscrew/).
+Take copies of Thomas's plank and use them to build a corkscrew as in the construction of the Tychonoff corkscrew.
 
-See also:
-
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 113-114.
-
+Defined as counterexample #94 ("Thomas' Corkscrew")
+in {{doi:10.1007/978-1-4612-6290-9}}.

@@ -1,12 +1,15 @@
 ---
 uid: S000078
 slug: tychonoff-plank
-name: Tychonoff Plank
+name: Tychonoff plank
+counterexamples_id: 86
+refs:
+  - doi: 10.1007/978-1-4612-6290-9 
+    name: Counterexamples in Topology
+  - wikipedia: Tychonoff_plank
+    name: Tychonoff plank on Wikipedia
 ---
-The Tychonoff Plank is the space $[0,\omega] \times [0,\omega_1]$ where each factor has the order topology.
+The space $[0,\omega] \times [0,\omega_1]$ where each factor has the order topology.
 
-See also:
-
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 106-107.
-* [Tychonoff plank](http://en.wikipedia.org/wiki/Tychonoff_plank) on Wikipedia.
-
+Defined as counterexample #86 ("Tychonoff Plank")
+in {{doi:10.1007/978-1-4612-6290-9}}.

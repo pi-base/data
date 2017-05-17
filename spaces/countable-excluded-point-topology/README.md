@@ -6,7 +6,7 @@ aliases:
   - Countable Excluded Point Topology
 counterexamples_id: 14
 refs:
-  - doi: 10.1007\/978-1-4612-6290-9_6
+  - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
   - wikipedia: Excluded_point_topology
     name: Excluded point topology on Wikipedia
@@ -15,7 +15,7 @@ Let $X=\omega=\{0,1,2,\dots\}$.
 A set is closed in this topology if it contains $0$ or is empty.
 
 Defined as counterexample #14 ("Countable Particular Point Topology")
-in {{doi:10.1007\/978-1-4612-6290-9_6}}.
+in {{doi:10.1007/978-1-4612-6290-9}}.
 
 <!-- [[Proof of Topology]]
 To prove the first condition, note that $X\in \tau$ by definition. Now, note that $\emptyset \subset X$ and $p\notin \emptyset$. It follows that $\emptyset \in \tau$.
