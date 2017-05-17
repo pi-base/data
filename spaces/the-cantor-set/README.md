@@ -1,9 +1,7 @@
 ---
 uid: S000026
 slug: the-cantor-set
-name: Cantor Set
-aliases:
-  - The Cantor Set
+name: Cantor set
 counterexamples_id: 29
   refs:
   - doi: 10.1007\/978-1-4612-6290-9_6
