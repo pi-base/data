@@ -14,5 +14,5 @@ refs:
 The set of all ordinal numbers strictly less than the countable
 limit ordinal $\omega+\omega$, paired with the order topology.
 
-Considered as #40 ("Open Ordinal Space \([0,\Gamma)\)")
+Defined as counterexample #40 ("Open Ordinal Space \([0,\Gamma)\)")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.

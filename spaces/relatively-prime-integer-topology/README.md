@@ -11,5 +11,5 @@ refs:
 ---
 For any $a,b \in X = \mathbb{Z}^+$, let $U_a(b) = \{b+na : n \in \mathbb{Z}\}$. Then $\{U_a(b) : a,b \in X, gcd(a,b)=1\}$ forms a basis for the relatively prime integer topology on $X$.
 
-Considered as #60 ("Relatively Prime Integer Topology")
+Defined as counterexample #60 ("Relatively Prime Integer Topology")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.

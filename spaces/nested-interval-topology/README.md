@@ -11,7 +11,7 @@ refs:
 ---
 Let $X$ be the set $(0,1)$ and define a topology on $X$ consisting of all sets $U_n = (0,1-\frac{1}{n})$ for $0<n\leq\omega$.
 
-Considered as #52 ("Nested Interval Topology")
+Defined as counterexample #52 ("Nested Interval Topology")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.
 
 <!-- [[Proof of Topology]]

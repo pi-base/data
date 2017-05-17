@@ -12,5 +12,5 @@ refs:
 Let $X=\mathbb R\setminus\mathbb Z$, and
 take as a basis $\{(n,n+1)\,|\,n \in \mathbb{Z}\}$.
 
-Considered as #7 ("Deleted Integer Topology")
+Defined as counterexample #7 ("Deleted Integer Topology")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.

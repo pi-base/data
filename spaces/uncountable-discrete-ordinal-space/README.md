@@ -8,5 +8,5 @@ $\{\alpha+1\ |\ \alpha < \omega_1$ is a limit ordinal$\}$, paired with the order
 
 
 
-Considered as #44 ("Uncountable Discrete Ordinal Space")
+Defined as counterexample #44 ("Uncountable Discrete Ordinal Space")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}. Homeomorphic to {{pibase:S000003}}.

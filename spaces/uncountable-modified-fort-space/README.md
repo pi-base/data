@@ -16,5 +16,5 @@ Let \(X=\mathbb{R}\cup\{\infty_1,\infty_2\}\).
 Define $U \subset X$ to open if its complement is finite or includes
 either \(\infty_1\) or \(\infty_2\).
 
-Considered as #27 ("Modified Fort Space")
+Defined as counterexample #27 ("Modified Fort Space")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.

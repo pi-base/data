@@ -12,5 +12,5 @@ refs:
 The compactification of $\omega_1 \times [0,1)$ with the
 lexicographic order topology.
 
-Considered as #46 ("The Extended Long Line")
+Defined as counterexample #46 ("The Extended Long Line")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.

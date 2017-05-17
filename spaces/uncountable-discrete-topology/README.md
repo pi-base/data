@@ -14,5 +14,5 @@ refs:
 Let $X=\mathbb R$ be the set of all real numbers,
 and let all subsets of $X$ be open.
 
-Considered as #3 ("Uncountable Discrete Topology")
+Defined as counterexample #3 ("Uncountable Discrete Topology")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.

@@ -1,7 +1,7 @@
 ---
 uid: S000017
 slug: countable-complement-topology
-name: Countable Complement Topology on the Real Numbers
+name: Countable complement topology on the real numbers
 aliases:
   - Countable Complement Topology
   - Cocountable Topology
@@ -14,7 +14,7 @@ refs:
 ---
 Let $X=\mathbb R$ be the set of real numbers.  Define the open sets on $X$ by a letting a set $U \subset X$ be open iff its complement is countable.  Taking the collection of all such sets, $U$, together with both the $\emptyset$ and $X$ yields a topology on $X$.
 
-Considered as #20 ("Countable Complement Topology")
+Defined as counterexample #20 ("Countable Complement Topology")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.
 
 <!-- [[Proof of Topology]]

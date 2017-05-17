@@ -13,5 +13,5 @@ refs:
 ---
 Let $X$ be the set $\mathbb{R}$ with a basis consisting of all intervals of the form $[a,b)$ for $a,b \in X$.
 
-Considered as #51 ("Right Half-Open Interval Topology")
+Defined as counterexample #51 ("Right Half-Open Interval Topology")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.

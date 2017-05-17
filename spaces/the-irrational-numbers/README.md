@@ -16,7 +16,7 @@ Let $X$ be the complement of the rational numbers in $\mathbb{R}$ with the subsp
 This space is equivalent to the Baire space \(\omega^\omega\) with the
 product topology.
 
-Considered as #31 ("The Irrational Numbers")
+Defined as counterexample #31 ("The Irrational Numbers")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.
 
 <!-- [[Proof of Topology]]

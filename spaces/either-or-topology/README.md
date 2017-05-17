@@ -11,7 +11,7 @@ refs:
 ---
 Let $X = [-1,1]$ as a set and declare $U \subset X$ open if and only if $0 \not\in U$ or $(-1,1) \subset U$.
 
-Considered as #14 ("Either-Or Topology")
+Defined as counterexample #14 ("Either-Or Topology")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.
 
 <!-- [[Proof of Topology]]

@@ -14,5 +14,5 @@ refs:
 Let $X=\omega=\{0,1,2,\dots\}$.
 A set is open in this topology if it contains $0$ or is empty.
 
-Considered as #9 ("Countable Particular Point Topology")
+Defined as counterexample #9 ("Countable Particular Point Topology")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.
