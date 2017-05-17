@@ -1,11 +1,15 @@
 ---
 uid: S000075
 slug: metrizable-tangent-disc-topology
-name: Metrizable Tangent Disc Topology
+name: Rational tangent disc topology
+aliases:
+  - Metrizable tangent disc topology
+counterexamples_id: 83
+refs:
+  - doi: 10.1007\/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
-Let $X$ consist of the open upper half plane along with a countable number of points on the $x$-axis. Let points in the upper half plane have their usual neighborhoods and let neighborhoods of points $s$ on the $x$-axis consist of discs in the upper half plane tangent to the $x$-axis at the point $s$.
+Let $X$ consist of the open upper half plane along with the rational points on the $x$-axis. Let points in the upper half plane have their usual neighborhoods and let neighborhoods of rational points $s$ on the $x$-axis consist of discs in the upper half plane tangent to the $x$-axis at the point $s$.
 
-See also:
-
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, p 103.
-
+Defined as counterexample #83 ("Metrizable Tangent Disc Topology")
+in {{doi:10.1007\/978-1-4612-6290-9_6}}.

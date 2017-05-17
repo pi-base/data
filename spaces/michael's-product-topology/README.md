@@ -1,11 +1,13 @@
 ---
 uid: S000077
 slug: michael's-product-topology
-name: Michael's Product Topology
+name: Michael's product topology
+counterexamples_id: 85
+refs:
+  - doi: 10.1007\/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 Let $P$ be the set of irrationals in $\mathbb{R}$. Michael's Product topology is the product space $X = \mathbb{R} \times P$ where $\mathbb{R}$ has the discrete irrational extension topology (each irrational is isolated) and $P$ has the subspace topology.
 
-See also:
-
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, p 105.
-
+Defined as counterexample #85 ("Michael's Product Topology")
+in {{doi:10.1007\/978-1-4612-6290-9_6}}.
