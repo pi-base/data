@@ -1,7 +1,10 @@
 ---
 uid: S000030
 slug: hilbert-space
-name: Hilbert Space
+name: Hilbert space
+aliases:
+  - Frechet space
+  - Fréchet space
 counterexamples_id: 36
 refs:
   - doi: 10.1007\/978-1-4612-6290-9_6
@@ -15,3 +18,4 @@ This space is homeomorphic to $\mathbb{R}^\omega$ with the product topology.
 
 Considered as #36 ("Hilbert Space")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.
+It is homeomorphic to space #37 ("Fréchet Space").

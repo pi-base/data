@@ -1,12 +1,15 @@
 ---
 uid: S000032
 slug: hilbert-cube
-name: Hilbert Cube
+name: Hilbert cube
+counterexamples_id: 38
+refs:
+  - doi: 10.1007\/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
+  - wikipedia: Hilbert_cube
+    name: Hilbert cube on Wikipedia
 ---
-$X = I^\omega$ with the product topology.
+$X = [0,1]^\omega$ with the product topology.
 
-See also:
-
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, p 65.
-* [Hilbert Cube](http://en.wikipedia.org/wiki/Hilbert_cube) on Wikipedia.
-
+Considered as #38 ("Hilbert Cube")
+in {{doi:10.1007\/978-1-4612-6290-9_6}}.

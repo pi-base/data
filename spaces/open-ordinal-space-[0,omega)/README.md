@@ -1,11 +1,17 @@
 ---
 uid: S000035
 slug: open-ordinal-space-[0,omega)
-name: Open Ordinal Space $[0,\Omega)$
+name: First uncountable ordinal
+aliases:
+  - Omega1
+  - ω_1
+  - Open uncountable ordinal space
+counterexamples_id: 42
+refs:
+  - doi: 10.1007\/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
-The set of all ordinal numbers strictly less than the least uncountable ordinal limit ordinal $\Omega$, paired with the order topology.
+The set of all ordinal numbers strictly less than the least uncountable ordinal limit ordinal $\omega_1$, paired with the order topology.
 
-See also:
-
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 68-70.
-
+Considered as #42 ("Open Ordinal Space $[0,\Omega)$")
+in {{doi:10.1007\/978-1-4612-6290-9_6}}.
