@@ -12,5 +12,5 @@ refs:
 The space $\mathbb{R}$ of real numbers with a basis of sets of the form
 $B_y=\{x|x>y\}$
 
-Considered as #50 ("Right Order Topology on \(\mathbb R\)")
+Defined as counterexample #50 ("Right Order Topology on \(\mathbb R\)")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.

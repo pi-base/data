@@ -11,5 +11,5 @@ refs:
 ---
 Let $X = \{x \mathbb{R} : x > 0, x \notin \mathbb{Z}\}$. Let $S_n = (0,\frac{1}{n}) \cup (n,n+1)$ for $n \geq 1$. Define a topology on $X$ by taking $\{S_n\}$ as a subbasis. Note that a basis for the topology is the sets $S_n$ together with sets of the form $(0,\frac{1}{n})$.
 
-Considered as #54 ("Interlocking Interval Topology")
+Defined as counterexample #54 ("Interlocking Interval Topology")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.

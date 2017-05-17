@@ -14,7 +14,7 @@ refs:
 Let $X=\omega=\{0,1,2,\dots\}$ be the space containing countably-many
 points and let all subsets of $X$ be open.
 
-Considered as #2 ("Countable Discrete Topology")
+Defined as counterexample #2 ("Countable Discrete Topology")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.
 
 <!-- [[Proof of Topology]]

@@ -16,7 +16,7 @@ $U \subset X$ to be open if and only if $X \setminus U$ is finite or
 $U = \emptyset$. In this case we let \(X=\mathbb R\) so it has cardinality
 \(\mathfrak c\).
 
-Considered as #19 ("Finite Complement Topology on an Uncountable Space")
+Defined as counterexample #19 ("Finite Complement Topology on an Uncountable Space")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.
 
 <!-- [[Proof of Topology]]

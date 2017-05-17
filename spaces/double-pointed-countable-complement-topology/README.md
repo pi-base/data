@@ -12,5 +12,5 @@ refs:
 
 $X$ is the product of {{pibase:S000017}} with {{pibase:S000004}}.
 
-Considered as #21 ("Double Pointed Countable Complement Topology")
+Defined as counterexample #21 ("Double Pointed Countable Complement Topology")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.

@@ -14,5 +14,5 @@ refs:
 Let $X=3=\{0,1,2\}$ be any finite set and fix a particular point $0$ of $X$.
 A set is open in this topology if it contains $0$ or is empty.
 
-Considered as #8 ("Finite Particular Point Topology")
+Defined as counterexample #8 ("Finite Particular Point Topology")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.

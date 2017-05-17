@@ -15,7 +15,7 @@ The finite complement topology on a space $X$ is defined by taking
 $U \subset X$ to be open if and only if $X \setminus U$ is finite or
 $U = \emptyset$. In this case we let \(X=\omega=\{0,1,2,\dots\}\).
 
-Considered as #18 ("Finite Complement Topology on a Countable Space")
+Defined as counterexample #18 ("Finite Complement Topology on a Countable Space")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.
 
 <!-- [[Proof of Topology]]

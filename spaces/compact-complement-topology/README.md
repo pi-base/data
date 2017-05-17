@@ -15,7 +15,7 @@ Define a topology $\tau$ on $\mathbb{R}$ by letting $U \subset \mathbb{R}$ be op
 
 Note that this topology is coarser than the Euclidean topology on $\mathbb{R}$.
 
-Considered as #22 ("Compact Complement Topology")
+Defined as counterexample #22 ("Compact Complement Topology")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.
 
 <!-- [[Proof of Topology]]

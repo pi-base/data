@@ -14,7 +14,7 @@ refs:
 Let \(X=\omega\cup\{\infty\}=\{0,1,2\dots\}\cup\{\infty\}\).
 Define $U \subset X$ to open if its complement is finite or includes \(\infty\).
 
-Considered as #23 ("Countable Fort Space")
+Defined as counterexample #23 ("Countable Fort Space")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.
 
 <!-- [[Proof of Topology]]

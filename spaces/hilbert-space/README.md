@@ -16,6 +16,6 @@ Let $X$ be the set of all sequences $x = \langle x_i \rangle$ of real numbers su
 
 This space is homeomorphic to $\mathbb{R}^\omega$ with the product topology.
 
-Considered as #36 ("Hilbert Space")
+Defined as counterexample #36 ("Hilbert Space")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.
 It is homeomorphic to space #37 ("Fréchet Space").

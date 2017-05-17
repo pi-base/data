@@ -14,5 +14,5 @@ refs:
 Let $X=2=\{0,1\}$ be the space containing two points and
 let all subsets of $X$ be open.
 
-Considered as #1 ("Finite Discrete Topology")
+Defined as counterexample #1 ("Finite Discrete Topology")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.

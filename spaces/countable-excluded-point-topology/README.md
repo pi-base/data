@@ -14,7 +14,7 @@ refs:
 Let $X=\omega=\{0,1,2,\dots\}$.
 A set is closed in this topology if it contains $0$ or is empty.
 
-Considered as #14 ("Countable Particular Point Topology")
+Defined as counterexample #14 ("Countable Particular Point Topology")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.
 
 <!-- [[Proof of Topology]]

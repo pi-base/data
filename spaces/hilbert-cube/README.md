@@ -11,5 +11,5 @@ refs:
 ---
 $X = [0,1]^\omega$ with the product topology.
 
-Considered as #38 ("Hilbert Cube")
+Defined as counterexample #38 ("Hilbert Cube")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.

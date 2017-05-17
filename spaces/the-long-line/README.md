@@ -13,5 +13,5 @@ refs:
 ---
 The lexicographic order topology on $\omega_1 \times [0,1)$.
 
-Considered as #45 ("The Long Line")
+Defined as counterexample #45 ("The Long Line")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.

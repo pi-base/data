@@ -14,7 +14,7 @@ Let $X$ be the set of all positive integers and define a topology on a by declar
 This space is a topological sum of countably-many copies of the Sierpinski
 space.
 
-Considered as #55 ("Hjalmar Ekdal Topology")
+Defined as counterexample #55 ("Hjalmar Ekdal Topology")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.
 
 

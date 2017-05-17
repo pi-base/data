@@ -9,5 +9,5 @@ refs:
 ---
 Let $X = \mathbb{Q} \cup \{\infty\}$ and $U \subset X$ be open if and only if $U \subset \mathbb{Q}$ is open or $X \setminus U$ is compact in $\mathbb{Q}$.
 
-Considered as #35 ("One Point Compactification of the Rationals")
+Defined as counterexample #35 ("One Point Compactification of the Rationals")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.

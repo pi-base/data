@@ -14,5 +14,5 @@ counterexamples_id: 30
 Let $X = \mathbb{Q} = \{\frac{a}{b} : a,b \in \mathbb{Z}\}$
 with the subspace topology induced from the Euclidean real line.
 
-Considered as #30 ("The Rational Numbers")
+Defined as counterexample #30 ("The Rational Numbers")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.

@@ -16,5 +16,5 @@ $U_\beta(p) =
 for $1\leq\beta<\Omega$.
 (The set $U_\beta (p)$ is a righthand ray less the ordinal points.)
 
-Considered as #47 ("An Altered Long Line")
+Defined as counterexample #47 ("An Altered Long Line")
 in {{doi:10.1007\/978-1-4612-6290-9_6}}.
