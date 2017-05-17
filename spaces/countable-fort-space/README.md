@@ -6,7 +6,7 @@ aliases:
   - Countable Fort Space
 counterexamples_id: 23
 refs:
-  - doi: 10.1007\/978-1-4612-6290-9_6
+  - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
   - wikipedia: Fort_space
     name: Fort space
@@ -15,7 +15,7 @@ Let \(X=\omega\cup\{\infty\}=\{0,1,2\dots\}\cup\{\infty\}\).
 Define $U \subset X$ to open if its complement is finite or includes \(\infty\).
 
 Defined as counterexample #23 ("Countable Fort Space")
-in {{doi:10.1007\/978-1-4612-6290-9_6}}.
+in {{doi:10.1007/978-1-4612-6290-9}}.
 
 <!-- [[Proof of Topology]]
 Let $\tau$ be the collection of all open sets $U \subset X$.

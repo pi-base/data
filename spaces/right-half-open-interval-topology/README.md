@@ -6,7 +6,7 @@ aliases:
   - Right half-open interval topology
 counterexamples_id: 51
 refs:
-  - doi: 10.1007\/978-1-4612-6290-9_6
+  - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
   - wikipedia: Lower_limit_topology
     name: Lower limit topology on Wikipedia
@@ -14,4 +14,4 @@ refs:
 Let $X$ be the set $\mathbb{R}$ with a basis consisting of all intervals of the form $[a,b)$ for $a,b \in X$.
 
 Defined as counterexample #51 ("Right Half-Open Interval Topology")
-in {{doi:10.1007\/978-1-4612-6290-9_6}}.
+in {{doi:10.1007/978-1-4612-6290-9}}.

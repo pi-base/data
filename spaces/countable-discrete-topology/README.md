@@ -6,7 +6,7 @@ aliases:
   - Countable Discrete Topology
 counterexamples_id: 2
 refs:
-  - doi: 10.1007\/978-1-4612-6290-9_6
+  - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
   - wikipedia: Discrete_space
     name: Discrete Space on Wikipedia
@@ -15,7 +15,7 @@ Let $X=\omega=\{0,1,2,\dots\}$ be the space containing countably-many
 points and let all subsets of $X$ be open.
 
 Defined as counterexample #2 ("Countable Discrete Topology")
-in {{doi:10.1007\/978-1-4612-6290-9_6}}.
+in {{doi:10.1007/978-1-4612-6290-9}}.
 
 <!-- [[Proof of Topology]]
 1) $U=\emptyset$ is open by definition. Let $U = X$ is open by definition.

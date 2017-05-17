@@ -7,7 +7,7 @@ aliases:
   - Excluded Point Topology on a Two-Point Set
 counterexamples_id: 11
 refs:
-  - doi: 10.1007\/978-1-4612-6290-9_6
+  - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
   - wikipedia: Sierpinski_space
     name: Sierpinski space on Wikipedia
@@ -17,7 +17,7 @@ This space may be characterized with the particular point (0) topology on a
 two-point set, or the excluded point (1) topology on a two-point set.
 
 Defined as counterexample #11 ("Sierpinski Space")
-in {{doi:10.1007\/978-1-4612-6290-9_6}}.
+in {{doi:10.1007/978-1-4612-6290-9}}.
 
 <!-- [[Proof of Topology]]
 The open sets $\emptyset$ and $X$ are included explicitly.

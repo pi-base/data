@@ -6,7 +6,7 @@ aliases:
   - Compact Complement Topology
 counterexamples_id: 22
 refs:
-  - doi: 10.1007\/978-1-4612-6290-9_6
+  - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
   - wikipedia: Compact_complement_topology
     name: Compact complement topology
@@ -16,7 +16,7 @@ Define a topology $\tau$ on $\mathbb{R}$ by letting $U \subset \mathbb{R}$ be op
 Note that this topology is coarser than the Euclidean topology on $\mathbb{R}$.
 
 Defined as counterexample #22 ("Compact Complement Topology")
-in {{doi:10.1007\/978-1-4612-6290-9_6}}.
+in {{doi:10.1007/978-1-4612-6290-9}}.
 
 <!-- [[Proof of Topology]]
 1) $U = \emptyset$ is open by definition. Now, allow $U = \mathbb{R}$. This implies $\mathbb{R} / \mathbb{R} = \emptyset$.

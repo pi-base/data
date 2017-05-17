@@ -7,7 +7,7 @@ aliases:
   - Cocountable Topology
 counterexamples_id: 20
 refs:
-  - doi: 10.1007\/978-1-4612-6290-9_6
+  - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
   - wikipedia: Cocountable_topology
     name: Cocountable topology on Wikipedia
@@ -15,7 +15,7 @@ refs:
 Let $X=\mathbb R$ be the set of real numbers.  Define the open sets on $X$ by a letting a set $U \subset X$ be open iff its complement is countable.  Taking the collection of all such sets, $U$, together with both the $\emptyset$ and $X$ yields a topology on $X$.
 
 Defined as counterexample #20 ("Countable Complement Topology")
-in {{doi:10.1007\/978-1-4612-6290-9_6}}.
+in {{doi:10.1007/978-1-4612-6290-9}}.
 
 <!-- [[Proof of Topology]]
 Let $\tau = \{$Any countable set$\}$. And let $X$ be an uncountable space.

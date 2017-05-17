@@ -1,11 +1,13 @@
 ---
 uid: S000089
 slug: deleted-tychonoff-corkscrew
-name: Deleted Tychonoff Corkscrew
+name: Deleted Tychonoff corkscrew
+counterexamples_id: 91
+refs:
+  - doi: 10.1007/978-1-4612-6290-9 
+    name: Counterexamples in Topology
 ---
-Let $X$ denote the [Tychonoff Corkscrew](/brubeck/spaces/tychonoff-corkscrew/). The Deleted Tychonoff Corkscrew is the subspace $Y = X \setminus \{a^-\} \subset X$.
+The subspace $Y = X \setminus \{a^-\}$ of the Tychonoff corkscrew.
 
-See also:
-
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 109-111.
-
+Defined as counterexample #91 ("Deleted Tychonoff Corkscrew")
+in {{doi:10.1007/978-1-4612-6290-9}}.

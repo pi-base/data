@@ -4,7 +4,7 @@ slug: hjalmar-ekdal-topology
 name: Hjalmar Ekdal Topology
 counterexamples_id: 55
 refs:
-  - doi: 10.1007\/978-1-4612-6290-9_6
+  - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
   - wikipedia: Hjalmar_Ekdal_topology
     name: Hjalmar Ekdal topology on Wikipedia
@@ -15,7 +15,7 @@ This space is a topological sum of countably-many copies of the Sierpinski
 space.
 
 Defined as counterexample #55 ("Hjalmar Ekdal Topology")
-in {{doi:10.1007\/978-1-4612-6290-9_6}}.
+in {{doi:10.1007/978-1-4612-6290-9}}.
 
 
 

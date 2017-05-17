@@ -6,7 +6,7 @@ aliases:
   - Irrationals
 counterexamples_id: 31
   refs:
-  - doi: 10.1007\/978-1-4612-6290-9_6
+  - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
   - wikipedia: Irrational_number
     name: Irrational number on Wikipedia
@@ -17,7 +17,7 @@ This space is equivalent to the Baire space \(\omega^\omega\) with the
 product topology.
 
 Defined as counterexample #31 ("The Irrational Numbers")
-in {{doi:10.1007\/978-1-4612-6290-9_6}}.
+in {{doi:10.1007/978-1-4612-6290-9}}.
 
 <!-- [[Proof of Topology]]
 In order to confirm the topology on the irrational numbers we simply must verify it is a subspace.  Let $\mathbb{I}$ be the set of irrational numbers.  Let $\tau$ denote the topology on $\mathbb{R}$.  

@@ -4,7 +4,7 @@ slug: either-or-topology
 name: Either-Or Topology
 counterexamples_id: 17
 refs:
-- doi: 10.1007\/978-1-4612-6290-9_6
+- doi: 10.1007/978-1-4612-6290-9 
   name: Counterexamples in Topology
 - wikipedia: Either-or_topology
   name: Either-or topology on Wikipedia
@@ -12,7 +12,7 @@ refs:
 Let $X = [-1,1]$ as a set and declare $U \subset X$ open if and only if $0 \not\in U$ or $(-1,1) \subset U$.
 
 Defined as counterexample #14 ("Either-Or Topology")
-in {{doi:10.1007\/978-1-4612-6290-9_6}}.
+in {{doi:10.1007/978-1-4612-6290-9}}.
 
 <!-- [[Proof of Topology]]
 Let $\tau$ be the collection of all open sets $U \subset X$.
