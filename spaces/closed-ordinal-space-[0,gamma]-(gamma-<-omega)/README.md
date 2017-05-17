@@ -1,11 +1,18 @@
 ---
 uid: S000034
 slug: closed-ordinal-space-[0,gamma]-(gamma-<-omega)
-name: Closed Ordinal Space $[0,\Gamma]$ $(\Gamma < \Omega)$
+name: Successor to the second limit ordinal
+aliases:
+  - Omega + omega + 1
+  - ω + ω + 1
+  - Closed countable ordinal space
+counterexamples_id: 41
+refs:
+  - doi: 10.1007\/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
-The set of all ordinal numbers less than or equal to a countable limit ordinal $\Gamma$, paired with the order topology.
+The set of all ordinal numbers less than or equal to the countable
+limit ordinal $\omega+\omega$, paired with the order topology.
 
-See also:
-
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 68-70.
-
+Considered as #41 ("Closed Ordinal Space $[0,\Gamma)$")
+in {{doi:10.1007\/978-1-4612-6290-9_6}}.
