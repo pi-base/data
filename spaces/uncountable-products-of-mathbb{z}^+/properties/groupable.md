@@ -4,5 +4,5 @@ space: uncountable-products-of-mathbb{z}^+
 property: groupable
 value: true
 ---
-Since $\mathbb Z^+$ carries a topological group structure the same holds for arbitrary products.
-
+Since the discrete space $\omega$ carries a topological group structure,
+the same holds for arbitrary products.

@@ -2,5 +2,10 @@
 uid: T015200
 space: uncountable-products-of-mathbb{z}^+
 property: separable
-value: false
+value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
 ---
+See item #3 for space #103
+in {{doi:10.1007\/978-1-4612-6290-9_6}}.

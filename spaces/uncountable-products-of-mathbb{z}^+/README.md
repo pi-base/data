@@ -1,11 +1,15 @@
 ---
 uid: S000101
 slug: uncountable-products-of-mathbb{z}^+
-name: Uncountable Products of $\mathbb{Z}^+$
+name: Continuum power of a countable discrete space
+aliases:
+  - Uncountable products of Z+
+counterexamples_id: 103
+refs:
+- doi: 10.1007/978-1-4612-6290-9
+  name: Counterexamples in Topology
 ---
-The product topology on $(\mathbb{Z}^+)^\kappa$ where $\kappa$ is an uncountable cardinal. For definiteness, take $\kappa > 2^\mathfrak{c}$.
+The product topology on \(\omega^{\mathfrak c}\).
 
-See also:
-
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 123-124.
-
+Defined as counterexample #103 ("Uncountable Products of \(\mathbb{Z}^+\)")
+in {{doi:10.1007/978-1-4612-6290-9}}.
