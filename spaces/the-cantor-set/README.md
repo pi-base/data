@@ -3,11 +3,11 @@ uid: S000026
 slug: the-cantor-set
 name: Cantor set
 counterexamples_id: 29
-  refs:
-  - doi: 10.1007/978-1-4612-6290-9 
-    name: Counterexamples in Topology
-  - wikipedia: Cantor_set
-    name: Cantor set on Wikipedia
+refs:
+- doi: 10.1007/978-1-4612-6290-9 
+  name: Counterexamples in Topology
+- wikipedia: Cantor_set
+  name: Cantor set on Wikipedia
 ---
 $X = 2^\omega$ with the product topology.
 
