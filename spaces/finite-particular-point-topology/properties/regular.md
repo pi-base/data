@@ -3,8 +3,9 @@ uid: T022299
 space: finite-particular-point-topology
 property: regular
 value: false
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
-[[Proof]]
 
-* [T022299] [Regular|P000011]
-
+See item #4 for space #8 in {{doi:10.1007/978-1-4612-6290-9_6}}.
