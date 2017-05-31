@@ -5,11 +5,11 @@ name: Irrational numbers
 aliases:
   - Irrationals
 counterexamples_id: 31
-  refs:
-  - doi: 10.1007/978-1-4612-6290-9 
-    name: Counterexamples in Topology
-  - wikipedia: Irrational_number
-    name: Irrational number on Wikipedia
+refs:
+- doi: 10.1007/978-1-4612-6290-9 
+  name: Counterexamples in Topology
+- wikipedia: Irrational_number
+  name: Irrational number on Wikipedia
 ---
 Let $X$ be the complement of the rational numbers in $\mathbb{R}$ with the subspace topology.
 
