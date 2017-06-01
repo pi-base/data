@@ -3,6 +3,10 @@ uid: T000868
 space: countable-particular-point-topology
 property: countably-metacompact
 value: false
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 The collection of all sets of the form $\{x, p\}$ is a countable open cover with no point-finite open refinement which covers $X$.
 
+See item #19 for space #9 in {{doi:10.1007/978-1-4612-6290-9_6}}.

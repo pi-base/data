@@ -3,6 +3,10 @@ uid: T000074
 space: countable-particular-point-topology
 property: second-category
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 If $X$ were first category, then some nowhere dense set would have to contain $p$, and its closure would then be $X$. (Contradiction).
 
+See item #14 for space #9 in {{doi:10.1007/978-1-4612-6290-9_6}}.
