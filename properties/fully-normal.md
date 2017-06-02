@@ -7,3 +7,4 @@ A cover $\{V_{\beta}\}$ of $X$ is a star refinement of another cover $\{U_{\alph
 
 A space is fully normal if every open cover has an open star refinement.
 
+(Note that some authors swap the definitions of fully normal and fully \(T_4\).)
