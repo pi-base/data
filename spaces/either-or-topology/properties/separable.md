@@ -3,6 +3,10 @@ uid: T000569
 space: either-or-topology
 property: separable
 value: false
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 Let $D$ be any countable subset of $(X,\tau)$. Since $D$ is countable, it misses uncountably-many elements of $X$. Choose a nonzero $x \notin D$. The set $\{x\}$ is open in $\tau$ and misses $D$, so $D$ is not dense.
 
+See item #3 for space #17 in {{doi:10.1007/978-1-4612-6290-9_6}}.
