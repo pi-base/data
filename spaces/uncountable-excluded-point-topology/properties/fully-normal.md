@@ -3,6 +3,11 @@ uid: T000882
 space: uncountable-excluded-point-topology
 property: fully-normal
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 Since the only open set containing the excluded point $p$ is $X$ any open cover must contain the set $X$. Thus $X$ is trivially fully normal.
 
+Asserted in the General Reference Chart for space #15 in
+{{doi:10.1007/978-1-4612-6290-9_6}}.
