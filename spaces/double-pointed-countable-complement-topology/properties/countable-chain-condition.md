@@ -3,6 +3,10 @@ uid: T000926
 space: double-pointed-countable-complement-topology
 property: countable-chain-condition
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 Any open set contains all but countably many points of the space, and thus there can only be countably many pairwise disjoint open sets.
 
+See item #3 for space #21 in {{doi:10.1007/978-1-4612-6290-9_6}}.
