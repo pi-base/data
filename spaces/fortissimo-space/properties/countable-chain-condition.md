@@ -9,5 +9,5 @@ refs:
 ---
 $\{\{x\}\ |\ x \neq p\}$ is an uncountable antichain.
 
-Asserted in the General Reference Chart for space #24 in
+Asserted in the General Reference Chart for space #25 in
 {{doi:10.1007/978-1-4612-6290-9_6}}.
