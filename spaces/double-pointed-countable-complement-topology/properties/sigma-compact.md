@@ -3,6 +3,10 @@ uid: T000933
 space: double-pointed-countable-complement-topology
 property: sigma-compact
 value: false
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 The only compact subsets of $X$ are finite but $X$ is uncountable.
 
+See item #2 for space #21 in {{doi:10.1007/978-1-4612-6290-9_6}}.
