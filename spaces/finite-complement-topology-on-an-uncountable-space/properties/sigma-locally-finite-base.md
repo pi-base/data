@@ -3,6 +3,11 @@ uid: T000969
 space: finite-complement-topology-on-an-uncountable-space
 property: sigma-locally-finite-base
 value: false
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 Any locally finite collection of open sets must be finite, so if $X$ had a $\sigma$-locally finite base, it would be second countable.
 
+Asserted in the General Reference Chart for space #19 in
+{{doi:10.1007/978-1-4612-6290-9_6}}.
