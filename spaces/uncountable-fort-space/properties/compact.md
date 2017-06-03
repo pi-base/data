@@ -3,6 +3,10 @@ uid: T000610
 space: uncountable-fort-space
 property: compact
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 If $\mathcal{U}$ is an open cover of $X$, then there is a $U \in \mathcal{U}$ containing $p$. It follows that $X \setminus U$ is finite, so by picking finitely many more sets from $\mathcal{U}$ we can obtain a finite subcover.
 
+See item #4 for space #24 in {{doi:10.1007/978-1-4612-6290-9_6}}.
