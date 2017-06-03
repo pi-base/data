@@ -3,8 +3,12 @@ uid: T000600
 space: countable-fort-space
 property: compact
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 Let $\mathcal{A}$ be an open cover of $X$. There must exist some set $A_p \in \mathcal{A}$ where $p \in A_p$. Thus, $X \setminus A_p$ is finite. Let $X \setminus A_p = \{x_1, x_2, \dots, x_n\}$.
 
 For each $i$, pick $A_i \in \mathcal{A}$ (not necessarily distinct) with $x_i \in A_i$. The collection $\{A_p,A_1,\dots,A_n\}$ is a finite subcover.
 
+See item #4 for space #23 in {{doi:10.1007/978-1-4612-6290-9_6}}.
