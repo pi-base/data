@@ -3,6 +3,11 @@ uid: T000996
 space: hilbert-space
 property: locally-arc-connected
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 If $(a_i),(b_i) \in U \subset \mathbb{R}^\omega$ for a basic open set $U$ then $f: t \mapsto \big(a_i + t(b_i - a_i)\big)$ is an arc in $U$ from $(a_i)$ to $(b_i)$.
 
+Asserted in the General Reference Chart for space #36 in
+{{doi:10.1007/978-1-4612-6290-9_6}}.
