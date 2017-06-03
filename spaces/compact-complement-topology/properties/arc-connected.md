@@ -3,6 +3,11 @@ uid: T000930
 space: compact-complement-topology
 property: arc-connected
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 Note that any open $U \subset X$ is also open when considered as a subset of $\mathbb{R}$. Thus the identity map $\mathbb{R} \rightarrow X$ is continuous and $X$ is arc connected because $\mathbb{R}$ is.
 
+Asserted in the General Reference Chart for space #22 in
+{{doi:10.1007/978-1-4612-6290-9_6}}.
