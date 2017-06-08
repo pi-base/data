@@ -3,6 +3,11 @@ uid: T001003
 space: the-long-line
 property: strongly-locally-compact
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 Every point has an open neighborhood $(a,b)$ with closure $[a,b]$ homeomorphic to the interval $[0,1] \subset \mathbb{R}$.
 
+Asserted in the General Reference Chart for space #45 in
+{{doi:10.1007/978-1-4612-6290-9_6}}.
