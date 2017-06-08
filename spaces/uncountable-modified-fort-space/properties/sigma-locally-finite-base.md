@@ -3,6 +3,11 @@ uid: T001357
 space: uncountable-modified-fort-space
 property: sigma-locally-finite-base
 value: false
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 Let $\mathcal{B}$ be a base, which we regard as the countable union of families $B_n$. Each singleton of $Y$ is open, and so must appear among the $B_n$. Since $Y$ is uncountable, some $B_k$ contains infinitely-many singletons. Now, any open set containing the point $a$ misses only finitely-many points, so its intersection with $B_k$ is infinite. Therefore, $\mathcal{B}$ is not $\sigma$-locally finite.
 
+Asserted in the General Reference Chart for space #27 in
+{{doi:10.1007/978-1-4612-6290-9_6}}.
