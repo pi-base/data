@@ -3,4 +3,8 @@ uid: T000739
 space: an-altered-long-line
 property: connected
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
+See item #2 for space #47 in {{doi:10.1007/978-1-4612-6290-9_6}}.
