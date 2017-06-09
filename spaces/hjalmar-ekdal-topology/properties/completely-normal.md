@@ -3,6 +3,10 @@ uid: T000122
 space: hjalmar-ekdal-topology
 property: completely-normal
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 $X$ is a countable sum of the Sierpinski space and thus is completely normal since the Sierpinski space is.
 
+See item #2 for space #55 in {{doi:10.1007/978-1-4612-6290-9_6}}.
