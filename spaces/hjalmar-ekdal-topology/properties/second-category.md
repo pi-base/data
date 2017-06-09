@@ -3,6 +3,11 @@ uid: T000129
 space: hjalmar-ekdal-topology
 property: second-category
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 If $2n \in S \subset X$, $\{2n-1,2n\} \subset cl(S)$ so $S$ is not nowhere dense. Thus $X$ is not a countable union of nowhere dense sets.
 
+Asserted in the General Reference Chart for space #55 in
+{{doi:10.1007/978-1-4612-6290-9_6}}.
