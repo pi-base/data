@@ -3,6 +3,10 @@ uid: T000170
 space: discrete-rational-extension-of-mathbb{r}
 property: metrizable
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 Since $D$, the rationals, are countable, $(X, \tau^{*})$ is second countable since $\tau$ has a countable basis. Thus since $X$ is regular, it is metrizable.
 
+See item #3 for space #70 in {{doi:10.1007/978-1-4612-6290-9_6}}.
