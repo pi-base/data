@@ -3,8 +3,11 @@ uid: T015316
 space: countable-complement-extension-topology
 property: lindelof
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
-$X$ is Lindelöf: let $\left\{U_i, i \in I\right\}$ be a basic open cover of $X$. There are two cases: 
+$X$ is Lindelöf: let $\left\{U_i, i \in I\right\}$ be a basic open cover of $X$. There are two cases:
 
 1: One of the $U_i$ has countable complement, then we only need countably many extra $U_j$ to cover all of $X$, and so we find a countable subcover, or
 
@@ -12,3 +15,4 @@ $X$ is Lindelöf: let $\left\{U_i, i \in I\right\}$ be a basic open cover of $X$
 
 So the countable complement extension topology is Lindelöf.
 
+See item #7 for space #63 in {{doi:10.1007/978-1-4612-6290-9_6}}.
