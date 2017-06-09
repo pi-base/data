@@ -3,6 +3,10 @@ uid: T000098
 space: right-half-open-interval-topology
 property: extremally-disconnected
 value: false
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 The closure of the open set $\cup_{n \in \omega} [\frac{1}{2n},\frac{1}{2n-1})$ is not open.
 
+See item #7 for space #51 in {{doi:10.1007/978-1-4612-6290-9_6}}.
