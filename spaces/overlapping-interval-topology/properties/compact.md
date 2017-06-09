@@ -3,6 +3,10 @@ uid: T000110
 space: overlapping-interval-topology
 property: compact
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 Given any open cover of $X$, any two sets containing -1 and 1 must cover $X$.
 
+See item #2 for space #53 in {{doi:10.1007/978-1-4612-6290-9_6}}.
