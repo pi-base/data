@@ -3,6 +3,10 @@ uid: T000120
 space: interlocking-interval-topology
 property: metacompact
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 Every $x > 1$ is contained in only one $S_n$ and every $x < 1$ is contained in finitely many $S_n$, so the cover $\{S_n\}$ is point-finite and $X$ is metacompact.
 
+See item #7 for space #54 in {{doi:10.1007/978-1-4612-6290-9_6}}.
