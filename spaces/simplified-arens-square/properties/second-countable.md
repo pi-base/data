@@ -3,6 +3,10 @@ uid: T000248
 space: simplified-arens-square
 property: second-countable
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 Combine a countable base for the Euclidean set $(0,1) \times (0,1)$ with the two countable local bases for the other points.
 
+See item #4 for space #81 in {{doi:10.1007/978-1-4612-6290-9_6}}.
