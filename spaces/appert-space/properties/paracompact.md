@@ -3,6 +3,11 @@ uid: T001184
 space: appert-space
 property: paracompact
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 Being countable, it's Lindelöf. And $T_3$ follows form $T_5$, and a $T_3$ Lindelöf space is paracompact.
 
+Asserted in the General Reference Chart for space #98 in
+{{doi:10.1007/978-1-4612-6290-9_6}}.

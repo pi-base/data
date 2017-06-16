@@ -3,6 +3,11 @@ uid: T001345
 space: baire-product-metric-on-mathbb{r}^{omega}
 property: cardinality-leq-2^{mathfrak(c)}
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 It has even cardinality $\mathfrak{c}$, as $\left|\mathbb{R}^\omega\right| = \mathfrak{c}^{\aleph_0} = (2^{\aleph_0})^{\aleph_0} = 2^{\aleph_0 \cdot \aleph_0} = 2^{\aleph_0} = \mathfrak{c} $.
 
+Asserted in the General Reference Chart for space #104 in
+{{doi:10.1007/978-1-4612-6290-9_6}}.

@@ -3,6 +3,10 @@ uid: T026660
 space: weak-parallel-line-topology
 property: compact
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 The weak parallel line topology is an order topology which is complete and thus compact.
 
+See item #4 for space #95 in {{doi:10.1007/978-1-4612-6290-9_6}}.
