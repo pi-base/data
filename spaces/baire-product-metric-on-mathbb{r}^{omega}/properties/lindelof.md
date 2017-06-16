@@ -3,6 +3,11 @@ uid: T000175
 space: baire-product-metric-on-mathbb{r}^{omega}
 property: lindelof
 value: false
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 Since $D = X - \mathbb{Q}$, $X - D$ is countable, and we can cover each point $r_i$ of $X - D$ with an open interval $J_i$ of length $2^{-i}$, thus leaving uncountably many points of $D$ uncovered. The open covering of $X$ consisting of the intervals $J_i$ together with each point $p \in D$ has no countable subcover. So $(X, \tau^{*})$ is not Lindelof.
 
+Asserted in the General Reference Chart for space #104 in
+{{doi:10.1007/978-1-4612-6290-9_6}}.
