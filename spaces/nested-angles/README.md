@@ -1,11 +1,13 @@
 ---
 uid: S000119
 slug: nested-angles
-name: Nested Angles
+name: Nested angles in the real plane
+counterexamples_id: 122
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
 ---
 Let $X \subset \mathbb{R}^2$ be the set consisting of the line segments joining the points $(0,1)$ and $(n, \frac{1}{n+1})$ for $n \in \omega$; the half-lines $y = \frac{1}{n+1}$, $x \leq n$ for $n \in \omega$; and the line $y=0$. Give $X$ the subspace topology.
 
-See also:
-
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 140-141.
-
+Defined as counterexample #122 ("Nested Angles")
+in {{doi:10.1007/978-1-4612-6290-9}}.
