@@ -1,13 +1,17 @@
 ---
 uid: S000105
 slug: helly-space
-name: Helly Space
+name: Helly space
+aliases:
+  - Non-decreasing functions of I^I
+counterexamples_id: 107
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
+  - wikipedia: Helly_space
+    name: Helly space on Wikipedia
 ---
-$X \subset I^I$ is the set of all non-decreasing functions with the subspace topology.
+Let $X \subset I^I$ be the subspace consisting of all non-decreasing functions.
 
-See also:
-
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 127-128.
-* Steen, L. A.; Seebach, J. A. (1978), [Counterexamples in Topology](http://books.google.de/books?id=Uz0rV250nhsC), Dover, p. 211, Problem 128
-* [Helly space](http://en.wikipedia.org/wiki/Helly_space) on Wikipedia.
-
+Defined as counterexample #107 ("Helly Space")
+in {{doi:10.1007/978-1-4612-6290-9}}.
