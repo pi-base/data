@@ -2,7 +2,11 @@
 uid: T001093
 space: helly-space
 property: perfectly-normal
-value: true
+value: false
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
-This is wrong. The Helly space is not completely normal and thus not perfectly normal.
 
+Asserted in the General Reference Chart for space #107 in
+{{doi:10.1007/978-1-4612-6290-9_6}}.
