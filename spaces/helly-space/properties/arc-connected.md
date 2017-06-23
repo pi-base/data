@@ -3,6 +3,9 @@ uid: T026175
 space: helly-space
 property: arc-connected
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 Let $f$ and $g$ be two different functions in Helly Space. Then for each $t\in[0,1]$ the convex combination
 
@@ -10,3 +13,5 @@ $tf + (1-t)g$ also lies in Helly-Space. Since we assumed $f\neq g$, the assignme
 
 $t\mapsto  tf + (1-t)g$ is injective.
 
+Asserted in the General Reference Chart for space #107 in
+{{doi:10.1007/978-1-4612-6290-9_6}}.
