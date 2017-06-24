@@ -3,6 +3,10 @@ uid: T000488
 space: the-post-office-metric
 property: separable
 value: false
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 It contains an uncountable discrete set, namely $\mathbb{R}^2\setminus \{(0,0)\}$.
 
+See item #3 for space #139 in {{doi:10.1007/978-1-4612-6290-9_6}}.

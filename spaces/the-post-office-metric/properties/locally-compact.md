@@ -3,6 +3,10 @@ uid: T000489
 space: the-post-office-metric
 property: locally-compact
 value: false
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 The origin does not have a compact neighborhood.  Indeed, let $U$ be a neighborhood of $(0,0)$.  Then there is  $B((0,0),\varepsilon)\subset U$.  The collection $\mathcal{A} = \{\{x\}\mid x\in U\setminus B((0,0),\varepsilon\}\cup \{B((0,0),\varepsilon\}$ is an open covering of $U$ with infinitely many elements and no proper subcollection covers $U$.
 
+See item #3 for space #139 in {{doi:10.1007/978-1-4612-6290-9_6}}.

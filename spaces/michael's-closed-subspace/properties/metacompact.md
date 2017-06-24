@@ -3,6 +3,10 @@ uid: T000507
 space: michael's-closed-subspace
 property: metacompact
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 Let $\{U_\alpha\}$ be an open cover of $Y$. For each $x_r \in M$, select $U_r$ with $x_r \in U_r \in \{U_\alpha\}$. Let $V_r = \{x \in U_r\ |\ \{r\} \in x\} = U_r \cap \pi^{-1}(1)\}$. Then $\{V_r\} \cup \{\{f\}\ |\ f \in F\}$ is a point-finite open refinement of $\{U_\alpha\}$.
 
+See item #5 for space #143 in {{doi:10.1007/978-1-4612-6290-9_6}}.
