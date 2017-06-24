@@ -3,6 +3,11 @@ uid: T001028
 space: sierpinski's-metric-space
 property: strongly-locally-compact
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 Since the distance between distinct points is at least one, this space is discrete, hence single-point sets are open and closed, and any finite set is necessarily compact.
 
+Asserted in the General Reference Chart for space #135 in
+{{doi:10.1007/978-1-4612-6290-9_6}}.

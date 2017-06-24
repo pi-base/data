@@ -3,6 +3,11 @@ uid: T024390
 space: sierpinski's-metric-space
 property: locally-path-connected
 value: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9_6
+    name: Counterexamples in Topology
 ---
 Since the distance between distinct points is at least 1, the space is discrete, hence each point is open.  Thus, each point has a path-connected neighborhood, namely the singleton set containing itself.
 
+Asserted in the General Reference Chart for space #135 in
+{{doi:10.1007/978-1-4612-6290-9_6}}.
