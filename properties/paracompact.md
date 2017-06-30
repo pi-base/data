@@ -2,6 +2,10 @@
 uid: P000030
 slug: paracompact
 name: Paracompact
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
 ---
 A space $X$ is paracompact if every open cover of $X$ has a locally finite open refinement which covers $X$.
 
+Defined on page 23 of {{10.1007/978-1-4612-6290-9}}.

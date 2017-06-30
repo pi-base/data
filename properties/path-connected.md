@@ -2,8 +2,12 @@
 uid: P000037
 slug: path-connected
 name: Path Connected
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
 ---
 A path in a space $X$ is a continuous map $f:[0,1] \rightarrow X$.
 
 A space $X$ is path connected if, given any two $x,y \in X$ there is a path $f$ with $f(0)=x$ and $f(1)=y$.
 
+Defined on page 29 of {{10.1007/978-1-4612-6290-9}}.
