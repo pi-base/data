@@ -4,5 +4,5 @@ space: concentric-circles
 property: cardinality-mathfrak(c)
 value: true
 ---
-As each cirlce has cardinality (c), the union of the two also has cardinality (c).
+As each circle has cardinality (c), the union of the two also has cardinality (c).
 
