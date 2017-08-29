@@ -1,9 +1,13 @@
 ---
 uid: S000128
 slug: miller's-biconnected-set
-name: Miller's Biconnected Set
+name: Miller's biconnected set
+counterexamples_id: 131
+refs:
+- doi: 10.1007/978-1-4612-6290-9
+  name: Counterexamples in Topology
 ---
-Let $C \subset [0,1] \subset \mathbb{R}$ be a nowhere dense perfect set. Let $W = C \times [0,1] \subset \mathbb{R}^2$. Let $K$ be an indecomposable continuum such that $K \cap [0,1]^2 = W$. Let $\Delta$ be a countable dense subset of $K$ (which exists, as $K$ is compact and metrizable). Let $\mathcal{C}$ be the set of composants of $K$, $\mathcal{B}$ the set of continua which separate  $K$ and $\mathcal{D}$ the set of subsets of $\Delta$ which are dense in some square $S \subset [0,1]^2$ which meets $W$ and has edges parallel to the $x$- and $y$- axes. Choose well orderings $\{C_\alpha\}$, $\{B_\alpha\}$ and $\{D_\alpha\}$ of $\mathcal{C}$, $\mathcal{B}$ and  $\mathcal{D}$ respectively for $\alpha < \kappa$ where $\kappa$ is the least ordinal with $|\kappa| = \mathfrak{c}$.
+Let $C \subset [0,1]$ be the Cantor set. Let $W = C \times [0,1] \subset \mathbb{R}^2$. Let $K$ be an indecomposable continuum such that $K \cap [0,1]^2 = W$. Let $\Delta$ be a countable dense subset of $K$ (which exists, as $K$ is compact and metrizable). Let $\mathcal{C}$ be the set of composants of $K$, $\mathcal{B}$ the set of continua which separate  $K$ and $\mathcal{D}$ the set of subsets of $\Delta$ which are dense in some square $S \subset [0,1]^2$ which meets $W$ and has edges parallel to the $x$- and $y$- axes. Choose well orderings $\{C_\alpha\}$, $\{B_\alpha\}$ and $\{D_\alpha\}$ of $\mathcal{C}$, $\mathcal{B}$ and  $\mathcal{D}$ respectively for $\alpha < \kappa$ where $\kappa$ is the least ordinal with $|\kappa| = \mathfrak{c}$.
 
 Inductively define for each $\alpha$ an $M_\alpha \subset K$ and simple closed curve $J_\alpha$ such that:
 
@@ -15,7 +19,5 @@ Inductively define for each $\alpha$ an $M_\alpha \subset K$ and simple closed c
 
 Let $X = \Delta \cup M \subset \mathbb{R}^2$ with the subspace topology.   
 
-See also:
-
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 148-149.
-
+Defined as counterexample #131 ("Miller's Biconnected Set")
+in {{doi:10.1007/978-1-4612-6290-9}}.
