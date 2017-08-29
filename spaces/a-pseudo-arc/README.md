@@ -1,14 +1,16 @@
 ---
 uid: S000127
 slug: a-pseudo-arc
-name: A Pseudo-Arc
+name: Pseudo-arc
+counterexamples_id: 130
+refs:
+- doi: 10.1007/978-1-4612-6290-9
+  name: Counterexamples in Topology
+- wikipedia: Pseudo-arc
+  name: Pseudo-arc
 ---
-A Pseudo-Arc is a non-degenerate, hereditarily indecomposable, chainable continuum.
+The pseudo-arc is a non-degenerate, hereditarily indecomposable, chainable
+(i.e. arc-like) continuum. (All such continua are homeomorphic.)
 
-A Pseudo-Arc may be explicitly constructed using the concept of a crooked chain, as detailed [here](http://en.wikipedia.org/wiki/Pseudo-arc#Chains).
-
-See also:
-
-* Steen, L. A.; Seebach, J. A. (1970), [Counterexamples in Topology](http://books.google.com/books/about/Counterexamples_in_Topology.html?id=DkEuGkOtSrUC), Dover, pp 147-148.
-* [Pseudo-arc](http://en.wikipedia.org/wiki/Pseudo-arc) on Wikipedia
-
+Defined as counterexample #130 ("A Psuedo-Arc")
+in {{doi:10.1007/978-1-4612-6290-9}}.
