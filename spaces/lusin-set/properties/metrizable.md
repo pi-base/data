@@ -1,8 +1,7 @@
 ---
 uid: T023627
 space: lusin-set
-property: t_4
+property: metrizable
 value: true
 ---
 Subset of the real line.
-

@@ -1,12 +1,13 @@
 ---
 uid: S000015
 slug: finite-complement-topology-on-a-countable-space
-name: Finite Complement Topology on a Countably Infinite Set
+name: Finite complement topology on a countably infinite set
 aliases:
   - Finite Complement Topology on a Countable Space
+  - Infinite set with the cofinite topology
 counterexamples_id: 18
 refs:
-- doi: 10.1007/978-1-4612-6290-9 
+- doi: 10.1007/978-1-4612-6290-9
   name: Counterexamples in Topology
 - wikipedia: Finite_complement_topology
   name: Finite complement topology on Wikipedia

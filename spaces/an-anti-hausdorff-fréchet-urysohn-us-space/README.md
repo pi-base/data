@@ -1,7 +1,11 @@
 ---
 uid: S000161
 slug: an-anti-hausdorff-fréchet-urysohn-us-space
-name: An anti-Hausdorff Fréchet-Urysohn US space
+name: Van Douwen's anti-Hausdorff Fréchet space
+refs:
+  - doi: 10.1016/0166-8641(93)90147-6
+    name: An anti-Hausdorff Fréchet space in which convergent sequences have unique limits
 ---
-Eric K. van Douwen, "An anti-Hausdorff Fréchet space in which convergent sequences have unique limits", Topology and its Applications 51 (1993), p. 147 - 158
 
+The topology on \(\omega\) constructed by Eric K. van Douwen in Section 5 of
+{{doi:10.1016/0166-8641(93)90147-6}}.
