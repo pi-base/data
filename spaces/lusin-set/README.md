@@ -1,7 +1,12 @@
 ---
 uid: S000147
 slug: lusin-set
-name: Lusin Set
+name: Luzin subset of the reals
+alias:
+  - Lusin subset of the reals
+ambiguous_construction: true
+refs:
+  - mr: MR0450063
+    name: Luzin spaces
 ---
-An uncountable subset of the reals such that every uncountable subset of the space is nonmeager.
-
+An uncountable subset of the reals such that every nowhere dense subset is countable.

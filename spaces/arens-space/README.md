@@ -1,11 +1,15 @@
 ---
 uid: S000156
 slug: arens-space
-name: Arens Space
+name: Arens space
+refs:
+  - mr: MR0037500
+    name: Note on convergence in topology.
 ---
-For each $n\in\mathbb N_0$  consider a convergent sequence $\{x_{n,j}\}_{j\geq0}$ with limit point $y_n$. Now consider the disjoint union $G$ of the compact spaces space $K_n:=\{x_{n,j} : j\geq0\}\cup \{y_n\}$ and identify $x_{0,j}$ and $y_j$ for each $j\geq0$. The resulting quotient space $X$ is called the Arens Space. 
 
-See also:
+Let \(X=\omega\cup\{\infty\}\) be the one-point compactification of a
+countable discrete space. Arens space \(S_2\) is the minimal topology
+on \((X\times\omega)\cup\{\infty'\}\) where
+\((\{\infty\}\times\omega)\cup\{\infty'\}\) is homeomorphic to \(X\).
 
-https://dantopology.wordpress.com/2010/08/18/a-note-about-the-arens-space/
-
+This space was originally defined by Richard Arens in {{mr:MR0037500}}.

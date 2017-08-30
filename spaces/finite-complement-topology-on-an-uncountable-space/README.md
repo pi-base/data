@@ -1,12 +1,12 @@
 ---
 uid: S000016
 slug: finite-complement-topology-on-an-uncountable-space
-name: Finite Complement Topology on the Real Numbers
+name: Finite complement topology on the real numbers
 aliases:
   - Finite Complement Topology on an Uncountable Space
 counterexamples_id: 19
 refs:
-- doi: 10.1007/978-1-4612-6290-9 
+- doi: 10.1007/978-1-4612-6290-9
   name: Counterexamples in Topology
 - wikipedia: Finite_complement_topology
   name: Finite complement topology on Wikipedia
