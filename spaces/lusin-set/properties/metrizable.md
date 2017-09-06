@@ -3,5 +3,8 @@ uid: T023627
 space: lusin-set
 property: metrizable
 value: true
+refs:
+  - mr: MR0450063
+    name: Luzin spaces
 ---
-Subset of the real line.
+This space is a subset of the reals.

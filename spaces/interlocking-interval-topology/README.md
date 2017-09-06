@@ -4,7 +4,7 @@ slug: interlocking-interval-topology
 name: Interlocking interval topology
 counterexamples_id: 54
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - doi: 10.1007/978-1-4612-6290-9
     name: Counterexamples in Topology
   - wikipedia: Interlocking_interval_topology
     name: Interlocking interval topology on Wikipedia
