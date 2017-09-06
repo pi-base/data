@@ -7,6 +7,6 @@ refs:
   - doi: 10.1007/978-1-4612-6290-9_6
     name: Counterexamples in Topology
 ---
-Since both factor spaces are.
+This holds because both factor spaces are also \(T_{3\frac{1}{2}}\).
 
 See item #1 for space #106 in {{doi:10.1007/978-1-4612-6290-9_6}}.

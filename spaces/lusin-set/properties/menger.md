@@ -3,6 +3,8 @@ uid: T023622
 space: lusin-set
 property: menger
 value: true
+refs:
+  - mr: MR1271477
+    name: Every Lusin set is undetermined in the point-open game.
 ---
-Menger game is undetermined for Lusin sets.
-
+The Menger game is undetermined for Lusin subsets of the reals.

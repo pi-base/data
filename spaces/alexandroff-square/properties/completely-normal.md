@@ -1,7 +1,7 @@
 ---
-uid: T001141
+uid: T000912
 space: alexandroff-square
-property: perfectly-normal
+property: completely-normal
 value: false
 refs:
   - doi: 10.1007/978-1-4612-6290-9_6
