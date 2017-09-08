@@ -8,4 +8,4 @@ refs:
 ---
 A space is zero dimensional if it has a basis of clopen sets.
 
-Defined on page 33 of {{10.1007/978-1-4612-6290-9}}.
+Defined on page 33 of {{doi:10.1007/978-1-4612-6290-9}}.

@@ -8,4 +8,4 @@ refs:
 ---
 A connected set $X$ is biconnected if it is not the union of two disjoint nondegenerate connected subsets.
 
-Defined on page 33 of {{10.1007/978-1-4612-6290-9}}.
+Defined on page 33 of {{doi:10.1007/978-1-4612-6290-9}}.

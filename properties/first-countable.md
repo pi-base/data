@@ -8,4 +8,4 @@ refs:
 ---
 A space $X$ is first countable if there is a countable local basis at every point of $X$.
 
-Defined on page 7 of {{10.1007/978-1-4612-6290-9}}.
+Defined on page 7 of {{doi:10.1007/978-1-4612-6290-9}}.

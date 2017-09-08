@@ -2,6 +2,8 @@
 uid: P000091
 slug: eberlein-compact
 name: Eberlein compact
+refs:
+  - doi: 10.2140/pjm.1977.72.487
+    name: A note on Eberlein compacts
 ---
-Embeddable as a compact subspace of $\Sigma^* R^\kappa=\{x\in R^\kappa: n<\omega\Rightarrow|\{\alpha<\kappa:x(\alpha)>\frac{1}{n}\}|<\omega\}$ for some $\kappa$.
-
+Any compact subspace of a $\Sigma^\*$-product of real lines.

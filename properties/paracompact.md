@@ -8,4 +8,4 @@ refs:
 ---
 A space $X$ is paracompact if every open cover of $X$ has a locally finite open refinement which covers $X$.
 
-Defined on page 23 of {{10.1007/978-1-4612-6290-9}}.
+Defined on page 23 of {{doi:10.1007/978-1-4612-6290-9}}.

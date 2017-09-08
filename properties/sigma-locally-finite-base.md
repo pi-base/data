@@ -8,4 +8,4 @@ refs:
 ---
 A collection of subsets is $\sigma$-locally finite if it is a countable union of locally finite subcollections.
 
-Defined on page 37 of {{10.1007/978-1-4612-6290-9}}.
+Defined on page 37 of {{doi:10.1007/978-1-4612-6290-9}}.

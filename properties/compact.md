@@ -10,4 +10,4 @@ refs:
 ---
 A space $X$ is compact if every open cover of $X$ has a finite subcover.
 
-Defined on page 18 of {{10.1007/978-1-4612-6290-9}}.
+Defined on page 18 of {{doi:10.1007/978-1-4612-6290-9}}.

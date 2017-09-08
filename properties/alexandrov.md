@@ -2,8 +2,11 @@
 uid: P000090
 slug: alexandrov
 name: Alexandrov
-- wikipedia: Alexandrov_topology
-  name: Alexandrov Topology on Wikipedia
+refs:
+  - mr: MR1711071
+    name: Alexandroff spaces
+  - wikipedia: Alexandrov_topology
+    name: Alexandrov Topology on Wikipedia
 ---
 A topological space $X$ is called an _Alexandrov space_ (or a _finitely generated space_) if the family of open sets is closed under arbitrary intersections. Equivalently, $X$ is Alexandrov if any of the following properties hold.
 
@@ -11,6 +14,4 @@ A topological space $X$ is called an _Alexandrov space_ (or a _finitely generate
 * For each $A \subseteq X$, $A$ is open iff $A \cap Y$ is open in the subspace $Y$ for each finite $Y \subseteq X$.
 * There is a quasi-order (_i.e._, a reflexive and transitive relation) $\preceq$ on $X$ such that for each $A \subseteq X$, $A$ is open iff for $\{ y \in X : y \preceq x \} \subseteq A$ for each $x \in X$.
 
-_References:_
-
-* Topospace's [Alexandrov space](http://topospaces.subwiki.org/wiki/Alexandrov_space) article.
+See also Topospace's [Alexandrov space](http://topospaces.subwiki.org/wiki/Alexandrov_space) article.

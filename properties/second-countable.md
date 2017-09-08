@@ -8,4 +8,4 @@ refs:
 ---
 A space is said to be second countable if it has a countable basis.
 
-Defined on page 7 of {{10.1007/978-1-4612-6290-9}}.
+Defined on page 7 of {{doi:10.1007/978-1-4612-6290-9}}.

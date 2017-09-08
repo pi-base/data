@@ -2,6 +2,8 @@
 uid: P000084
 slug: locally-hausdorff
 name: locally Hausdorff
+refs:
+  - mr: MR3084709
+    name: The equivalence relations of local homeomorphisms and Fell algebras
 ---
 A space is locally Hausdorff if each point has a neighborhood which is Hausdorff.
-
