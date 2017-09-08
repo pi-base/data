@@ -8,4 +8,4 @@ refs:
 ---
 A space $X$ is strongly connected if every continuous function $f:X \rightarrow \mathbb{R}$ is constant.
 
-Defined on page 223 of {{10.1007/978-1-4612-6290-9}}.
+Defined on page 223 of {{doi:10.1007/978-1-4612-6290-9}}.

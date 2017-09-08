@@ -8,4 +8,4 @@ refs:
 ---
 A space $X$ is totally separated if, given any two distinct $x,y \in X$ there are disjoint open $U, V \subset X$ containing $x$ and $y$ respectively with $X = U \cup V$.
 
-Defined on page 32 of {{10.1007/978-1-4612-6290-9}}.
+Defined on page 32 of {{doi:10.1007/978-1-4612-6290-9}}.

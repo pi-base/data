@@ -8,4 +8,4 @@ refs:
 ---
 A space $X$ is sequentially compact if every sequence in $X$ has a convergent subsequence.
 
-Defined on page 19 of {{10.1007/978-1-4612-6290-9}}.
+Defined on page 19 of {{doi:10.1007/978-1-4612-6290-9}}.

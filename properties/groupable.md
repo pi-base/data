@@ -1,7 +1,10 @@
 ---
 uid: P000087
 slug: groupable
-name: groupable
+name: Groupable topology
+refs:
+  - mr: MR0464128
+    name: Topology (Munkres)
 ---
-A topological space is called groupable if it is homeomorphic to a topological group.
-
+A space's topology is called groupable if the space is homeomorphic to a
+topological group.

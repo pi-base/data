@@ -8,4 +8,4 @@ refs:
 ---
 A space is $\sigma$-compact if it is the union of countably many compact subsets.
 
-Defined on page 19 of {{10.1007/978-1-4612-6290-9}}.
+Defined on page 19 of {{doi:10.1007/978-1-4612-6290-9}}.

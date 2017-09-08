@@ -8,4 +8,4 @@ refs:
 ---
 A space $X$ is locally compact if each point of $X$ has a compact neighborhood.
 
-Defined on page 20 of {{10.1007/978-1-4612-6290-9}}.
+Defined on page 20 of {{doi:10.1007/978-1-4612-6290-9}}.

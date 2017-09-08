@@ -8,4 +8,4 @@ refs:
 ---
 A space $X$ is totally path disconnected if the only paths in $X$ are constant.
 
-Defined on page 31 of {{10.1007/978-1-4612-6290-9}}.
+Defined on page 31 of {{doi:10.1007/978-1-4612-6290-9}}.
