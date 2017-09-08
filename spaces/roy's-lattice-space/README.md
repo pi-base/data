@@ -4,8 +4,8 @@ slug: roy's-lattice-space
 name: Roy's lattice space
 counterexamples_id: 126
 refs:
-- doi: 10.1007/978-1-4612-6290-9
-  name: Counterexamples in Topology
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
 ---
 Let $\{C_i\ |\ i \in \omega\}$ be a collection of dense subsets of $\mathbb{Q}$. For specificity, let \(p(i)\) be the \(i\)th prime,
 and let \(C_i\) be the rational numbers that
