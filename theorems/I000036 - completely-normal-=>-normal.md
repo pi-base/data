@@ -4,6 +4,10 @@ if:
   completely-normal: true
 then:
   normal: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
 ---
-Trivially.
 
+Asserted in Figure 1 of {{doi:10.1007/978-1-4612-6290-9}}
+(where T_4 means normal and T_5 means completely normal).

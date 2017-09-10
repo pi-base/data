@@ -8,6 +8,8 @@ then:
   metrizable: true
 converse:
 - I000020
+refs:
+  - mr: MR0464128
+    name: Topology (Munkres)
 ---
-By the Nagata-Smirnov Metrization Theorem.
-
+Theorem 40.3 (Nagata-Smirnov metrization theorem) of {{mr:MR0464128}}.

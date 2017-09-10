@@ -4,6 +4,10 @@ if:
   compact: true
 then:
   strongly-locally-compact: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
 ---
 If a space is compact, the entire space is a compact open neighborhood of any of its points.
 
+Asserted on page 22 of {{doi:10.1007/978-1-4612-6290-9}}.
