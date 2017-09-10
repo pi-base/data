@@ -4,6 +4,10 @@ if:
   compact: true
 then:
   paracompact: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
 ---
-Trivially, as any finite cover is locally finite.
+This holds as any finite cover is locally finite.
 
+Asserted on page 24 of {{doi:10.1007/978-1-4612-6290-9}}.

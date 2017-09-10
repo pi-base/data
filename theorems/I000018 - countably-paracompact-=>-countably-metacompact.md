@@ -4,6 +4,10 @@ if:
   countably-paracompact: true
 then:
   countably-metacompact: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
 ---
-Trivially, as any locally finite refinement is point finite.
+This holds as any locally finite refinement is point finite.
 
+Asserted on page 24 of {{doi:10.1007/978-1-4612-6290-9}}.
