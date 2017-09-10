@@ -2,8 +2,11 @@
 uid: P000013
 slug: normal
 name: Normal
+refs:
+  - mr: MR2048350
+    name: General Topology (Willard)
 ---
 A normal space is one in which disjoint closed sets can be separated by open neighborhoods.
+In other words, a space is normal if, given disjoint closed sets $A$ and $B$, there are disjoint open sets $O_A$ and $O_B$ containing $A$ and $B$, respectively.
 
-(In other words, a space is normal if, given disjoint closed sets $A$ and $B$, there are disjoint open sets $O_A$ and $O_B$ containing $A$ and $B$, respectively.)
-
+Defined in 15.1 of {{mr:MR2048350}}.

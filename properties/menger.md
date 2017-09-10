@@ -2,6 +2,14 @@
 uid: P000066
 slug: menger
 name: Menger
+refs:
+  - doi: 10.1016/0166-8641(95)00067-4
+    name: Combinatorics of open covers I: Ramsey theory
 ---
-A space $X$ is **Menger** if for every sequence of covers $\langle \mathcal U_0, \mathcal U_1, \dots \rangle$ of the space $X$, there exists a sequence $\langle \mathcal F_0, \mathcal F_1, \dots \rangle$ such that $\mathcal F_n\subseteq \mathcal U_n$, $|\mathcal F_n|<\omega$, and $X\subseteq\bigcup_{n<\omega}\bigcup \mathcal F_n$.
+A space $X$ is **Menger** if it satisfies the selection principle
+\(S_{fin}(\mathcal{O},\mathcal{O})\): for every sequence of open covers
+\(\mathcal{U}_n\) for \(n<\omega\), there exist finite subcollections
+\(\mathcal{F}_n\) such that \(\bigcup_{n<\omega}\mathcal{F}_n\) is
+also an open cover.
 
+See section 5 of {{doi:10.1016/0166-8641(95)00067-4}}.

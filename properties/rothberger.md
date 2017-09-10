@@ -2,6 +2,14 @@
 uid: P000068
 slug: rothberger
 name: Rothberger
+refs:
+  - doi: 10.1016/0166-8641(95)00067-4
+    name: Combinatorics of open covers I: Ramsey theory
 ---
-A space $X$ is **Rothberger** if for every sequence of covers $\langle \mathcal U_0, \mathcal U_1, \dots \rangle$ of the space $X$, there exists a sequence $\langle U_0, U_1, \dots \rangle$ such that $U_n \in\mathcal U_n$ and $X\subseteq\bigcup_{n<\omega}U_n$.
+A space $X$ is **Rothberger** if it satisfies the selection principle
+\(S_{1}(\mathcal{O},\mathcal{O})\): for every sequence of open covers
+\(\mathcal{U}_n\) for \(n<\omega\), there exist choices
+\(V_n\in\mathcal{U}_n\) such that \(\{V_n:n<\omega\}\) is
+also an open cover.
 
+See section 6 of {{doi:10.1016/0166-8641(95)00067-4}}.
