@@ -2,6 +2,8 @@
 uid: P000071
 slug: sigma-relatively-compact
 name: "$\\sigma$-relatively-compact"
+refs:
+  - doi: 10.14712/1213-7243.2015.201
+    name: Applications of limited information strategies in Menger's game
 ---
 $X=\bigcup_{n<\omega}R_n$, where $R_n$ is relatively compact to $X$, that is, for every cover of $X$, there exists a finite subcollection which covers $R_n$.
-

@@ -1,6 +1,6 @@
 ---
 space: tangora's-connected-space
-property: urysohn
+property: semiregular
 value: false
 refs:
   - doi: 10.1007/978-1-4612-6290-9_6

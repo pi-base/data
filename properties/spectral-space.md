@@ -2,9 +2,13 @@
 uid: P000075
 slug: spectral-space
 name: Spectral space
-- wikipedia: Sober_space
-  name: Sober space on Wikipedia
+refs:
+  - mr: MR1077251
+    name: General topology I (Arkhangelʹskiĭ, Pontryagin)
+  - wikipedia: Sober_space
+    name: Sober space on Wikipedia
 ---
-A compact sober space for which the collection of compact open subsets is closed under finite intersections and forms a base for the topology.
+A compact sober space for which the collection of compact open subsets is
+closed under finite intersections and forms a base for the topology.
 
-Hochster's theorem: such spaces are homeomorphic to the prime spectrum of a commutive ring.
+See example 21, section 2.6 of {{MR1077251}}.
