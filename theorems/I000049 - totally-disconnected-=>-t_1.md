@@ -4,6 +4,10 @@ if:
   totally-disconnected: true
 then:
   t_1: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
 ---
 Since the closure of a connected space is connected, connected components are always closed. If $X$ is totally disconnected, every point is a connected component and thus is closed.
 
+Asserted on Figure 9 of {{doi:10.1007/978-1-4612-6290-9}}.
