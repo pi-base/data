@@ -4,7 +4,7 @@ slug: banach-mazur-winning:-player-i,-stationary
 name: I-tactic Banach-Mazur
 refs:
   - doi: 10.1216/rmj-1987-17-2-227
-    name: Topological Games: On the 50th Anniversary of the Banach–Mazur Game
+    name: "Topological Games: On the 50th Anniversary of the Banach–Mazur Game"
   - wikipedia: Banach–Mazur_game
     name: Banach-Mazur Game on Wikipedia
 ---
