@@ -4,7 +4,7 @@ slug: menger
 name: Menger
 refs:
   - doi: 10.1016/0166-8641(95)00067-4
-    name: Combinatorics of open covers I: Ramsey theory
+    name: "Combinatorics of open covers I: Ramsey theory"
 ---
 A space $X$ is **Menger** if it satisfies the selection principle
 \(S_{fin}(\mathcal{O},\mathcal{O})\): for every sequence of open covers
