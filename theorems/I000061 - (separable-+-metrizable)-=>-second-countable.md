@@ -5,7 +5,11 @@ if:
   - separable: true
   - metrizable: true
 then:
-  second-countable: true
+  and:
+  - second-countable: true
+  - t_3: true
+refs:
+  - mr: MR2048350
+    name: General Topology (Willard)
 ---
-If $\{x_n\}$ is a countable dense subset, $\{B(x_n,\frac{1}{m})\,|\,m \in \omega\}$ is a countable basis for $X$.
-
+Proven in 23.1 of {{mr:MR2048350}}.

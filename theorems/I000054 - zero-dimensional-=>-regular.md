@@ -4,6 +4,10 @@ if:
   zero-dimensional: true
 then:
   regular: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
 ---
 If $X$ is zero dimensional, given any open $U \subset X$ and $x \in U$ then there is a clopen $x \in V \subset U$.
 
+Asserted on page 33 of {{doi:10.1007/978-1-4612-6290-9}}.
