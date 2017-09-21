@@ -1,0 +1,14 @@
+---
+uid: P100052
+slug: trivial
+name: Trivial
+aliases:
+  - Indiscrete
+refs:
+  - mr: MR2048350
+    name: General Topology (Willard)
+---
+A space \(X\) is trivial or indiscrete if its only open sets are
+\(\{\emptyset,X\}\).
+
+See 3.2d of {{mr:MR2048350}}.

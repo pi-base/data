@@ -1,9 +1,14 @@
 ---
 uid: I000052
 if:
-  totally-disconnected: true
+  and:
+    - totally-disconnected: true
+    - trivial: false
 then:
   connected: false
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
 ---
-Trivially.
-
+Asserted on page 32 of {{doi:10.1007/978-1-4612-6290-9}}; non-triviality
+rules out the one-point space.
