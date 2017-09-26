@@ -3,7 +3,12 @@ uid: I000176
 if:
   spectral-space: true
 then:
-  sober: true
+  and:
+  - sober: true
+  - compact: true
+refs:
+  - mr: MR1077251
+    name: General topology I (Arkhangelʹskiĭ, Pontryagin)
 ---
-[wiki](http://en.wikipedia.org/wiki/Sober_space)
-
+By definition.
+See example 21, section 2.6 of {{MR1077251}}.

@@ -4,6 +4,8 @@ if:
   t_3: true
 then:
   regular: true
+refs:
+  - mr: MR2048350
+    name: General Topology (Willard)
 ---
-By definition.
-
+See 14.1 of {{mr:MR2048350}}.

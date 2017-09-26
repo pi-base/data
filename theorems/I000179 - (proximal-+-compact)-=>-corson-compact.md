@@ -6,6 +6,8 @@ if:
   - compact: true
 then:
   corson-compact: true
+refs:
+  - doi: 10.1016/j.topol.2014.05.010
+    name: Proximal compact spaces are Corson compact
 ---
-Main result of Clontz, Steven and Gruenhage, Gary, Proximal compact spaces are Corson compact. Topology Appl. 173 (2014), 1–8.
-
+Main result of {{doi:10.1016/j.topol.2014.05.010}}.
