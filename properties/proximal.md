@@ -2,8 +2,10 @@
 uid: P000076
 slug: proximal
 name: Proximal
+refs:
+- doi: 10.1016/j.topol.2016.03.022
+  name: Tactic-proximal compact spaces are strong Eberlein compact
 ---
 The entourage-picker has a winning strategy in Bell's proximal game.
-
-MR3239205: Bell, Jocelyn R., An infinite game with topological consequences. Topology Appl. 175 (2014), 1–14.
-
+See {{doi:10.1016/j.topol.2014.05.010}} for a purely topological
+definition.
