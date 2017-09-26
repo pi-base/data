@@ -6,6 +6,8 @@ if:
   - perfectly-normal: true
 then:
   t_6: true
+refs:
+- doi: 10.1007/978-1-4612-6290-9
+  name: Counterexamples in Topology
 ---
-By definition.
-
+By definition, see {{doi:10.1007/978-1-4612-6290-9}}.

@@ -4,6 +4,11 @@ if:
   separable: true
 then:
   weakly-lindelof: true
+refs:
+  - doi: 10.2307/1996310
+    name: Products of weakly-א-compact spaces
 ---
 Let $\{x_n\}$ be a countable dense subset of $X$ and $\mathcal{U}$ an open cover. For each $n$, choose $U_n \in \mathcal{U}$ with $x_n \in U_n$. Then $\{U_n\}$ is a countable dense subcover of $\mathcal{U}$.
 
+This follows the definition of weakly Lindelof given in
+e.g. {{doi:10.2307/1996310}}.

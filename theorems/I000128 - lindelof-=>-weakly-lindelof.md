@@ -4,6 +4,8 @@ if:
   lindelof: true
 then:
   weakly-lindelof: true
+refs:
+  - doi: 10.2307/1996310
+    name: Products of weakly-א-compact spaces
 ---
-Trivially.
-
+By the definition given in e.g. {{doi:10.2307/1996310}}.
