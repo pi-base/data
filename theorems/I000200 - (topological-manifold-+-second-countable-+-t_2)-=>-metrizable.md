@@ -8,5 +8,3 @@ if:
 then:
   metrizable: true
 ---
-This is a classical result on topological manifolds.
-

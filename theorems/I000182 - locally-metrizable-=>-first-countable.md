@@ -3,7 +3,6 @@ uid: I000182
 if:
   locally-metrizable: true
 then:
-  first-countable: true
+  sigma-locally-finite-base: true
 ---
-This follows directly from the fact that metrizable spaces are first countable.
-
+See the proof of Theorem 42.1 in {{mr:MR0464128}}.

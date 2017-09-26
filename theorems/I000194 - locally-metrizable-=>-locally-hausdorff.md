@@ -5,5 +5,3 @@ if:
 then:
   locally-hausdorff: true
 ---
-obvious.
-
