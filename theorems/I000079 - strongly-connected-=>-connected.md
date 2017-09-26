@@ -4,6 +4,10 @@ if:
   strongly-connected: true
 then:
   connected: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
 ---
 If $X$ is disconnected, there are disjoint open sets $U$ and $V$ with $X = U \cup V$. Then $f:X \rightarrow \mathbb{R}$ by $f(U) = \{0\}$ and $f(V) = \{1\}$ is continuous.
 
+Defined as such on page 33 of {{doi:10.1007/978-1-4612-6290-9}}.

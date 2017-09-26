@@ -3,6 +3,7 @@ uid: P000009
 slug: urysohn
 name: Completely Hausdorff
 aliases:
+  - Functionally Hausdorff
   - Urysohn
   - Completely T2
 refs:
