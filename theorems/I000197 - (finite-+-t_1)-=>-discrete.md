@@ -6,6 +6,9 @@ if:
   - t_1: true
 then:
   discrete: true
+refs:
+  - mr: MR2048350
+    name: General Topology (Willard)
 ---
-each point is closed by $T_1$, so every set is closed, so every set is open.
-
+Follows from the definitions: all points are closed by $T_1$, so all
+sets are closed by finite.

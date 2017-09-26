@@ -7,3 +7,5 @@ refs:
     name: Topology (Munkres)
 ---
 A topological space is locally metrizable if each point $p$ has a neighborhood which is metrizable.
+
+Defined in exercise 7 of section 34 in {{mr:MR0464128}}.

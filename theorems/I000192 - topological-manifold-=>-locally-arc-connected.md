@@ -5,5 +5,5 @@ if:
 then:
   locally-arc-connected: true
 ---
-each point has an open neighborhood homeomorphic to an open ball in $\mathbb R^n$.
-
+Each point has an open neighborhood homeomorphic to an open ball in
+$\mathbb R^n$.

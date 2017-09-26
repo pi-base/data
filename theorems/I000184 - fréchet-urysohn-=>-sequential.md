@@ -4,6 +4,8 @@ if:
   fréchet-urysohn: true
 then:
   sequential: true
+refs:
+  - mr: MR0687569
+    name: Products of convergence properties
 ---
-almost trivial
-
+Asserted in the introduction to {{mr:MR0687569}}.

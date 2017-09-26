@@ -4,6 +4,8 @@ if:
   sequential: true
 then:
   countably-tight: true
+refs:
+  - mr: MR0687569
+    name: Products of convergence properties
 ---
-(see e.g. http://en.wikipedia.org/wiki/Countably_generated_space)
-
+Asserted in the introduction to {{mr:MR0687569}}.
