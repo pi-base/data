@@ -4,6 +4,8 @@ if:
   compact: true
 then:
   sigma-compact: true
+refs:
+- doi: 10.1007/978-1-4612-6290-9
+  name: Counterexamples in Topology
 ---
-Trivially.
-
+By definition; see Figure 3 on page 21 of {{doi:10.1007/978-1-4612-6290-9}}.

@@ -4,6 +4,11 @@ if:
   second-countable: true
 then:
   sigma-locally-finite-base: true
+refs:
+  - mr: MR2048350
+    name: General Topology (Willard)
 ---
-If $\{B_n : n \in \omega\}$ is a countable base, then for each $n$, $U_n = \{B_n\}$ is locally finite and $\cup U_n = \{B_n\}$ is a base.
-
+By the definition of a \(\sigma\)-locally finite base, see e.g.
+23.9 of {{mr:MR2048350}}. If \(\{B_n:n<\omega\}\) is a countable base,
+then \(\mathcal F_n=\{B_n\}\) is locally finite and
+\(\bigcup_{n<\omega}\mathcal F_n\) is a \(\sigma\)-locally finite base.

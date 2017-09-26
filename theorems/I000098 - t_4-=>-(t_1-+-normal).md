@@ -8,6 +8,9 @@ then:
   - normal: true
 converse:
 - I000099
+refs:
+- mr: MR2048350
+  name: General Topology (Willard)
 ---
-By definition.
 
+By definition as in 15.1 of {{mr:MR2048350}}.
