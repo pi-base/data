@@ -3,7 +3,11 @@ uid: I000076
 if:
   strongly-connected: true
 then:
-  pseudocompact: true
+  hyperconnected: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
 ---
-By definition.
-
+As defined on page 223 of {{doi:10.1007/978-1-4612-6290-9}}
+all continuous functions from a strongly connected space to the
+reals are constant.
