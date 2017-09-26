@@ -4,8 +4,12 @@ if:
   and:
   - locally-arc-connected: true
   - discrete: false
+  - trivial: false
 then:
   cardinality-<-mathfrak(c): false
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
 ---
 If any point of $X$ is not isolated and $X$ is arc connected at that point, then $X$ contains the injective image of an arc.
-
+See pages 29-30 of {{doi:10.1007/978-1-4612-6290-9}}.

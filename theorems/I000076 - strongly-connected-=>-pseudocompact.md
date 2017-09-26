@@ -3,11 +3,11 @@ uid: I000076
 if:
   strongly-connected: true
 then:
-  hyperconnected: true
+  pseudocompact: true
 refs:
   - doi: 10.1007/978-1-4612-6290-9
     name: Counterexamples in Topology
 ---
 As defined on page 223 of {{doi:10.1007/978-1-4612-6290-9}}
 all continuous functions from a strongly connected space to the
-reals are constant.
+reals are constant and thus have compact images.

@@ -1,9 +1,17 @@
 ---
 uid: I000087
 if:
-  hyperconnected: true
+  ultraconnected: true
 then:
   strongly-connected: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
 ---
-If $f:X \rightarrow \mathbb{R}$ is continuous and $a,b \in f(X)$ are distinct, then $f^{-1}(a)$ and $f^{-1}(b)$ are disjoint closed subsets of $X$ and thus $X$ is not hyperconnected.
+Let \(f:X \rightarrow \mathbb{R}\) be continuous. Since for all \(a,b\in f(X)\),
+\(f^{-1}(a)\) and \(f^{-1}(b)\) are closed subsets of \(X\) and thus cannot
+be disjoint, it follows that \(a=b\), making \(f\) constant.
 
+Page 23 of {{doi:10.1007/978-1-4612-6290-9}} points out the lack of multiple
+closed singletons, forcing continuous maps from an ultraconnected space
+to any \(T_1\) space to be constant.

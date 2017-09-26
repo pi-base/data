@@ -11,6 +11,10 @@ converse:
 - I000045
 - I000046
 - I000144
+refs:
+- doi: 10.1007/978-1-4612-6290-9
+  name: Counterexamples in Topology
 ---
 If every point has a connected neighborhood and the only connected sets are single points, then every point has a neighborhood consisting of the point itself.
 
+Proven on page 32 of {{doi:10.1007/978-1-4612-6290-9}}.

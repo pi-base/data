@@ -8,6 +8,8 @@ then:
   - completely-normal: true
 converse:
 - I000101
+refs:
+- doi: 10.1007/978-1-4612-6290-9
+  name: Counterexamples in Topology
 ---
-By definition.
-
+By definition as on page 12 of {{doi:10.1007/978-1-4612-6290-9}}.
