@@ -4,9 +4,8 @@ if:
   corson-compact: true
 then:
   fréchet-urysohn: true
+refs:
+  - doi: 10.1007/978-3-319-16092-4
+    name: A Cp-Theory Problem Book
 ---
-The Sigma-Product of a family of copies of $\mathbb R$ is Fréchet Urysohn (Theorem I in
-https://dantopology.wordpress.com/2014/04/08/sigma-products-of-first-countable-spaces/).
-
-Subspaces of Fréchet Urysohn spaces are Fréchet Urysohn as well.
-
+Proven in U.120 of {{doi:10.1007/978-3-319-16092-4}}.

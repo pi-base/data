@@ -6,6 +6,10 @@ if:
   - homogenous: true
 then:
   discrete: true
+refs:
+  - mr: MR2048350
+    name: General Topology (Willard)
 ---
-Since $X$ is scattered, it has an isolated point $a$. Let $x\in X$. Then there is a homeomorphism of $X$ taking $a$ to $x$, proving that $x$ is isolated as well. Since $x\in X$ was arbitrary, this implies that $X$ is discrete.
-
+Evident from the definitions:
+since $X$ is scattered, it has an isolated point $a$. Let $x\in X$; there
+is a homeomorphism of $X$ taking $a$ to $x$, showing that $x$ is also isolated.

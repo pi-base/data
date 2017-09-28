@@ -6,6 +6,12 @@ if:
   - countably-compact: true
 then:
   sequentially-compact: true
+refs:
+  - doi: 10.14288/1.0080490
+    name: Sequential space methods
+  - mr: MR1039321
+    name: General Topology (Engelking, 1989)
 ---
-see http://math.stackexchange.com/a/1733040/167838. For the Hausdorff case see also Engelking, "General Topology", 1989, p. 209, Theorem 3.10.31 or https://dantopology.wordpress.com/2010/09/04/sequentially-compact-spaces-ii/.
-
+Theorem 1.20 of {{doi:10.14288/1.0080490}}.
+Refer to {{mr:MR1039321}} Thm 3.10.31 for a proof assuming the Hausdorff
+property (included in Engelking's definition of compact).

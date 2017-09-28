@@ -4,6 +4,8 @@ if:
   discrete: true
 then:
   homogenous: true
+refs:
+  - mr: MR2048350
+    name: General Topology (Willard)
 ---
-obvious.
-
+Evident from the definitions as all self-bijections are homeomorphisms.

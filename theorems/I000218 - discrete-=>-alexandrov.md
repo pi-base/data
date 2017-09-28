@@ -4,6 +4,9 @@ if:
   discrete: true
 then:
   alexandrov: true
+refs:
+  - mr: MR1711071
+    name: Alexandroff spaces
 ---
-If $X$ is discrete, then as all subsets of $X$ are open clearly the family of open sets is closed under arbitrary intersections.
-
+Follows immediately from the definitions: if all sets are open
+then all intersections of open sets are open.

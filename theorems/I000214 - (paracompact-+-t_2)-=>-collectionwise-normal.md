@@ -1,14 +1,11 @@
 ---
 uid: I000214
 if:
-  and:
-  - paracompact: true
-  - t_2: true
+  fully-t_4: true
 then:
   collectionwise-normal: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
 ---
-See 
-http://en.wikipedia.org/w/index.php?title=Collectionwise_normal_space
-
-(Note: I do not know if Hausdorff is really necessary here)
-
+Asserted in Figure 18 on page 170 of {{doi:10.1007/978-1-4612-6290-9}}.

@@ -4,6 +4,8 @@ if:
   anti-hausdorff: true
 then:
   t_2: false
+refs:
+  - doi: 10.1016/0166-8641(93)90147-6
+    name: An anti-Hausdorff Fréchet space in which convergent sequences have unique limits
 ---
-An anti-Hausdorff space $X$ with $|X| \geq 2$ is clearly not Hausdorff.
-
+Immediately follows from the definitions.
