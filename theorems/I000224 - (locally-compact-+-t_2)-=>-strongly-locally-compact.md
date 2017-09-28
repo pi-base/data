@@ -6,6 +6,8 @@ if:
   - t_2: true
 then:
   strongly-locally-compact: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
 ---
-Let $x$ be a point in $X$. By local compactness there is a compact neighbourhood $K$ of $x$. By the definition of the word neighbourhood there is an open set $U$ such that $x\in U \subseteq K$. The closure of $U$ is contained in the closure of $K$. Since $X$ is Hausdorff, $K$ is closed, therefore the closure of $U$ is contained in a compact set $K$ and therefore compact itself.
-
+Asserted on the bottom of page 20 in {{doi:10.1007/978-1-4612-6290-9}}.

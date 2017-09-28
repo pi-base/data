@@ -6,7 +6,9 @@ if:
   - first-countable: true
 then:
   second-countable: true
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
 ---
-Around each $x\in X$ we fix a countable neighborhood basis $(U_k(x))_{k=1}^\infty$ of open sets. The set
-$\mathcal B :=\{U_k(x) : k \in \mathbb N, x\in X\}$ is countable as $X$ is countable and it is a basis of the topology by construction.
-
+Evident from the definitions: the countable union of the countable
+point-bases is a countable basis.

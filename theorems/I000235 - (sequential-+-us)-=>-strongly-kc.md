@@ -6,6 +6,8 @@ if:
   - us: true
 then:
   strongly-kc: true
+refs:
+  - doi: 10.1007/s10587-009-0022-6
+    name: On minimal strongly KC-spaces
 ---
-This is Lemma 3.10 in Weihua Sun, Weihai, Yuming Xu, Jinan, Ning Li, Dalian, "On minimal strongly KC-spaces", Czechoslovak Mathematical Journal, 59 (134) (2009), 305–316
-
+Shown in Lemma 3.10 of {{doi:10.1007/s10587-009-0022-6}}.

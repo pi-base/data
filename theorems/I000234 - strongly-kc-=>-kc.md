@@ -4,6 +4,10 @@ if:
   strongly-kc: true
 then:
   kc: true
+refs:
+  - doi: 10.1007/s10587-009-0022-6
+    name: On minimal strongly KC-spaces
 ---
-Every compact set is countably compact.
+Follows from the definitions.
 
+Noted on page 308 of {{10.1007/s10587-009-0022-6}}.
