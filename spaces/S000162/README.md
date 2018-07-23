@@ -1,9 +1,7 @@
 ---
-uid: S001103
 slug: supercontinuum-power-of-countable-discrete-space
+uid: S000162
 name: Supercontinuum power of a countable discrete space
-aliases:
-  - Uncountable products of Z+
 refs:
 - doi: 10.1007/978-1-4612-6290-9
   name: Counterexamples in Topology
