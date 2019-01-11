@@ -1,5 +1,5 @@
 ---
-uid: 5df70278-1c82-4a2f-baf8-e708d075e122
+uid: S000021
 name: Weak topology on separable Hilbert space
 refs:
 - doi: 10.1016/B978-0-12-622760-4.X5000-6
