@@ -1,14 +1,14 @@
 ---
 uid: 5df70278-1c82-4a2f-baf8-e708d075e122
-slug: weak-topology-on-separable-hilbert-space
 name: Weak topology on separable Hilbert space
 refs:
-  - doi: 10.1016/B978-0-12-622760-4.X5000-6 
-    name: Handbook of Analysis and Its Foundations
-  - doi: 10.1007/978-93-86279-42-2
-    name: Functional Analysis
-  - wikipedia: Weak_topology
-    name: Weak topology on Wikipedia
+- doi: 10.1016/B978-0-12-622760-4.X5000-6
+  name: Handbook of Analysis and Its Foundations
+- doi: 10.1007/978-93-86279-42-2
+  name: Functional Analysis
+- name: Weak topology on Wikipedia
+  wikipedia: Weak_topology
+counterexamples_id: null
 ---
 Let $H$ be a infinite-dimensional separable real Hilbert space (such
 as the space $l^2$ of square-summable sequences) with inner product
@@ -27,4 +27,4 @@ for some $x_1, \dots, x_n \in H$ and some $\epsilon > 0$.
 
 See Definition 5.1.1 of {{doi:10.1007/978-93-86279-42-2}} or 28.16 of
 {{doi:10.1016/B978-0-12-622760-4.X5000-6}}.  Note that the weak
-topology on $H$ is homeomorphic to the weak-* topology on $H^*$.
+topology on $H$ is homeomorphic to the weak-\* topology on $H^*$.
