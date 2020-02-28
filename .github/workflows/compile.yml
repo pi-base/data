@@ -8,10 +8,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: pi-base/compile@master
+    - name: Compile bundle
+      uses: pi-base/compile@releases/v1
       with:
-        milliseconds: 100
-    - uses: actions/upload-artifact@v1.0.0
+        out: bundle.json
+    - name: Persist bundle as artifact
+      uses: actions/upload-artifact@v1.0.0
       with:
-        name: README
-        path: README.md
+        name: bundle.json
+        path: bundle.json
+    - name: Upload bundle to S3
+      run: |
+        aws s3 cp bundle.json s3://pi-base-bundles/${GITHUB_REF:-unknown}.json
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
