@@ -2,7 +2,7 @@
 uid: S000147
 slug: lusin-set
 name: Luzin subset of the reals
-alias:
+aliases:
   - Lusin subset of the reals
 ambiguous_construction: true
 refs:
