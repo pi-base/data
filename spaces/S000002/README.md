@@ -6,7 +6,7 @@ aliases:
   - Countable Discrete Topology
 counterexamples_id: 2
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - doi: 10.1007/978-1-4612-6290-9
     name: Counterexamples in Topology
   - wikipedia: Discrete_space
     name: Discrete Space on Wikipedia
