@@ -1,7 +1,7 @@
 ---
 uid: S000060
 slug: pointed-rational-extension-of-mathbb{r}
-name: Pointed rational extension of the reals
+name: Pointed Rational Extension of $\mathbb{R}$
 aliases:
   - Pointed rational extension of R
 counterexamples_id: 68
