@@ -1,8 +1,8 @@
 ## How-To
 
-To add a contribution, [fork](https://help.github.com/articles/about-forks/) this project to your own account, make whatever changes you'd like, then [open up all pull request for review](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
+To add a contribution, [fork](https://help.github.com/articles/about-forks/) this project to your own account, make whatever changes you'd like, then [open up all pull request for review](https://help.github.com/articles/creating-a-pull-request-from-a-fork/). Be sure to review [our conventions](https://github.com/pi-base/data#conventions) on notation and naming.
 
-We are working on automated tools to review contributions and make this process easier, but for now - [get in touch](mailto:jamesdabbs+pi-base@gmail.com) if you have any questions or trouble.
+You may want to run a [compiler](https://github.com/pi-base/compile) locally to verify changes to your repository as you edit. We are always interested in ways to make this process easier; [get in touch](mailto:jamesdabbs+pi-base@gmail.com) if you have any questions or run into any trouble.
 
 ## Licensing
 
