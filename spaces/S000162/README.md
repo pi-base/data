@@ -1,8 +1,8 @@
 ---
-uid: S000161
+uid: S000162
 slug: singleton
 name: The Singleton
-alias:
+aliases:
 - The Single-Point Space
 refs:
   - wikipedia: Finite_topological_space
