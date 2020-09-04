@@ -18,6 +18,6 @@ For the separation axioms, `T_n ⇒ T_m` whenever `n ≥ m`. For example [regula
 
 ## Local Properties
 
-If a property is named "locally `P`", then that means that every point in the space has a neighborhood base satisfying P for every member of the base. On the other hand, some authors define "locally `P`" to mean there is a single neighborhood satisfying `P` for each point. These definitions are occasionally equivalent (e.g. locally metrizible), but are not equivalent in general (e.g. locally compact). See [this issue](https://github.com/pi-base/data/issues/42) for discussion.
+If a property is named "locally `P`", then that means that every point in the space has a neighborhood base satisfying P for every member of the base. On the other hand, some authors define "locally `P`" to mean there is a single neighborhood satisfying `P` for each point. These definitions are occasionally equivalent (e.g. locally metrizable), but are not equivalent in general (e.g. locally compact). See [this issue](https://github.com/pi-base/data/issues/42) for discussion.
 
 Use "locally P" when there's a basis of P neighborhoods, and (when not equivalent) use "weakly locally P" when there's a single P neighborhood.
