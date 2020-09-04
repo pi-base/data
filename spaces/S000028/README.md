@@ -20,7 +20,7 @@ refs:
 ---
 Let $X$ be the complement of the rational numbers in $\mathbb{R}$ with the subspace topology.
 
-This space is equivalent to the Baire space \(\omega^\omega\) with the
+This space is homeomorphic to the Baire space \(\omega^\omega\) with the
 product topology.
 
 Defined as counterexample #31 ("The Irrational Numbers")
