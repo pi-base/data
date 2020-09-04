@@ -4,12 +4,19 @@ slug: the-irrational-numbers
 name: Irrational numbers
 aliases:
   - Irrationals
+  - Z^Z
+  - Omega to the omega power
+  - Baire space
+  - Baire product
+  - Countable power of a countable discrete space
 counterexamples_id: 31
 refs:
 - doi: 10.1007/978-1-4612-6290-9 
   name: Counterexamples in Topology
 - wikipedia: Irrational_number
   name: Irrational number on Wikipedia
+- wikipedia: Baire_space_(set_theory)
+  name: Baire space (set theory) on Wikipedia
 ---
 Let $X$ be the complement of the rational numbers in $\mathbb{R}$ with the subspace topology.
 
@@ -17,6 +24,8 @@ This space is equivalent to the Baire space \(\omega^\omega\) with the
 product topology.
 
 Defined as counterexample #31 ("The Irrational Numbers")
+in {{doi:10.1007/978-1-4612-6290-9}}.
+Also defined as counterexample #102 ("\(\mathbb{Z}^{\mathbb{Z}}\)")
 in {{doi:10.1007/978-1-4612-6290-9}}.
 
 <!-- [[Proof of Topology]]
