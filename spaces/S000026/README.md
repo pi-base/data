@@ -1,10 +1,12 @@
 ---
 uid: S000026
 slug: the-cantor-set
-name: Cantor set
+name: Cantor space
+aliases:
+- Cantor set
 counterexamples_id: 29
 refs:
-- doi: 10.1007/978-1-4612-6290-9 
+- doi: 10.1007/978-1-4612-6290-9
   name: Counterexamples in Topology
 - wikipedia: Cantor_set
   name: Cantor set on Wikipedia
