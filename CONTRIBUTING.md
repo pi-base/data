@@ -40,8 +40,9 @@ and use that as your citation.
 
 These are our current mathematical reviewers. Please feel free to contact us with any questions.
 
-- Steven Clontz, University of South Alabama, @StevenClontz
 - Chris Caruvana, Indiana University Kokomo, @ccaruvana
+- Steven Clontz, University of South Alabama, @StevenClontz
+- Lynne Yengulalp, Wake Forest University, @lyengulalp
 
 ## Licensing
 
