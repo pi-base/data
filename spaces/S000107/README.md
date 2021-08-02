@@ -12,7 +12,7 @@ refs:
     name: Counterexamples in Topology
 ---
 The set \(\mathbb{R}^\omega\) with the box product topology where basic open
-sets are of the form \(\Prod_{i<\omega}U_i\) for \(U_i\) open in \(\mathbb R\).
+sets are of the form \(\prod_{i<\omega}U_i\) for \(U_i\) open in \(\mathbb R\).
 Also known as the Boolean product.
 
 Defined as counterexample #109 ("Box Product Topology on \(\mathbb{R}^\omega\)")
