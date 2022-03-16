@@ -7,5 +7,5 @@ refs:
     name: Example of an uncountable scattered space with some properties
 ---
 
-In [[mo:416331]] Will Brian provides an example in ZFC for an uncountable, Hausdorff,
+In {{mo:416331}} Will Brian provides an example in ZFC for an uncountable, Hausdorff,
 first-countable, scattered, Lindelöf space.
