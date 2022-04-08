@@ -3,6 +3,8 @@ uid: S000050
 slug: evenly-spaced-integer-topology
 name: Evenly spaced integer topology
 counterexamples_id: 58
+aliases:
+- Furstenberg Topology
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
