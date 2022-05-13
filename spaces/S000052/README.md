@@ -4,7 +4,7 @@ slug: relatively-prime-integer-topology
 name: Relatively prime integer topology
 counterexamples_id: 60
 aliases:
-- Golumb Topology
+- Golomb Topology
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
