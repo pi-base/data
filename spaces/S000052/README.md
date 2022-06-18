@@ -8,10 +8,10 @@ aliases:
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
-  - wikipedia: Prime_integer_topology
-    name: Prime integer topology on Wikipedia
+  - wikipedia: Arithmetic_progression_topologies
+    name: Arithmetic progression topologies on Wikipedia
 ---
-For any $a,b \in X = \mathbb{Z}^+$, let $U_a(b) = \{b+na : n \in \mathbb{Z}\}$. Then $\{U_a(b) : a,b \in X, gcd(a,b)=1\}$ forms a basis for the relatively prime integer topology on $X$.
+Let $X=\mathbb{Z}^+$, the set of positive integers.  For $a,b \in X$, let $U_a(b) = \{b+na \in X : n \in \mathbb{Z}\} = (b+a\mathbb{Z})\cap X$.  Then $\{U_a(b) : a,b \in X, gcd(a,b)=1\}$ forms a basis for the relatively prime integer topology on $X$.
 
 Defined as counterexample #60 ("Relatively Prime Integer Topology")
 in {{doi:10.1007/978-1-4612-6290-9}}.
