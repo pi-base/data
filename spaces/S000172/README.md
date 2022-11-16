@@ -9,5 +9,5 @@ refs:
     name: Constructions and applications of rigid spaces, I
 ---
 
-In {{mo:434266}} KP Hart shows that a closed subspace of \(\beta\omega\) by Kannan and Rajagopalan is 
+In {{mo:434266}} KP Hart shows that an example of Kannan and Rajagopalan is 
 constructable in ZFC.
