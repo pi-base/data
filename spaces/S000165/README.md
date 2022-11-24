@@ -1,7 +1,7 @@
 ---
 uid: S000165
 slug: one-pt-arens-fort
-name: One-point compactificatoin of the Arens-Fort space
+name: One-point compactification of the Arens-Fort space
 refs:
   - mo: 191022
     name: Answer to ""All retracts are closed" as separation axiom"
