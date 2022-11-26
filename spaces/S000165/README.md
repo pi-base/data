@@ -3,9 +3,8 @@ uid: S000165
 slug: one-pt-arens-fort
 name: One-point compactification of the Arens-Fort space
 refs:
-  - mo: 191022
-    name: Answer to ""All retracts are closed" as separation axiom"
+  - mo: 435257
+    name: Answer to ""All retracts are closed" and "all compacts are closed""
 ---
 
-An example of applying {{mo:191022}} by taking the one-point compactification
-of a space with exactly one point without a compact neighborhood ({P23}).
+The one-point compactification of {S23}, see {{mo:435257}}.
