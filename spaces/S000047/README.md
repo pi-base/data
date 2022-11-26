@@ -1,22 +1,22 @@
 ---
 uid: S000047
 slug: hjalmar-ekdal-topology
-name: Hjalmar Ekdal Topology
+name: Countable sum of Sierpinski spaces
+aliases:
+  - Hjalmar Ekdal topology
 counterexamples_id: 55
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
-  - wikipedia: Hjalmar_Ekdal_topology
-    name: Hjalmar Ekdal topology on Wikipedia
 ---
-Let $X$ be the set of all positive integers and define a topology on a by declaring $U \subset X$ to be open if for every odd $p \in U$, $p+1 \in U$. Equivalently, note that $A \subset X$ is closed if for every $p \in A$, $p-1 \in A$.
+Let $X$ be the set of positive integers and define a topology by declaring $U \subseteq X$ to be open if for every odd $p \in U$, $p+1 \in U$. Equivalently, $A \subseteq X$ is closed iff for every even $p \in A$, $p-1 \in A$.
 
-This space is a topological sum of countably-many copies of the Sierpinski
-space.
+This space is a topological sum of countably-many copies of the {S10}.
 
 Defined as counterexample #55 ("Hjalmar Ekdal Topology")
 in {{doi:10.1007/978-1-4612-6290-9}}.
 
+A piece of trivia: the origin of the name Hjalmar Ekdal is explained [here](https://proofwiki.org/wiki/Mathematician:Hjalmar_Ekdal).
 
 
 <!-- [[Proof of Topology]]
