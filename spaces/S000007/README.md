@@ -11,7 +11,7 @@ refs:
   - wikipedia: Particular_point_topology
     name: Particular point topology on Wikipedia
 ---
-Let $X=3=\{0,1,2\}$ be any finite set and fix a particular point $0$ of $X$.
+Let $X=\{0,1,2\}$ be a finite set with three elements and fix a particular point $p=0$ of $X$.
 A set is open in this topology if it contains $0$ or is empty.
 
 Defined as counterexample #8 ("Finite Particular Point Topology")
