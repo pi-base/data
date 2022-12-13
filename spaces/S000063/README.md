@@ -4,6 +4,7 @@ slug: discrete-irrational-extension-of-mathbb{r}
 name: Discrete irrational extension of the reals
 aliases:
   - Discrete irrational extension of R
+  - Michael Line
 counterexamples_id: 71
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
