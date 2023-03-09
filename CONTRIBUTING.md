@@ -32,17 +32,19 @@ merge them into master.
 Ideally, contributions should reference a peer-reviewed publication, along with a Mathematical Reviews link
 or DOI link. Sometimes Wikipedia references are also appropriate.
 
-To contribute improvements not directly reflected in the literature, we encourage you to ask (and self-answer)
-an appropriate question on either <https://math.stackexchange.com/> or <https://mathoverflow.net/>,
+pi-Base is not a forum for peer review, so
+to contribute improvements not directly reflected in the literature, we encourage you to ask (and self-answer
+if necessary) an appropriate question on either <https://math.stackexchange.com/> or <https://mathoverflow.net/>,
 and use that as your citation.
 
 ## Mathematical Reviewers
 
 These are our current mathematical reviewers. Please feel free to contact us with any questions.
 
-- Chris Caruvana, Indiana University Kokomo, @ccaruvana
-- Steven Clontz, University of South Alabama, @StevenClontz
-- Lynne Yengulalp, Wake Forest University, @lyengulalp
+- Chris Caruvana, @ccaruvana
+- Steven Clontz, @StevenClontz
+- Patrick Rabau, @prabau
+- Lynne Yengulalp, @lyengulalp
 
 ## Licensing
 
