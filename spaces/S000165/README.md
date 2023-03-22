@@ -7,4 +7,4 @@ refs:
     name: Answer to ""All retracts are closed" and "all compacts are closed""
 ---
 
-The one-point compactification of {S23}, see {{mo:435257}}.
+The one-point compactification $X$ of {S23}.  See [this answer](https://mathoverflow.net/a/435257) to {{mo:435257}}.
