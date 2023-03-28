@@ -9,6 +9,7 @@ message: >-
 type: dataset
 authors:
   - given-names: The pi-Base Community
+
 repository-code: 'https://github.com/pi-base/data'
 url: 'https://topology.pi-base.org/'
 abstract: A community database of topological counterexamples
