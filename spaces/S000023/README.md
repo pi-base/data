@@ -16,3 +16,5 @@ a finite number of points in all but a finite number of columns.
 
 Defined as counterexample #26 ("Arens-Fort Space")
 in {{doi:10.1007/978-1-4612-6290-9}}.
+
+This space is homeomorphic to a subspace of {S156}.
