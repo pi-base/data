@@ -15,5 +15,5 @@ refs:
     name: Problem 5468 of The American Mathematical Monthly
 ---
 
-Sets $U$ are open provided for every point $x$ there exists a line segment $L$
-such that $x\in L\subseteq U$.
+Sets $U$ are open provided for every point $x$ and line passing through $x$,
+an open subinterval of the line is a subset of $U$.
