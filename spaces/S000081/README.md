@@ -1,6 +1,5 @@
 ---
 uid: S000081
-slug: alexandroff-plank
 name: Alexandroff plank
 counterexamples_id: 88
 refs:

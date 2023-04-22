@@ -1,6 +1,5 @@
 ---
 uid: S000089
-slug: deleted-tychonoff-corkscrew
 name: Deleted Tychonoff corkscrew
 counterexamples_id: 91
 refs:

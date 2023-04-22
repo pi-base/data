@@ -1,6 +1,5 @@
 ---
 uid: S000025
-slug: euclidean-topology
 name: Euclidean Real Numbers
 aliases:
   - Real Line

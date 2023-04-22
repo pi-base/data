@@ -1,6 +1,5 @@
 ---
 uid: S000165
-slug: one-pt-arens-fort
 name: One-point compactification of the Arens-Fort space
 refs:
   - mo: 435257

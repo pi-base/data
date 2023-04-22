@@ -1,6 +1,5 @@
 ---
 uid: S000047
-slug: hjalmar-ekdal-topology
 name: Countable sum of Sierpinski spaces
 aliases:
   - Hjalmar Ekdal topology

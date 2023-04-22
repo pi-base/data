@@ -1,6 +1,5 @@
 ---
 uid: S000110
-slug: strong-ultrafilter-topology
 name: Strong ultrafilter topology
 counterexamples_id: 113
 refs:

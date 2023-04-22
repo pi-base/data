@@ -1,6 +1,5 @@
 ---
 uid: S000153
-slug: open-long-ray
 name: Open long ray
 aliases:
   - Open long line

@@ -1,6 +1,5 @@
 ---
 uid: S000115
-slug: extended-topologist's-sine-curve
 name: Extended topologist's sine curve
 counterexamples_id: 118
 refs:

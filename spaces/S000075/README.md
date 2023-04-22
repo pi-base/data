@@ -1,6 +1,5 @@
 ---
 uid: S000075
-slug: metrizable-tangent-disc-topology
 name: Rational tangent disc topology
 aliases:
   - Metrizable tangent disc topology

@@ -1,6 +1,5 @@
 ---
 uid: S000033
-slug: open-ordinal-space-[0,gamma)-(gamma-<-omega)
 name: Second limit ordinal
 aliases:
   - Omega Plus Omega

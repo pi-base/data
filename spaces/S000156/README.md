@@ -1,6 +1,5 @@
 ---
 uid: S000156
-slug: arens-space
 name: Arens space
 aliases:
 - S_2

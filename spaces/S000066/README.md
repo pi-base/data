@@ -1,6 +1,5 @@
 ---
 uid: S000066
-slug: double-origin-topology
 name: Double origin topology
 counterexamples_id: 74
 refs:

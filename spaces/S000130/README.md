@@ -1,6 +1,5 @@
 ---
 uid: S000130
-slug: tangora's-connected-space
 name: Tangora's connected space
 counterexamples_id: 133
 refs:

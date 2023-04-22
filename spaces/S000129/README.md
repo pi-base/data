@@ -1,6 +1,5 @@
 ---
 uid: S000129
-slug: wheel-without-its-hub
 name: Wheel without its hub
 counterexamples_id: 132
 refs:

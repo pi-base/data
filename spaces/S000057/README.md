@@ -1,6 +1,5 @@
 ---
 uid: S000057
-slug: rational-sequence-topology
 name: Rational sequence topology
 counterexamples_id: 65
 refs:

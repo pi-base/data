@@ -1,6 +1,5 @@
 ---
 uid: S000172
-slug: kannan-rajagopalan-hart
 name: Kannan-Rajagopalan-Hart Space
 refs:
   - mo: 434266

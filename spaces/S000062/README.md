@@ -1,6 +1,5 @@
 ---
 uid: S000062
-slug: discrete-rational-extension-of-mathbb{r}
 name: Discrete rational extension of the reals
 aliases:
   - Discrete rational extension of R

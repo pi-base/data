@@ -1,6 +1,5 @@
 ---
 uid: S000126
-slug: punctured-kn-fan
 name: Punctured Knaster-Kuratowski fan
 aliases:
   - Cantor's Teepee

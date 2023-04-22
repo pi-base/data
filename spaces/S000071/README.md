@@ -1,6 +1,5 @@
 ---
 uid: S000071
-slug: irregular-lattice-topology
 name: Irregular lattice topology
 counterexamples_id: 79
 refs:

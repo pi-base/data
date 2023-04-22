@@ -1,6 +1,5 @@
 ---
 uid: S000070
-slug: half-disc-topology
 name: Half-disc topology
 counterexamples_id: 78
 refs:

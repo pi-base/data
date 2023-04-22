@@ -1,6 +1,5 @@
 ---
 uid: S000046
-slug: interlocking-interval-topology
 name: Interlocking interval topology
 counterexamples_id: 54
 refs:

@@ -1,6 +1,5 @@
 ---
 uid: S000006
-slug: deleted-integer-topology
 name: Deleted Integer Topology
 counterexamples_id: 7
 refs:

@@ -1,6 +1,5 @@
 ---
 uid: S000012
-slug: countable-excluded-point-topology
 name: Excluded Point Topology on a Countably Infinite Set
 aliases:
   - Countable Excluded Point Topology

@@ -1,6 +1,5 @@
 ---
 uid: S000163
-slug: empty-space
 name: The Empty Space
 refs:
   - wikipedia: Initial_and_terminal_objects

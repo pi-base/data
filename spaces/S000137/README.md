@@ -1,6 +1,5 @@
 ---
 uid: S000137
-slug: michael's-closed-subspace
 name: Michael's closed subspace
 counterexamples_id: 143
 refs:

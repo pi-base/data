@@ -1,6 +1,5 @@
 ---
 uid: S000037
-slug: omega1-plus-1-double-end
 name: $\omega_1+1$ with endpoint doubled
 aliases:
   - Successor to the first uncountable ordinal with endpoint doubled

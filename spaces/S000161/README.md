@@ -1,6 +1,5 @@
 ---
 uid: S000161
-slug: an-anti-hausdorff-fréchet-urysohn-us-space
 name: Van Douwen's anti-Hausdorff Fréchet space
 refs:
   - doi: 10.1016/0166-8641(93)90147-6

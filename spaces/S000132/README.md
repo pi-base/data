@@ -1,6 +1,5 @@
 ---
 uid: S000132
-slug: duncan's-space
 name: Duncan's space
 counterexamples_id: 136
 refs:

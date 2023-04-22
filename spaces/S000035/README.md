@@ -1,6 +1,5 @@
 ---
 uid: S000035
-slug: open-ordinal-space-[0,omega)
 name: First uncountable ordinal
 aliases:
   - Omega1

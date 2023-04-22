@@ -1,6 +1,5 @@
 ---
 uid: S000048
-slug: prime-ideal-topology
 name: Prime ideal topology
 counterexamples_id: 56
 refs:

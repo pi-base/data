@@ -1,6 +1,5 @@
 ---
 uid: S000010
-slug: sierpinski-space
 name: Sierpinski Space
 aliases:
   - Particular Point Topology on a Two-Point Set

@@ -1,6 +1,5 @@
 ---
 uid: S000171
-slug: brian-example
 name: Brian's Example
 refs:
   - mo: 416331

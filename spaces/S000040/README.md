@@ -1,6 +1,5 @@
 ---
 uid: S000040
-slug: an-altered-long-line
 name: Altered long ray
 aliases:
   - Altered long line

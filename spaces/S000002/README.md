@@ -1,6 +1,5 @@
 ---
 uid: S000002
-slug: countable-discrete-topology
 name: Discrete Topology on a Countably Infinite Set
 aliases:
   - Countable Discrete Topology

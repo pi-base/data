@@ -1,6 +1,5 @@
 ---
 uid: S000011
-slug: finite-excluded-point-topology
 name: Excluded Point Topology on a Three-Point Set
 aliases:
   - Finite Excluded Point Topology

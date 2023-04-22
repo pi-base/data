@@ -1,6 +1,5 @@
 ---
 uid: S000096
-slug: appert-space
 name: Appert space
 aliases:
   - Appert topology

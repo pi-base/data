@@ -1,6 +1,5 @@
 ---
 uid: S000039
-slug: the-extended-long-line
 name: Closed long ray
 aliases:
   - Extended long line

@@ -1,6 +1,5 @@
 ---
 uid: S000038
-slug: the-long-line
 name: Long ray
 aliases:
   - Long line

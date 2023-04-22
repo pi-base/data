@@ -1,6 +1,5 @@
 ---
 uid: S000111
-slug: single-ultrafilter-topology
 name: Single ultrafilter topology
 counterexamples_id: 114
 refs:

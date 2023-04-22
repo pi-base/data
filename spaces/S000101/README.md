@@ -1,6 +1,5 @@
 ---
 uid: S000101
-slug: uncountable-products-of-mathbb{z}^+
 name: Continuum power of a countable discrete space
 aliases:
   - Uncountable products of Z+

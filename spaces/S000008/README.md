@@ -1,6 +1,5 @@
 ---
 uid: S000008
-slug: countable-particular-point-topology
 name: Particular Point Topology on a Countably Infinite Set
 aliases:
   - Countable Particular Point Topology

@@ -1,6 +1,5 @@
 ---
 uid: S000120
-slug: the-infinite-cage
 name: Infinite cage
 counterexamples_id: 123
 refs:
