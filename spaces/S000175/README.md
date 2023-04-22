@@ -7,13 +7,13 @@ aliases:
 refs:
   - mathse: 2250999
     name: "Is the core topology on R2 a group topology?"
-  - mr: MR0069388
-    name: Some topological properites on convex sets (Klee 1955)
   - mr: MR0044014
     name: Convex sets in linear spaces (Klee 1951)
+  - mr: MR0069388
+    name: Some topological properites on convex sets (Klee 1955)
   - doi: 10.2307/2315929
     name: Problem 5468 of The American Mathematical Monthly
 ---
 
-Sets $U$ are open provided for every point $x$ and line passing through $x$,
-an open subinterval of the line is a subset of $U$.
+Sets $U$ are open provided for every point $x\in U$ and line $L$ passing through $x$,
+there exists an open subinterval $S\subseteq L$ with $x\in S\subseteq U$.
