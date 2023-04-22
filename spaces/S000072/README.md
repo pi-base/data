@@ -7,7 +7,7 @@ refs:
   - doi: 10.1007/978-1-4612-6290-9
     name: Counterexamples in Topology
 ---
-Let $S = (\mathbb Q\cap((0,1)\setminus\{1/2\}))\times (\mathbb Q\cap(0,1))$ and $X = S \cup \{(0,0), (1,0)\} \cup \{\frac{1}{2}, r\sqrt{2} : r \in \mathbb{Q}, 0 < r\sqrt{2} < 1\}$.
+Let $S = (\mathbb Q\cap(0,1))^2\setminus(\{\frac{1}{2}\}\times\mathbb Q)$ and $X = S \cup \{(0,0), (1,0)\} \cup \{\frac{1}{2}, r\sqrt{2} : r \in \mathbb{Q}, 0 < r\sqrt{2} < 1\}$.
 
 Let $S$ have the subspace topology. Let 
 $U_n(0,0) = \{(0,0)\} \cup \{(x,y): 0<x<\frac{1}{4}, 0<y<\frac{1}{n}\}$,
