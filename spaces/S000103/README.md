@@ -1,6 +1,5 @@
 ---
 uid: S000103
-slug: i^i
 name: Continuum-power of closed unit intervals
 aliases:
   - Continuum-sized product of closed unit intervals

@@ -1,6 +1,5 @@
 ---
 uid: S000122
-slug: gustin's-sequence-space
 name: Gustin's sequence space
 counterexamples_id: 125
 refs:

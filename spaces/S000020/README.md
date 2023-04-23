@@ -1,6 +1,5 @@
 ---
 uid: S000020
-slug: countable-fort-space
 name: Fort Space on a Countably Infinite Set
 aliases:
   - Countable Fort Space

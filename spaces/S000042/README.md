@@ -1,6 +1,5 @@
 ---
 uid: S000042
-slug: right-order-topology-on-mathbb{r}
 name: Right-ordered reals
 aliases:
   - Right Order Topology on R

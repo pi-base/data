@@ -1,6 +1,5 @@
 ---
 uid: S000090
-slug: hewitt's-condensed-corkscrew
 name: Hewitt's condensed corkscrew
 counterexamples_id: 92
 refs:

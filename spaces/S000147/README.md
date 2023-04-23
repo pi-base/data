@@ -1,6 +1,5 @@
 ---
 uid: S000147
-slug: lusin-set
 name: Luzin subset of the reals
 aliases:
   - Lusin subset of the reals

@@ -1,6 +1,5 @@
 ---
 uid: S000125
-slug: kn-fan
 name: Knaster-Kuratowski fan
 aliases:
   - Cantor's leaky tent

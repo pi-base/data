@@ -1,6 +1,5 @@
 ---
 uid: S000158
-slug: the-compact-interval-i:=[0,1]
 name: Unit interval
 refs:
   - mr: MR2048350

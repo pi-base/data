@@ -1,6 +1,5 @@
 ---
 uid: S000173
-slug: mathse-3145712
 name: Product of long ray and continuum power of a closed interval
 refs:
   - mathse: 3145712

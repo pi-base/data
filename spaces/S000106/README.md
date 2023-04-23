@@ -1,6 +1,5 @@
 ---
 uid: S000106
-slug: c[0,1]
 name: Continuous real-valued functions on the unit interval
 aliases:
   - C(I)

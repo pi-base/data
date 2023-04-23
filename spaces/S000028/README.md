@@ -1,6 +1,5 @@
 ---
 uid: S000028
-slug: the-irrational-numbers
 name: Irrational numbers
 aliases:
   - Irrationals

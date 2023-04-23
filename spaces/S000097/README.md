@@ -1,6 +1,5 @@
 ---
 uid: S000097
-slug: maximal-compact-topology
 name: Maximal compact topology
 counterexamples_id: 99
 refs:

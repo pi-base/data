@@ -1,6 +1,5 @@
 ---
 uid: S001103
-slug: supercontinuum-power-of-countable-discrete-space
 name: Supercontinuum power of a countable discrete space
 aliases:
   - Uncountable products of Z+

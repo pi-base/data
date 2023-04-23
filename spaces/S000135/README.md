@@ -1,6 +1,5 @@
 ---
 uid: S000135
-slug: radial-interval-topology
 name: Radial intervals through the origin of the plane
 aliases:
 - Radial interval topology

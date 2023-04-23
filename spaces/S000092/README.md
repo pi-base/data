@@ -1,6 +1,5 @@
 ---
 uid: S000092
-slug: thomas'-corkscrew
 name: Thomas corkscrew
 counterexamples_id: 94
 refs:

@@ -1,6 +1,5 @@
 ---
 uid: S000060
-slug: pointed-rational-extension-of-mathbb{r}
 name: Pointed Rational Extension of $\mathbb{R}$
 aliases:
   - Pointed rational extension of R

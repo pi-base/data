@@ -1,6 +1,5 @@
 ---
 uid: S000175
-slug: radial-plane
 name: Radial plane
 aliases:
 - Core topology on $\mathbb R^2$

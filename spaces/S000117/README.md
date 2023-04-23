@@ -1,6 +1,5 @@
 ---
 uid: S000117
-slug: the-closed-infinite-broom
 name: Closed infinite broom
 counterexamples_id: 120
 refs:

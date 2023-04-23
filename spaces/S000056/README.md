@@ -1,6 +1,5 @@
 ---
 uid: S000056
-slug: smirnov's-deleted-sequence-topology
 name: Smirnov's deleted sequence topology
 aliases:
   - K-topology

@@ -1,6 +1,5 @@
 ---
 uid: S000109
-slug: novak-space
 name: Novak space
 counterexamples_id: 112
 refs:

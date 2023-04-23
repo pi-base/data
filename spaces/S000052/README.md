@@ -1,6 +1,5 @@
 ---
 uid: S000052
-slug: relatively-prime-integer-topology
 name: Relatively prime integer topology
 counterexamples_id: 60
 aliases:

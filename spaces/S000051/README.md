@@ -1,6 +1,5 @@
 ---
 uid: S000051
-slug: the-p-adic-topology-on-mathbb{z}
 name: p-adic topology on Z
 counterexamples_id: 59
 refs:

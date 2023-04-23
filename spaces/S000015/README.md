@@ -1,6 +1,5 @@
 ---
 uid: S000015
-slug: finite-complement-topology-on-a-countable-space
 name: Finite complement topology on a countably infinite set
 aliases:
   - Finite Complement Topology on a Countable Space

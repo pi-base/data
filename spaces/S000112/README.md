@@ -1,6 +1,5 @@
 ---
 uid: S000112
-slug: nested-rectangles
 name: Nested rectangles in the real plane
 counterexamples_id: 115
 refs:

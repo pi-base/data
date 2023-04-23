@@ -1,6 +1,5 @@
 ---
 uid: S000009
-slug: uncountable-particular-point-topology
 name: Particular Point Topology on the Real Numbers
 aliases:
   - Uncountable Particular Point Topology

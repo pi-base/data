@@ -1,6 +1,5 @@
 ---
 uid: S000074
-slug: niemytzki's-tangent-disc-topology
 name: Niemytzki's tangent disc topology
 aliases:
   - Moore plane

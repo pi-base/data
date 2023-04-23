@@ -1,6 +1,5 @@
 ---
 uid: S000127
-slug: a-pseudo-arc
 name: Pseudo-arc
 counterexamples_id: 130
 refs:

@@ -1,6 +1,5 @@
 ---
 uid: S000087
-slug: dieudonne-plank
 name: Dieudonné plank
 aliases:
   - Dieudonne plank

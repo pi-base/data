@@ -1,6 +1,5 @@
 ---
 uid: S000164
-slug: two-indiscrete-one-singleton
 name: Two-point indiscrete space summed with a singleton
 ---
 

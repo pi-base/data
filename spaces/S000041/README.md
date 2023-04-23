@@ -1,6 +1,5 @@
 ---
 uid: S000041
-slug: lexicographic-ordering-on-the-unit-square
 name: Lexicographic unit square
 aliases:
   - Lexicographic ordering on the unit square

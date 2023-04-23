@@ -1,6 +1,5 @@
 ---
 uid: S000054
-slug: double-pointed-reals
 name: Double pointed reals
 counterexamples_id: 62
 refs:

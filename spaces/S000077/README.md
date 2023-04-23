@@ -1,6 +1,5 @@
 ---
 uid: S000077
-slug: michael's-product-topology
 name: Michael's product topology
 counterexamples_id: 85
 refs:

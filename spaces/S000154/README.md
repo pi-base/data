@@ -1,6 +1,5 @@
 ---
 uid: S000154
-slug: uncountable-fort-space
 name: Fort Space on the Real Numbers
 aliases:
   - Uncountable Fort Space

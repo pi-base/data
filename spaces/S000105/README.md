@@ -1,6 +1,5 @@
 ---
 uid: S000105
-slug: helly-space
 name: Helly space
 aliases:
   - Non-decreasing functions of I^I

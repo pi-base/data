@@ -1,6 +1,5 @@
 ---
 uid: S000026
-slug: the-cantor-set
 name: Cantor space
 aliases:
 - Cantor set

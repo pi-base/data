@@ -1,6 +1,5 @@
 ---
 uid: S000138
-slug: rudin's-dowker-space
 name: Rudin's Dowker space
 refs:
   - doi: 10.1090/s0002-9904-1971-12702-7
