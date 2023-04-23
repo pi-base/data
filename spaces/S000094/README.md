@@ -1,6 +1,5 @@
 ---
 uid: S000094
-slug: strong-parallel-line-topology
 name: Strong parallel line topology
 counterexamples_id: 96
 refs:

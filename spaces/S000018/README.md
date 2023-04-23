@@ -1,6 +1,5 @@
 ---
 uid: S000018
-slug: double-pointed-countable-complement-topology
 name: Double pointed countable complement topology on the real numbers
 aliases:
   - Double pointed countable complement topology

@@ -1,6 +1,5 @@
 ---
 uid: S000162
-slug: singleton
 name: The Singleton
 aliases:
 - The Single-Point Space

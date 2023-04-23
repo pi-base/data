@@ -1,6 +1,5 @@
 ---
 uid: S000079
-slug: deleted-tychonoff-plank
 name: Deleted Tychonoff plank
 counterexamples_id: 87
 refs:

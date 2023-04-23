@@ -1,6 +1,5 @@
 ---
 uid: S000029
-slug: one-point-compactification-of-the-rationals
 name: One Point Compactification of the Rationals
 counterexamples_id: 35
 refs:

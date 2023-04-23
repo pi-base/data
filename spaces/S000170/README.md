@@ -1,6 +1,5 @@
 ---
 uid: S000170
-slug: circle
 name: Circle
 aliases:
 - S1

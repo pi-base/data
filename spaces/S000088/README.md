@@ -1,6 +1,5 @@
 ---
 uid: S000088
-slug: tychonoff-corkscrew
 name: Tychonoff corkscrew
 counterexamples_id: 90
 refs:

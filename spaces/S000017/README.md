@@ -1,6 +1,5 @@
 ---
 uid: S000017
-slug: countable-complement-topology
 name: Countable complement topology on the real numbers
 aliases:
   - Countable Complement Topology

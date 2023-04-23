@@ -1,6 +1,5 @@
 ---
 uid: S000059
-slug: indiscrete-irrational-extension-of-mathbb{r}
 name: Indiscrete irrational extension of the reals
 aliases:
   - Indiscrete irrational extension of R

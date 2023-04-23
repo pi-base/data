@@ -1,6 +1,5 @@
 ---
 uid: S000118
-slug: the-integer-broom
 name: Integer broom
 counterexamples_id: 121
 refs:

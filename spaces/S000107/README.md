@@ -1,6 +1,5 @@
 ---
 uid: S000107
-slug: boolean-product-topology-on-mathbb{r}^{omega}
 name: Countable box product of reals
 aliases:
   - Countable boolean product of reals

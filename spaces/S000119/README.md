@@ -1,6 +1,5 @@
 ---
 uid: S000119
-slug: nested-angles
 name: Nested angles in the real plane
 counterexamples_id: 122
 refs:

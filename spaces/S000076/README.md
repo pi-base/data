@@ -1,6 +1,5 @@
 ---
 uid: S000076
-slug: sorgenfrey's-half-open-square-topology
 name: Sorgenfrey plane
 aliases:
   - Sorgenfrey's half-open square topology

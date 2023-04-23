@@ -1,6 +1,5 @@
 ---
 uid: S000004
-slug: indiscrete-topology
 name: Indiscrete Topology on a Two-Point Set
 aliases:
   - Indiscrete Topology on a Two-Point Set

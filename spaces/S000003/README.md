@@ -1,6 +1,5 @@
 ---
 uid: S000003
-slug: uncountable-discrete-topology
 name: Discrete Topology on the Real Numbers
 aliases:
   - Uncountable Discrete Topology

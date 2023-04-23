@@ -1,6 +1,5 @@
 ---
 uid: S000069
-slug: deleted-radius-topology
 name: Deleted radius topology
 counterexamples_id: 77
 refs:

@@ -1,6 +1,5 @@
 ---
 uid: S000114
-slug: closed-topologist's-sine-curve
 name: Closed Topologist's Sine Curve
 counterexamples_id: 117
 refs:

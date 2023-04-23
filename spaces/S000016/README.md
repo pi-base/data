@@ -1,6 +1,5 @@
 ---
 uid: S000016
-slug: finite-complement-topology-on-an-uncountable-space
 name: Finite complement topology on the real numbers
 aliases:
   - Finite Complement Topology on an Uncountable Space

@@ -1,6 +1,5 @@
 ---
 uid: S000072
-slug: arens-square
 name: Arens square
 counterexamples_id: 80
 refs:

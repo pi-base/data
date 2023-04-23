@@ -1,6 +1,5 @@
 ---
 uid: S000073
-slug: simplified-arens-square
 name: Simplified arens square
 counterexamples_id: 81
 refs:

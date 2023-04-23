@@ -1,6 +1,5 @@
 ---
 uid: S000013
-slug: uncountable-excluded-point-topology
 name: Excluded Point Topology on the Real Numbers
 aliases:
   - Uncountable Excluded Point Topology

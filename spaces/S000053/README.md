@@ -1,6 +1,5 @@
 ---
 uid: S000053
-slug: prime-integer-topology
 name: Prime integer topology
 counterexamples_id: 61
 aliases:

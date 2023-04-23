@@ -1,6 +1,5 @@
 ---
 uid: S000027
-slug: the-rational-numbers
 name: Rational numbers
 aliases:
   - Rationals

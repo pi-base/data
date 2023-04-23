@@ -1,6 +1,5 @@
 ---
 uid: S000093
-slug: weak-parallel-line-topology
 name: Double arrow space
 aliases:
   - Split interval

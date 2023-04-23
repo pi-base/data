@@ -1,6 +1,5 @@
 ---
 uid: S000065
-slug: telophase-topology
 name: Telophase topology
 counterexamples_id: 73
 refs:

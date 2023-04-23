@@ -1,6 +1,5 @@
 ---
 uid: S000067
-slug: irrational-slope-topology
 name: Irrational slope topology
 counterexamples_id: 75
 refs:

@@ -1,6 +1,5 @@
 ---
 uid: S000061
-slug: pointed-irrational-extension-of-mathbb{r}
 name: Pointed irrational extension of the reals
 aliases:
   - Pointed irrational extension of R

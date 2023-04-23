@@ -1,6 +1,5 @@
 ---
 uid: S000134
-slug: the-radial-metric
 name: Radial metric on the plane
 aliases:
   - Paris metric on the plane
