@@ -12,7 +12,7 @@ The authors of {{doi:10.1007/978-1-4612-6290-9}} intended the {S72} space (count
 
 Let $Q$ be the set of rational points in the interval $(0,1)$ and let $\{Q_q:q\in Q\}$ be a partition of $Q$ into countably many dense subsets. Let
 
-$S=\bigcup_{q\in Q}(\{q\}\times Q\_q)$
+$S=\bigcup_{q\in Q}(\{q\}\times Q_q)$
 
 and take the space to be $X=\{(0,0),(1,0)\}\cup S$.
 
