@@ -1,6 +1,5 @@
 ---
 uid: S000176
-slug: euclidean-plane
 name: Euclidean Plane $\mathbb R^2$
 refs:
   - mr: MR2048350
