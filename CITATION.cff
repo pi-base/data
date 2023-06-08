@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: pi-Base/data
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: The pi-Base Community
+repository-code: 'https://github.com/pi-base/data'
+url: 'https://topology.pi-base.org/'
+abstract: A community database of topological counterexamples
+keywords:
+  - mathematics
+  - topology
+  - examples
+  - counterexamples
+license: CC-BY-4.0
+
