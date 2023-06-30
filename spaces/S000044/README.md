@@ -1,6 +1,5 @@
 ---
 uid: S000044
-slug: nested-interval-topology
 name: Nested interval topology
 counterexamples_id: 52
 refs:

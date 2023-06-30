@@ -1,6 +1,5 @@
 ---
 uid: S000095
-slug: concentric-circles
 name: Concentric circles
 counterexamples_id: 97
 refs:

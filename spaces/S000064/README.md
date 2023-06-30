@@ -1,6 +1,5 @@
 ---
 uid: S000064
-slug: rational-extension-in-the-plane
 name: Pointed rational extension of the plane
 counterexamples_id: 72
 refs:

@@ -1,6 +1,5 @@
 ---
 uid: S000068
-slug: deleted-diameter-topology
 name: Deleted diameter topology
 counterexamples_id: 76
 refs:

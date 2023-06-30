@@ -1,6 +1,5 @@
 ---
 uid: S000123
-slug: roy's-lattice-space
 name: Roy's lattice space
 counterexamples_id: 126
 refs:

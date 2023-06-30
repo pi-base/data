@@ -1,6 +1,5 @@
 ---
 uid: S000133
-slug: the-post-office-metric
 name: Post office metric on the plane
 counterexamples_id: 139
 refs:

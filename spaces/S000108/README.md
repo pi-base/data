@@ -1,6 +1,5 @@
 ---
 uid: S000108
-slug: stone-cech-compactification-of-the-integers
 name: Stone-Cech compactification of the integers
 aliases:
   - Beta N

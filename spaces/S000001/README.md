@@ -1,6 +1,5 @@
 ---
 uid: S000001
-slug: finite-discrete-topology
 name: Discrete topology on a two-point set
 aliases:
   - Finite Discrete Topology

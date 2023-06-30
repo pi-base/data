@@ -1,6 +1,5 @@
 ---
 uid: S000078
-slug: tychonoff-plank
 name: Tychonoff plank
 counterexamples_id: 86
 refs:

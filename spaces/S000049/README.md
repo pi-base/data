@@ -1,6 +1,5 @@
 ---
 uid: S000049
-slug: divisor-topology
 name: Divisor topology
 counterexamples_id: 57
 refs:

@@ -1,6 +1,5 @@
 ---
 uid: S000022
-slug: fortissimo-space
 name: Fortissimo Space on the Real Numbers
 aliases:
   - Fortissimo Space

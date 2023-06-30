@@ -1,6 +1,5 @@
 ---
 uid: S000023
-slug: arens-fort-space
 name: Arens-Fort Space
 counterexamples_id: 26
 refs:

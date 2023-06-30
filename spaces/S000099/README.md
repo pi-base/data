@@ -1,6 +1,5 @@
 ---
 uid: S000099
-slug: alexandroff-square
 name: Alexandroff square
 counterexamples_id: 101
 refs:

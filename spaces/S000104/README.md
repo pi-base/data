@@ -1,6 +1,5 @@
 ---
 uid: S000104
-slug: "[0,omega)-times-i^i"
 name: Product of the first-uncountable ordinal with the continuum-power of
       unit intervals
 aliases:

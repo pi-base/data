@@ -1,6 +1,5 @@
 ---
 uid: S000019
-slug: compact-complement-topology
 name: Compact Complement Topology for the Euclidean Real Numbers
 aliases:
   - Compact Complement Topology

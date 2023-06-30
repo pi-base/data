@@ -1,6 +1,5 @@
 ---
 uid: S000014
-slug: either-or-topology
 name: Either-Or Topology
 counterexamples_id: 17
 refs:

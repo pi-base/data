@@ -1,6 +1,5 @@
 ---
 uid: S000063
-slug: discrete-irrational-extension-of-mathbb{r}
 name: Discrete irrational extension of the reals
 aliases:
   - Michael Line

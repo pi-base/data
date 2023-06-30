@@ -1,6 +1,5 @@
 ---
 uid: S000050
-slug: evenly-spaced-integer-topology
 name: Evenly spaced integer topology
 counterexamples_id: 58
 aliases:

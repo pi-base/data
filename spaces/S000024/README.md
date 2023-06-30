@@ -1,6 +1,5 @@
 ---
 uid: S000024
-slug: uncountable-modified-fort-space
 name: Modified Fort Space on the Real Numbers
 aliases:
   - Uncountable Modified Fort Space

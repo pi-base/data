@@ -1,6 +1,5 @@
 ---
 uid: S000091
-slug: thomas'-plank
 name: Thomas plank
 counterexamples_id: 93
 refs:

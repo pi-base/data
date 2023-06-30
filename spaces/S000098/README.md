@@ -1,6 +1,5 @@
 ---
 uid: S000098
-slug: minimal-hausdorff-topology
 name: Minimal Hausdorff topology
 counterexamples_id: 100
 refs:

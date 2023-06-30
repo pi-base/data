@@ -1,6 +1,5 @@
 ---
 uid: S000005
-slug: odd-even-topology
 name: Odd-Even Topology
 counterexamples_id: 6
 refs:

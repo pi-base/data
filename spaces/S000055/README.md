@@ -1,6 +1,5 @@
 ---
 uid: S000055
-slug: countable-complement-extension-topology
 name: Countable complement extension topology on the real numbers
 counterexamples_id: 63
 refs:

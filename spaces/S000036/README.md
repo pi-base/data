@@ -1,6 +1,5 @@
 ---
 uid: S000036
-slug: closed-ordinal-space-[0,omega]
 name: Successor to the first uncountable ordinal
 aliases:
   - Omega1 + 1

@@ -1,6 +1,5 @@
 ---
 uid: S000027
-slug: the-rational-numbers
 name: Rational numbers
 aliases:
   - Rationals
@@ -11,8 +10,7 @@ refs:
 - wikipedia: Rational_number
   name: Rational number on Wikipedia
 ---
-Let $X = \mathbb{Q} = \{\frac{a}{b} : a,b \in \mathbb{Z}\}$
-with the subspace topology induced from the Euclidean real line.
+Let $X = \mathbb{Q}$, the set of rational numbers, with the subspace topology induced from the Euclidean real line.
 
 Defined as counterexample #30 ("The Rational Numbers")
 in {{doi:10.1007/978-1-4612-6290-9}}.

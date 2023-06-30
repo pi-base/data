@@ -1,6 +1,5 @@
 ---
 uid: S000102
-slug: baire-product-metric-on-mathbb{r}^{omega}
 name: Baire metric on a countable product of reals
 aliases:
   - Baire product metric

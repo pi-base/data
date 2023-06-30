@@ -1,6 +1,5 @@
 ---
 uid: S000136
-slug: bing's-discrete-extension-space
 name: Bing's discrete extension space
 aliases:
   - Bing's Example G

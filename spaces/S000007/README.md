@@ -1,6 +1,5 @@
 ---
 uid: S000007
-slug: finite-particular-point-topology
 name: Particular Point Topology on a Three-Point Set
 aliases:
   - Finite Particular Point Topology

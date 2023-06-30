@@ -1,6 +1,5 @@
 ---
 uid: S000128
-slug: miller's-biconnected-set
 name: Miller's biconnected set
 counterexamples_id: 131
 refs:

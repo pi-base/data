@@ -1,6 +1,5 @@
 ---
 uid: S000034
-slug: closed-ordinal-space-[0,gamma]-(gamma-<-omega)
 name: Successor to the second limit ordinal
 aliases:
   - Omega + omega + 1

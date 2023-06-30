@@ -1,6 +1,5 @@
 ---
 uid: S000174
-slug: pol-space
 name: Pol's $T_6$ non-paracompact space
 refs:
   - doi: 10.4064/FM-97-2-53-55

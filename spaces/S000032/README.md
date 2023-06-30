@@ -1,6 +1,5 @@
 ---
 uid: S000032
-slug: hilbert-cube
 name: Hilbert cube
 counterexamples_id: 38
 refs:

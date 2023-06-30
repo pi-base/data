@@ -1,6 +1,5 @@
 ---
 uid: S000121
-slug: bernstein's-connected-sets
 name: Bernstein's connected set
 counterexamples_id: 124
 refs:

@@ -1,7 +1,8 @@
 ---
 uid: S000135
-slug: radial-interval-topology
-name: Radial interval topology
+name: Radial intervals through the origin of the plane
+aliases:
+- Radial interval topology
 counterexamples_id: 141
 refs:
 - doi: 10.1007/978-1-4612-6290-9

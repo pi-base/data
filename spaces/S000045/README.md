@@ -1,6 +1,5 @@
 ---
 uid: S000045
-slug: overlapping-interval-topology
 name: Overlapping interval topology
 counterexamples_id: 53
 refs:

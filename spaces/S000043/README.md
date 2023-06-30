@@ -1,6 +1,5 @@
 ---
 uid: S000043
-slug: right-half-open-interval-topology
 name: Sorgenfrey line
 aliases:
   - Right half-open interval topology

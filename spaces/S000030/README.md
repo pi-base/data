@@ -1,6 +1,5 @@
 ---
 uid: S000030
-slug: hilbert-space
 name: Hilbert space
 aliases:
   - Frechet space

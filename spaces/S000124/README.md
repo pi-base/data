@@ -1,6 +1,5 @@
 ---
 uid: S000124
-slug: roy's-lattice-subspace
 name: Roy's lattice subspace
 counterexamples_id: 127
 refs:
