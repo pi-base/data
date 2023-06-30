@@ -24,26 +24,26 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: us-east-2
-      - name: Notify Slack
-        run: |
-          curl -X POST \
-            -H 'Content-type: application/json' \
-            -H 'Authorization: Bearer ${{ secrets.SLACK_BOT_TOKEN }}' \
-            --data '{
-              "channel": "activity",
-              "icon_emoji": ":female_scientist:",
-              "attachments": [
-                {
-            	    "mrkdwn_in": ["text"],
-                  "text": "New release for *${{ github.repository }}*",
-            		  "color": "good",
-            		  "fields": [
-                    { "title": "Message", "value": "${{ github.event.head_commit.message }}"},
-            		    { "title": "Author", "value": "${{ github.actor }}" },
-            		    { "title": "Ref", "value": "${{ github.ref }}", "short": true },
-            		    { "title": "Sha", "value": "${{ github.sha }}", "short": true }
-                  ]
-                }
-              ]
-            }' \
-            https://slack.com/api/chat.postMessage
+#       - name: Notify Slack
+#         run: |
+#           curl -X POST \
+#             -H 'Content-type: application/json' \
+#             -H 'Authorization: Bearer ${{ secrets.SLACK_BOT_TOKEN }}' \
+#             --data '{
+#               "channel": "activity",
+#               "icon_emoji": ":female_scientist:",
+#               "attachments": [
+#                 {
+#             	    "mrkdwn_in": ["text"],
+#                   "text": "New release for *${{ github.repository }}*",
+#             		  "color": "good",
+#             		  "fields": [
+#                     { "title": "Message", "value": "${{ github.event.head_commit.message }}"},
+#             		    { "title": "Author", "value": "${{ github.actor }}" },
+#             		    { "title": "Ref", "value": "${{ github.ref }}", "short": true },
+#             		    { "title": "Sha", "value": "${{ github.sha }}", "short": true }
+#                   ]
+#                 }
+#               ]
+#             }' \
+#             https://slack.com/api/chat.postMessage
