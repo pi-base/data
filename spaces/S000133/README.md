@@ -7,10 +7,11 @@ refs:
     name: Counterexamples in Topology
 ---
 If $d$ is the usual metric on $\mathbb{R}^2$, the post office metric $p$ is defined by:
-\[r(x,y) = \begin{cases}
+
+$r(x,y) = \begin{cases}
     0 & x=y \\
     d(x,(0,0)) + d(y,(0,0)) & \text{otherwise}
-\end{cases}\]
+\end{cases}$
 
 Defined as counterexample #139 ("The Post Office Metric")
 in {{doi:10.1007/978-1-4612-6290-9}}.
