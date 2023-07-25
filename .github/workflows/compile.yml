@@ -1,7 +1,13 @@
 name: compile
 
 on:
-  push:
+  push: 
+    branches:
+      - main
+  pull_request:
+    types: 
+      - opened
+      - edited
 
 jobs:
   build:
