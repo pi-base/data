@@ -1,5 +1,5 @@
 ---
-uid: S000147
+uid: S000148
 name: A Luzin subset of the reals (Just et al 1996)
 aliases:
   - Lusin subset of the reals
