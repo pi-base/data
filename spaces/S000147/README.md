@@ -10,6 +10,8 @@ refs:
     name: Luzin spaces
 ---
 
-An uncountable subset of the reals such that every nowhere dense subset is countable.
+An uncountable subset of the reals such that its intersection with
+every nowhere dense subset of the reals (equivalently,
+every meager subset of the reals) is countable.
 
 Note that the construction of such a set requires additional axioms beyond $ZFC$, such as $CH$.
