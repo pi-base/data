@@ -1,6 +1,6 @@
 ---
 uid: S000181
-name: Countable sigma product on ω_1+1
+name: Countable sigma product on $\omega_1+1$
 refs:
   - doi: 10.1515/math-2015-0018
     name: Vietoris topology on spaces dominated by second countable ones
