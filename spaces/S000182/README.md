@@ -2,7 +2,7 @@
 uid: S000182
 name: Disjoint union of continuum many copies of $\mathbb{Q}$
 refs:
-- mathse: 3198478
+  - mathse: 3198478
     name: Meager topological spaces of uncountable size
 ---
 
