@@ -3,6 +3,7 @@ uid: S000020
 name: Fort Space on a Countably Infinite Set
 aliases:
   - Countable Fort Space
+  - Converging sequence
 counterexamples_id: 23
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
@@ -14,6 +15,7 @@ Let $X=\omega\cup\{\infty\}=\{0,1,2\dots\}\cup\{\infty\}$.
 Define $U \subseteq X$ to be open if its complement either is finite or includes $\infty$.
 
 This space is the one-point compactification of a countably infinite discrete space.
+Equivalently, it is homeomorphic to $\{0\}\cup\{2^{-n}:n<\omega\}$ as a subspace of {S25}.
 
 Defined as counterexample #23 ("Countable Fort Space")
 in {{doi:10.1007/978-1-4612-6290-9}}.
