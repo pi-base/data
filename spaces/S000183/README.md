@@ -4,7 +4,7 @@ name: Non-sequentially discrete countable complement topology
 aliases:
   - Modified cocountable space
 refs:
-  - mo: 3198478
+  - mo: 452903
     name: Must US extremally disconnected spaces be sequentially discrete?
 ---
 
