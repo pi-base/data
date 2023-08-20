@@ -1,8 +1,8 @@
 ---
 uid: S000183
-name: Non-sequentially discrete countable complement topology
+name: Non-sequentially discrete modified cocountable topology
 aliases:
-  - Modified cocountable space
+  - Modified countable complement space
 refs:
   - mo: 452903
     name: Must US extremally disconnected spaces be sequentially discrete?
