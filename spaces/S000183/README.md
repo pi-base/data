@@ -8,9 +8,8 @@ refs:
     name: Must US extremally disconnected spaces be sequentially discrete?
 ---
 
-Let $Y$ be {S17} and $Y$ be {S20}. This space is the minimal topology on
-the disjoint union $Y\cup Z$ such that $Z$ is closed, and countable
-subsets of $Y$ are all closed.
+Let $Y$ be {S17} and $Z$ be {S20}. The space $X$ is the disjoint union $Y\cup Z$ with the minimal topology such that $Z$ is a closed subspace of $X$, and countable
+subsets of $Y$ are all closed in $X$.
 
 This space was constructed by K.P. Hart in {{mo:452903}} to demonstrate an
 example of a space which is {P49} and {P99}, but not {P167}.
