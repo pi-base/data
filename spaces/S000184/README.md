@@ -1,5 +1,5 @@
 ---
-uid: S000183
+uid: S000184
 name: Banakh and Stelmakh's countable Brown space
 refs:
   - mr: MR4614765
