@@ -1,6 +1,6 @@
 ---
 uid: S000185
-name: Compact semi-Hausdroff non-KC space
+name: Compact semi-Hausdorff non-KC space
 ---
 
 A coarsening of the topology given in {S97}. Consider
