@@ -1,0 +1,8 @@
+---
+uid: S000186
+name: Converging sequence of Semi-Hausdorff spaces
+---
+
+Let $Y$ be a copy of {S97}. This space is $X=(Y\times\omega)\cup\{\infty\}$.
+The subspace $Y\times\omega$ is open with the product topology, and
+neighborhoods of $\infty$ are of the form $(Y\times(\omega\setminus n))\cup\{\infty\}$.
