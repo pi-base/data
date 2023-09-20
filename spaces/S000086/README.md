@@ -1,0 +1,18 @@
+---
+uid: S000086
+name: Everywhere doubled line
+refs:
+- doi: 10.1090/S0002-9939-07-09100-9
+  name: "Manifolds: Hausdorffness versus homogeneity (Baillif & Gabard)"
+- mathse: 3678440
+  name: Answer to "T1 spaces where the closure of a compact set is not compact"
+---
+
+This space is similar to {S83}, with every point "doubled".
+
+The space can be described as the union of two real lines $X=A\sqcup B$ with $A = \mathbb R\times\{0\}$ and $B=\mathbb R\times\{1\}$.  A set $U\subseteq X$ is open exactly when $U\cap A$ is open in $A$ with the usual Euclidean topology and for each $x=(r,1)\in U\cap B$, the set $U$ contains a deleted neighborhood of $(r,0)$ in $A$.
+
+See section 3 of {{doi:10.1090/S0002-9939-07-09100-9}}
+and the description of the general construction in {{mathse:3678440}}.
+
+This provides an example of a {P123} space that is not {P3}, but is {P86}.
