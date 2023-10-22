@@ -8,7 +8,7 @@ refs:
   - wikipedia: Tychonoff_plank
     name: Tychonoff plank on Wikipedia
 ---
-The space $[0,\omega] \times [0,\omega_1] \setminus \{\omega,\omega_1\}$ where each factor has the order topology.
+The space $([0,\omega_1] \times [0,\omega]) \setminus \{(\omega_1,\omega)\}$ where each factor has the order topology.  This is a subspace of the {S78}.
 
 Defined as counterexample #87 ("Deleted Tychonoff Plank")
 in {{doi:10.1007/978-1-4612-6290-9}}.

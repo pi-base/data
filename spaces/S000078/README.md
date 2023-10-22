@@ -8,7 +8,8 @@ refs:
   - wikipedia: Tychonoff_plank
     name: Tychonoff plank on Wikipedia
 ---
-The space $[0,\omega] \times [0,\omega_1]$ where each factor has the order topology.
+
+The space $[0,\omega_1] \times [0,\omega]$ where each factor has the order topology.
 
 Defined as counterexample #86 ("Tychonoff Plank")
 in {{doi:10.1007/978-1-4612-6290-9}}.
