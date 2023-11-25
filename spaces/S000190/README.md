@@ -1,5 +1,5 @@
 ---
-uid: S000004
+uid: S000190
 name: Indiscrete Topology on a Three-Point Set
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
