@@ -1,6 +1,6 @@
 ---
 uid: S000189
-name: Discrete topology on a three-point set
+name: Discrete Topology on a Three-Point Set
 aliases:
   - Finite Discrete Topology
 refs:
