@@ -1,5 +1,5 @@
 ---
-uid: S000001
+uid: S000189
 name: Discrete topology on a three-point set
 aliases:
   - Finite Discrete Topology
