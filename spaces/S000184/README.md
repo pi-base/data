@@ -3,4 +3,6 @@ uid: S000184
 name: Sum of a pair of two-point indiscrete spaces
 ---
 
-$X=X_0\cup X_1$ with each $X_i$ open and a copy of {S4}.
+$X=\{0,1,2,3\}$ with the topology
+$\{\emptyset,\{0,1\},\{2,3\},X\}$, so
+$\{0,1\}$ and $\{2,3\}$ are each a copy of {S4}.
