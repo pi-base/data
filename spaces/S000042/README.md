@@ -1,9 +1,8 @@
 ---
 uid: S000042
-name: Right-ordered reals
+name: Ray Topology on the Reals
 aliases:
   - Right Order Topology on R
-  - Left-ordered reals
 counterexamples_id: 48
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
