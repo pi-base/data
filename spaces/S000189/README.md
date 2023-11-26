@@ -9,7 +9,7 @@ refs:
   - wikipedia: Discrete_space
     name: Discrete Space on Wikipedia
 ---
-Let $X=3=\{0,1,2\}$ be the space containing two points and
+Let $X=3=\{0,1,2\}$ be a space containing three points and
 let all subsets of $X$ be open.
 
 See counterexample #1 ("Finite Discrete Topology")

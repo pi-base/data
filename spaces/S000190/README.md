@@ -7,9 +7,8 @@ refs:
   - wikipedia: Trivial_topology
     name: Trivial topology on Wikipedia
 ---
-Let $X=3=\{0,1,2\}$ be the space containing two points and
+Let $X=3=\{0,1,2\}$ be a space containing three points and
 let only the sets $X$ and $\emptyset$ be open.
-
 
 See counterexample #4 ("Indiscrete Topology")
 in {{doi:10.1007/978-1-4612-6290-9}}.
