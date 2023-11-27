@@ -4,6 +4,7 @@ name: Right Ray Topology on the Reals
 aliases:
   - Right-ordered reals
   - Right Order Topology on R
+  - Left Ray Topology on the Reals
 counterexamples_id: 48
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
