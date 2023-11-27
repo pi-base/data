@@ -4,7 +4,8 @@ name: Sierpinski Space
 aliases:
   - Particular Point Topology on a Two-Point Set
   - Excluded Point Topology on a Two-Point Set
-  - Ray Topology on a Two-Point Set
+  - Right Ray Topology on a Two-Point Set
+  - Left Ray Topology on a Two-Point Set
 counterexamples_id: 11
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
