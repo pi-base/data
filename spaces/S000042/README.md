@@ -2,6 +2,7 @@
 uid: S000042
 name: Ray Topology on the Reals
 aliases:
+  - Right-ordered reals
   - Right Order Topology on R
 counterexamples_id: 48
 refs:
