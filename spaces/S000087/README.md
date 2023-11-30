@@ -11,7 +11,7 @@ refs:
     name: Dieudonné plank on Wikipedia
 ---
 
-The subspace $X$ of {S187} obtained by removing the point $\langle\omega_1,\omega\rangle$.
+The subspace $X$ of {S191} obtained by removing the point $\langle\omega_1,\omega\rangle$.
 So $X=(Y\times Z)\setminus\{\langle\omega_1,\omega\rangle\}$ 
 where $Y=[0,\omega_1]$ is given the topology with points of $[0,\omega_1)$
 isolated and neighborhoods of $\omega_1$ cocountable,
