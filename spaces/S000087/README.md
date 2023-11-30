@@ -1,8 +1,8 @@
 ---
 uid: S000087
-name: Dieudonné plank
+name: Deleted Dieudonné plank
 aliases:
-  - Dieudonne plank
+  - Dieudonné plank
 counterexamples_id: 89
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
@@ -10,7 +10,14 @@ refs:
   - wikipedia: Dieudonné_plank
     name: Dieudonné plank on Wikipedia
 ---
-The Dieudonne Plank is the set $[0,\omega_1] \times [0,\omega]$ with each point of $[0,\omega_1) \times [0,\omega)$ open, along with the sets $U_\alpha(\beta) = \{(\beta,\gamma) : \alpha < \gamma \leq \omega\}$ and $V_\alpha(\beta) = \{(\gamma,\beta): \alpha < \gamma \leq \omega_1\}$.
+
+The subspace $X$ of {S191} obtained by removing the point $\langle\omega_1,\omega\rangle$.
+So $X=(Y\times Z)\setminus\{\langle\omega_1,\omega\rangle\}$ 
+where $Y=[0,\omega_1]$ is given the topology with points of $[0,\omega_1)$
+isolated and neighborhoods of $\omega_1$ cocountable,
+and $Z=[0,\omega]$ is given the topology with points of $[0,\omega)$
+isolated and neighborhoods of $\omega$ cofinite.
 
 Defined as counterexample #89 ("Dieudonné Plank")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{doi:10.1007/978-1-4612-6290-9}}. Note that the pi-Base qualifies this name with
+"Deleted" to align with e.g. {S78} and {S79}.
