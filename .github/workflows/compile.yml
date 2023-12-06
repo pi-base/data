@@ -1,17 +1,46 @@
 name: compile
 
 on:
-  push: 
+  push:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
       - name: Compile bundle
-        uses: pi-base/compile@releases/v1
+        # uses: pi-base/compile@releases/v1
+        uses: pi-base/compile@a425a2a45584edb017bf8eda53107a4c1fedc8ee
         with:
           out: bundle.json
+
+      - name: Cache Lean
+        id: cache-lean
+        uses: actions/cache@v3
+        with:
+          path: .lean/lake-packages
+          key: ${{ runner.os }}-lean-lake-packages
+
+      - name: Install lean
+        shell: bash
+        run: |
+          curl https://raw.githubusercontent.com/leanprover/elan/master/elan-init.sh -sSf | sh -s -- -y
+          echo "$HOME/.elan/bin/" >> $GITHUB_PATH
+
+      - name: Build dependencies
+        shell: bash
+        run: |
+          cd .lean 
+          lake exec cache get
+          lake build
+
+      - name: Run lean command
+        shell: bash
+        run: |
+          cd .lean 
+          lake exec pibase extract ../bundle.json > ../bundle.extra.json
+
       - name: Persist bundle as artifact
         uses: actions/upload-artifact@v1.0.0
         with:
@@ -19,7 +48,7 @@ jobs:
           path: bundle.json
       - name: Upload bundle to S3
         run: |
-          aws s3 cp --acl public-read bundle.json s3://pi-base-bundles/${GITHUB_REF:-unknown}.json
+          aws s3 cp --acl public-read bundle.extra.json s3://pi-base-bundles/${GITHUB_REF:-unknown}.json
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
