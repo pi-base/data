@@ -8,7 +8,7 @@ counterexamples_id: 95
 refs:
   - doi: 10.1007/978-1-4612-6290-9
     name: Counterexamples in Topology
-  - mr: MR1039321
+  - mr: 1039321
     name: General Topology (Engelking, 1989)
   - wikipedia: Split_interval
     name: Split interval on Wikipedia
@@ -18,4 +18,4 @@ Let $A$ be the subset of the plane $ \{ (x,0)\ |\ 0 < x \leq 1 \}$ and let $B$ b
 Defined as counterexample #95 ("Weak Parallel Line Topology")
 in {{doi:10.1007/978-1-4612-6290-9}}.
 
-Referenced in Exercise 3.10.C of {{mr:MR1039321}}.
+Referenced in Exercise 3.10.C of {{mr:1039321}}.

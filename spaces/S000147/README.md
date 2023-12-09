@@ -6,9 +6,9 @@ aliases:
 ambiguous_construction: true
 # additional_axioms: CH
 refs:
-  - mr: MR0450063
+  - mr: 0450063
     name: Luzin spaces
-  - mr: MR1458261
+  - mr: 1458261
     name: Lusin sets (Scheepers)
 ---
 
@@ -18,5 +18,5 @@ every meager subset of the reals) is countable.
 
 Note that the construction of such a set requires additional axioms beyond $ZFC$.
 
-Here we use the $CH$ construction from Theorem 4 of {{mr:MR1458261}}
+Here we use the $CH$ construction from Theorem 4 of {{mr:1458261}}
 in order to guarantee the failure of {P150}.
