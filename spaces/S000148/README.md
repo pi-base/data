@@ -6,7 +6,7 @@ aliases:
 ambiguous_construction: true
 # additional_axioms: CH
 refs:
-  - mr: MR0450063
+  - mr: 0450063
     name: Luzin spaces
   - doi: 10.1016/S0166-8641(96)00075-2
     name: The combinatorics of open covers II (Just et al)

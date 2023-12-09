@@ -4,7 +4,7 @@ name: Line with two origins
 refs:
 - wikipedia: Non-Hausdorff_manifold
   name: Non-Hausdorff manifold on Wikipedia
-- mr: MR3728284
+- mr: 3728284
   name: Topology (Munkres)
 ---
 
@@ -14,4 +14,4 @@ The space can also be obtained as a quotient space of the disjoint union of $\ma
 
 This space is similar to {S65} and provides an example of {P123} space that is not {P3}.
 
-See {{wikipedia:Non-Hausdorff_manifold}} and Exercise 5 of section 36 in {{mr:MR3728284}}.
+See {{wikipedia:Non-Hausdorff_manifold}} and Exercise 5 of section 36 in {{mr:3728284}}.
