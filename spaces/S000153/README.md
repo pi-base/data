@@ -6,7 +6,7 @@ aliases:
 refs:
   - wikipedia: Long_line_(topology)
     name: Long line on Wikipedia
-  - mr: 0464128
+  - mr: 464128
     name: Topology (Munkres)
 ---
 

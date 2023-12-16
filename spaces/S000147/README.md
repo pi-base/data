@@ -6,7 +6,7 @@ aliases:
 ambiguous_construction: true
 # additional_axioms: CH
 refs:
-  - mr: 0450063
+  - mr: 450063
     name: Luzin spaces
   - mr: 1458261
     name: Lusin sets (Scheepers)

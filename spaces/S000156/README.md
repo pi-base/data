@@ -4,7 +4,7 @@ name: Arens space
 aliases:
 - S_2
 refs:
-  - mr: 0037500
+  - mr: 37500
     name: Note on convergence in topology (Arens)
   - mr: 3269014
     name: Mapping theorems on countable tightness and a question of F. Siwiec (Lin & Zhang)

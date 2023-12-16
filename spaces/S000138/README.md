@@ -4,7 +4,7 @@ name: Rudin's Dowker space
 refs:
   - doi: 10.4064/fm-73-2-179-186
     name: A normal space X for which X×I is not normal (M.E. Rudin)
-  - mr: 0776636
+  - mr: 776636
     name: Dowker spaces (M.E. Rudin)
 ---
 
