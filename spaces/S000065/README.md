@@ -1,6 +1,8 @@
 ---
 uid: S000065
 name: Telophase topology
+aliases:
+- Interval with two right endpoints
 counterexamples_id: 73
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
