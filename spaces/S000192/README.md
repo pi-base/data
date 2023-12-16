@@ -8,7 +8,7 @@ refs:
   name: Answer to 'A "simple" space with closed retracts but non-unique sequential limits'
 ---
 
-A modification of {S65}. Let $X=[0,\infty)\cup\{\infty_E,\infty_D\}$,
+A refinement of the topology defined for {S65}. Let $X=[0,\infty)\cup\{\infty_E,\infty_D\}$,
 $E=2\mathbb N=\{2n:n\in\mathbb N \}$, and $D=2\mathbb N+1=\{2n+1:n\in\mathbb N\}$.
 Then points of $[0,\infty)$ have their usual neighborhoods (in
 the sense of {S25}), $\infty_E$ has basic neighborhoods of the form
