@@ -17,6 +17,13 @@
         "openFiles": [
           "README.md"
         ]
+      },
+      "vscode": {
+        "settings": {
+          "workbench.editorAssociations": {
+            "/workspaces/data/README.md": "vscode.markdown.preview.editor"
+          }
+        }
       }
     }
 }
