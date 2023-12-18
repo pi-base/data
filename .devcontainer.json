@@ -5,9 +5,9 @@
     },
     "onCreateCommand": "rm -rf web && git clone https://github.com/pi-base/web.git && cd web && pnpm install && pnpm run --filter core build",
     "postAttachCommand": {
+      "viewer": "cd web && pnpm run --filter viewer dev --host --open",
       "compile": "cd web && pnpm run --filter compile dev",
-      "core": "cd web && pnpm run --filter core dev",
-      "viewer": "cd web && pnpm run --filter viewer dev --host --open"
+      "core": "cd web && pnpm run --filter core dev"
     },
     "forwardPorts": [
       5173
