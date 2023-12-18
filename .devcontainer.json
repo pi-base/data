@@ -15,13 +15,16 @@
     "customizations": {
       "codespaces": {
         "openFiles": [
-          "README.md"
+          "codespace-welcome.md"
         ]
       },
       "vscode": {
         "settings": {
           "workbench.editorAssociations": {
-            "/workspaces/data/README.md": "vscode.markdown.preview.editor"
+            "codespace-welcome.md": "vscode.markdown.preview.editor"
+          },
+          "files.exclude": {
+            "web": true
           }
         }
       }
