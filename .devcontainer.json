@@ -3,11 +3,11 @@
     "containerEnv": {
       "DATA_WORKSPACE": "/workspaces/data"
     },
-    "onCreateCommand": "rm -rf web && git clone https://github.com/pi-base/data.git && cd web && pnpm install && pnpm run --filter core build",
+    "onCreateCommand": "rm -rf web && git clone https://github.com/pi-base/web.git && cd web && pnpm install && pnpm run --filter core build",
     "postAttachCommand": {
       "compile": "cd web && pnpm run --filter compile dev",
       "core": "cd web && pnpm run --filter core dev",
-      "viewer": "cd web && pnpm run --filter viewer dev --host"
+      "viewer": "cd web && pnpm run --filter viewer dev --host --open"
     },
     "forwardPorts": [
       5173
