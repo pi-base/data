@@ -3,15 +3,24 @@
     "containerEnv": {
       "DATA_WORKSPACE": "/workspaces/data"
     },
+    "remoteEnv": {
+      "PUBLIC_DATA_URL": "https://${localEnv:CODESPACE_NAME}-3141.${localEnv:GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN}"
+    },
     "onCreateCommand": "rm -rf web && git clone https://github.com/pi-base/web.git && cd web && pnpm install && pnpm run --filter core build",
     "postAttachCommand": {
       "viewer": "cd web && pnpm run --filter viewer dev --host --open",
       "compile": "cd web && pnpm run --filter compile dev",
       "core": "cd web && pnpm run --filter core dev"
     },
-    "forwardPorts": [
-      5173
-    ],
+    "forwardPorts": [3141, 5173],
+    "portsAttributes": {
+      "3141": {
+        "label": "compile"
+      },
+      "5173": {
+        "label": "viewer"
+      }
+    },
     "customizations": {
       "codespaces": {
         "openFiles": [
