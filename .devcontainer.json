@@ -1,41 +1,47 @@
 {
-    "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:18",
-    "containerEnv": {
-      "DATA_WORKSPACE": "/workspaces/data"
+  "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:18",
+  "containerEnv": {
+    "DATA_WORKSPACE": "/workspaces/data"
+  },
+  "remoteEnv": {
+    "VITE_BUNDLE_HOST": "https://${localEnv:CODESPACE_NAME}-3141.${localEnv:GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN}",
+    "VITE_BUNDLE_SSE": "true"
+  },
+  "onCreateCommand": "rm -rf web && git clone https://github.com/pi-base/web.git && cd web && pnpm install && pnpm run --filter core build",
+  "postAttachCommand": {
+    "viewer": "cd web && pnpm run --filter viewer dev --host --open",
+    "compile": "cd web && pnpm run --filter compile dev",
+    "core": "cd web && pnpm run --filter core dev",
+    // See https://github.com/orgs/community/discussions/4068
+    "publicize": "gh codespace ports visibility 3141:public -c $CODESPACE_NAME"
+  },
+  "forwardPorts": [3141, 5173],
+  "portsAttributes": {
+    "3141": {
+      "label": "compile"
     },
-    "remoteEnv": {
-      "PUBLIC_DATA_URL": "https://${localEnv:CODESPACE_NAME}-3141.${localEnv:GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN}"
+    "5173": {
+      "label": "viewer"
+    }
+  },
+  "customizations": {
+    "codespaces": {
+      "openFiles": [
+        "codespace-welcome.md"
+      ]
     },
-    "onCreateCommand": "rm -rf web && git clone https://github.com/pi-base/web.git && cd web && pnpm install && pnpm run --filter core build",
-    "postAttachCommand": {
-      "viewer": "cd web && pnpm run --filter viewer dev --host --open",
-      "compile": "cd web && pnpm run --filter compile dev",
-      "core": "cd web && pnpm run --filter core dev"
-    },
-    "forwardPorts": [3141, 5173],
-    "portsAttributes": {
-      "3141": {
-        "label": "compile"
-      },
-      "5173": {
-        "label": "viewer"
-      }
-    },
-    "customizations": {
-      "codespaces": {
-        "openFiles": [
-          "codespace-welcome.md"
-        ]
-      },
-      "vscode": {
-        "settings": {
-          "workbench.editorAssociations": {
-            "codespace-welcome.md": "vscode.markdown.preview.editor"
-          },
-          "files.exclude": {
-            "web": true
-          }
+    "vscode": {
+      "settings": {
+        "workbench.editorAssociations": {
+          "codespace-welcome.md": "vscode.markdown.preview.editor"
+        },
+        "files.exclude": {
+          "web": true
         }
       }
     }
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  }
 }
