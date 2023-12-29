@@ -4,7 +4,7 @@
     "DATA_WORKSPACE": "/workspaces/data"
   },
   "remoteEnv": {
-    "VITE_BUNDLE_HOST": "https://${localEnv:CODESPACE_NAME}-3141.${localEnv:GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN}",
+    "VITE_BUNDLE_HOST": "https://${localEnv:CODESPACE_NAME}-5173.${localEnv:GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN}/bundle",
     "VITE_BUNDLE_SSE": "true"
   },
   "onCreateCommand": "rm -rf web && git clone https://github.com/pi-base/web.git && cd web && pnpm install && pnpm run --filter core build",
