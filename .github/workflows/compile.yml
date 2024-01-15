@@ -7,16 +7,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+
       - name: Compile bundle
-        uses: pi-base/compile@releases/v1
-        with:
-          out: bundle.json
+        uses: docker://ghcr.io/pi-base/compile:0.1.0
+
       - name: Persist bundle as artifact
         uses: actions/upload-artifact@v1.0.0
         with:
           name: bundle.json
           path: bundle.json
+
       - name: Upload bundle to S3
         run: |
           aws s3 cp --acl public-read bundle.json s3://pi-base-bundles/${GITHUB_REF:-unknown}.json
