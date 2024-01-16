@@ -25,6 +25,15 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: us-east-2
+
+      - name: Upload bundle to R2
+        run: |
+          aws s3api put-object --endpoint-url https://78c505984bbdc3e69206eecb9471c4de.r2.cloudflarestorage.com --bucket pi-base --key ${GITHUB_REF:-unknown}.json --body bundle.json
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+
 #       - name: Notify Slack
 #         run: |
 #           curl -X POST \
