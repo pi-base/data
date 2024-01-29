@@ -1,8 +1,6 @@
 ---
 uid: S000183
-name: Non-sequentially discrete modified cocountable topology
-aliases:
-  - Modified countable complement space
+name: KP Hart's non-sequentially discrete modified cocountable topology
 refs:
   - mo: 452903
     name: Must US extremally disconnected spaces be sequentially discrete?
