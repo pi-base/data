@@ -1,6 +1,6 @@
 ---
 uid: S000140
-name: Real numbers extended by a point with co-countable open neigborhoods
+name: Real numbers extended by a point with co-countable open neighborhoods
 aliases:
 - Non-sequential, pseudoradial, countably tight space
 refs:
