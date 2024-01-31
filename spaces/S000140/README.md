@@ -5,7 +5,7 @@ aliases:
 - Non-sequential, pseudoradial, countably tight space
 refs:
 - mathse: 4850979
-  name: Answer to 'Radial/pseudoradial implies Fr&#233;chet-Urysohn/sequential for locally countable spaces'
+  name: Answer to 'Radial/pseudoradial implies Fréchet-Urysohn/sequential for locally countable spaces'
 - mathse: 4854178
   name: What are the compactness properties of $\mathbb R$, extended by a point with co-countable open neighborhoods?
 ---
