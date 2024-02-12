@@ -28,6 +28,7 @@ A purely topological characterization of the space $\mathbb Q$, due to Sierpinsk
 - Every countably infinite, {P5} {P28} space without isolated point is homeomorphic to $\mathbb Q$.
 
 For a proof, see [Countable metric spaces without isolated points (A. Dasgupta)](http://at.yorku.ca/p/a/c/a/25.pdf) or {{doi:10.48550/arXiv.1210.1008}}.
+And for the equivalence between the two theorems, the second one easily follows from the first; and the reverse direction follows from {T212} together with Urysohn's metrization theorem.
 
 ----
 It follows for example that the following spaces are homeomorphic to $\mathbb Q$.
