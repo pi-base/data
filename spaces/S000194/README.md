@@ -1,6 +1,6 @@
 ---
 uid: S000194
-name: Indiscrete Topology on a Countably Infinite Set
+name: Indiscrete Topology on the Real Numbers
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
