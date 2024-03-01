@@ -9,7 +9,7 @@ refs:
     name: Partition topology on Wikipedia
 ---
 Let $X=\mathbb R\setminus\mathbb Z$, and
-take as a basis $\{(n,n+1)\,|\,n \in \mathbb{Z}\}$.
+take as a basis $\{(n,n+1)\mid n \in \mathbb{Z}\}$.
 
 Equivalently, the product of {S2} and {S194}.
 
