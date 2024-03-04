@@ -8,12 +8,11 @@ refs:
   - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
 ---
-The long ray together with a distinct singleton $\{p\}$ with a basis
-constructed from open sets in the long ray and sets
-$U_\beta(p) =
-\{p\} \cup \{\bigcup_{\beta\leq\alpha\leq\Omega}(\alpha,\alpha+1)\}$
-for $1\leq\beta<\Omega$.
-(The set $U_\beta (p)$ is a righthand ray less the ordinal points.)
+
+$X=Y\cup\{\infty\}$,
+where $Y=\omega_1\times[0,1)$ with its lexicographic topology is an open copy
+of {S38}, and each neighborhood of $\infty$ contains some
+$U_\alpha=\{\infty\}\cup\Big(\omega_1\setminus\alpha\Big) \times (0,1)$.
 
 Defined as counterexample #47 ("An Altered Long Line")
 in {{doi:10.1007/978-1-4612-6290-9}}.
