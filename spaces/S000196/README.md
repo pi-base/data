@@ -1,12 +1,14 @@
 ---
 uid: S000196
-name: Quotient of the closed long ray
+name: Long circle
 aliases:
-- A long circle
+- Quotient of the closed long ray
 refs:
 - mathse: 1499512
   name: Path-connected and locally connected space that is not locally path-connected
+- mr: MR0649078
+  name: On locally simply connected toposes and their fundamental groups. (Barr & Diaconescu)
 ---
 
-The quotient of {S39} identifying the
-compactifying point with the initial point.
+The quotient of {S39} identifying its initial and
+final points.
