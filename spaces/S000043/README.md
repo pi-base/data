@@ -3,6 +3,7 @@ uid: S000043
 name: Sorgenfrey line
 aliases:
   - Right half-open interval topology
+  - Lower limit topology
 counterexamples_id: 51
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
