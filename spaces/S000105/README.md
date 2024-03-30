@@ -10,7 +10,8 @@ refs:
   - wikipedia: Helly_space
     name: Helly space on Wikipedia
 ---
-Let $X \subset I^I$ be the subspace consisting of all non-decreasing functions.
+Let $X \subset I^I$ be the subspace
+of {S103} consisting of all non-decreasing functions.
 
 Defined as counterexample #107 ("Helly Space")
 in {{doi:10.1007/978-1-4612-6290-9}}.
