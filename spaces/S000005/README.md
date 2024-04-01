@@ -8,7 +8,7 @@ refs:
   - wikipedia: Partition_topology
     name: Partition topology on Wikipedia
 ---
-Define a topology on $\mathbb{N}$ by taking as a basis all sets of the form $\{\{2k-1,2k\}\, |\, k \in \mathbb{N}\}$.
+Define a topology on $\mathbb{N}$ by taking as a basis all sets of the form $\{\{2k-1,2k\}\mid k \in \mathbb{N}\}$.
 
 Defined as counterexample #6 ("Odd-Even Topology")
 in {{doi:10.1007/978-1-4612-6290-9}}.
