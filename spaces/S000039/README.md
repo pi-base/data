@@ -10,7 +10,7 @@ refs:
 ---
 The unique (one-point) compactification of {S38}. Equivalently,
 the space $\omega_1\times[0,1)\cup\{\langle\omega_1,0\rangle\}$
-with the lexicographic topology.
+with the lexicographic order topology.
 
 Defined as counterexample #46 ("The Extended Long Line")
 in {{doi:10.1007/978-1-4612-6290-9}}.
