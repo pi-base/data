@@ -3,6 +3,7 @@ uid: S000154
 name: Fort Space on the Real Numbers
 aliases:
   - Uncountable Fort Space
+  - One-point compactification of an uncountable discrete space
 counterexamples_id: 24
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
