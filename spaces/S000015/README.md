@@ -1,9 +1,9 @@
 ---
 uid: S000015
-name: Finite complement topology on a countably infinite set
+name: Cofinite topology on $\omega$
 aliases:
+  - Finite complement topology on a countably infinite set
   - Finite Complement Topology on a Countable Space
-  - Infinite set with the cofinite topology
 counterexamples_id: 18
 refs:
 - doi: 10.1007/978-1-4612-6290-9
