@@ -1,7 +1,8 @@
 ---
 uid: S000017
-name: Cocountable topology on the real numbers
+name: Cocountable topology on $\mathbb R$
 aliases:
+  - Cocountable topology on the real numbers
   - Countable complement space
 counterexamples_id: 20
 refs:

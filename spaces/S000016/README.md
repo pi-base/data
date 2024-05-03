@@ -1,7 +1,8 @@
 ---
 uid: S000016
-name: Finite complement topology on the real numbers
+name: Cofinite topology on $\mathbb R$
 aliases:
+  - Finite complement topology on the real numbers
   - Finite Complement Topology on an Uncountable Space
   - Cofinite topology on the real numbers
 counterexamples_id: 19
