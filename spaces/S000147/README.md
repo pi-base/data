@@ -1,6 +1,6 @@
 ---
 uid: S000147
-name: A Luzin subset of the reals (Scheepers 1999)
+name: (CH) A Luzin subset of the reals (Scheepers 1999)
 aliases:
   - Lusin set
 ambiguous_construction: true
