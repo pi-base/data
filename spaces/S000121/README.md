@@ -10,6 +10,7 @@ refs:
 Let $\{C_\alpha\ : \alpha<\mathfrak c\}$ be a well-ordering of the set of
 all closed, {P36} subsets of {S176} that contain at least two points
 (so in fact each $C_\alpha$ has cardinality $\mathfrak c$).
+Note that there are $\mathfrak c$ such $C_\alpha$.
 We shall define sets $A_\alpha$ and $B_\alpha$ such that
 $A_\alpha \cap B_\beta = \emptyset$ for all $\alpha, \beta<\mathfrak c$.
 First, let $A_0$, $B_0$ be distinct singletons in $\mathbb{R}^2$.
