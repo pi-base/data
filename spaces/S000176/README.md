@@ -2,7 +2,7 @@
 uid: S000176
 name: Euclidean Plane $\mathbb R^2$
 refs:
-  - mr: 2048350
+  - zbmath: "1052.54001"
     name: General Topology (Willard)
 ---
 
