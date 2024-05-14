@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Compile bundle
-        uses: docker://ghcr.io/pi-base/compile:0.1.0
+        uses: docker://ghcr.io/pi-base/compile:latest
 
       - name: Persist bundle as artifact
         uses: actions/upload-artifact@v1.0.0
