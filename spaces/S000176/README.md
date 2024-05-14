@@ -8,4 +8,4 @@ refs:
 
 The product topology on $\mathbb R\times \mathbb R$.
 
-See {{mr:2048350}}.
+See {{zbmath:1052.54001}}.
