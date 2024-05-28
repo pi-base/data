@@ -31,6 +31,9 @@
       ]
     },
     "vscode": {
+      "extensions": [
+        "pi-base.pi-base"
+      ],
       "settings": {
         "workbench.editorAssociations": {
           "codespace-welcome.md": "vscode.markdown.preview.editor"
