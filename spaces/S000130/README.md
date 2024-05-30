@@ -6,7 +6,12 @@ refs:
   - doi: 10.1007/978-1-4612-6290-9
     name: Counterexamples in Topology
 ---
-Let $X = \{\frac{m}{2^n}\} \subset \mathbb{Q}$ be the dyadic rationals, $Y = \mathbb{Q} \setminus X$ and $Z = \mathbb{P}$ the irrationals. Extend the usual topology on $\mathbb{R}$ by defining $X$ and $Y$ open along with sets of the form $\{z\} \cup \{w \in X \cup Y\ |\ |w-z|<\delta\}$ for $\delta > 0$.
+Let $A,B,C$ partition the reals into three dense subspaces; for example, let
+$A = \{\frac{m}{2^n}\} \subset \mathbb{Q}$ be the dyadic rationals,
+$B = \mathbb{Q} \setminus A$ and $C = \mathbb{P}$ the irrationals.
+Let $X$ extend the usual topology on $\mathbb{R}$ by defining $A$ and $B$ open,
+along with sets of the form $\{c\} \cup \{w \in X \cup Y \big| |w-c|<\delta\}$ for
+$c\in C$ and $\delta > 0$.
 
 Defined as counterexample #133 ("Tangora's Connected Space")
 in {{doi:10.1007/978-1-4612-6290-9}}.
