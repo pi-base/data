@@ -11,12 +11,7 @@ refs:
 ---
 
 
-The product topology on the space of ordinals $\omega_1$ crossed with the
-product space $I^I$.
+The product topology on {S35} crossed with {S103}.
 
 Defined as counterexample #106 ("\([0,\Omega)\times I^I\)")
 in {{doi:10.1007/978-1-4612-6290-9}}.
-
-<!-- [[Proof of Topology]]
-
-![Proof](http://upload.wikimedia.org/wikipedia/en/a/a6/Ita_Apr_6_2014_2355Z.jpg) -->
