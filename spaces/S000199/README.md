@@ -2,7 +2,7 @@
 uid: S000199
 name: Non-normal product of two countably compact, hereditarily normal topological groups
 aliases:
-- $\mathbb T^{\omega_1}\times\Sigma T^{\omega_1}$
+- $\mathbb T^{\omega_1}\times\Sigma\mathbb T^{\omega_1}$
 refs:
 - mathse: 4925397
   name: Answer to "Are Hausdorff countably compact topological groups always normal?"
