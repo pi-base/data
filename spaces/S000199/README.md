@@ -1,5 +1,5 @@
 ---
-uid: S000197
+uid: S000199
 name: Non-normal product of two countably compact, hereditarily normal topological groups
 aliases:
 - $\mathbb T^{\omega_1}\times\Sigma T^{\omega_1}$
