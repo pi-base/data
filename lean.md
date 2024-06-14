@@ -7,12 +7,6 @@ see <https://github.com/leanprover-community/mathlib4/wiki/Using-mathlib4-as-a-d
 ```
 curl https://raw.githubusercontent.com/leanprover/elan/master/elan-init.sh -sSf | sh
 ```
-<!-- 
-## start new project
-
-```
-lake +leanprover-community/mathlib4:lean-toolchain init πBase math
-``` -->
 
 ## install lean4 extension
 
