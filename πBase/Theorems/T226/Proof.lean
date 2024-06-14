@@ -4,30 +4,11 @@ import πBase.Properties.P99.Def
 open Filter Topology
 
 theorem T226 : P99 ≤ P2 := fun X _ ⟨p99⟩ ↦ by
-  rw [P2, t1Space_iff_exists_open]
-  intro x y
-  contrapose; simp at *
-  intro hyp
-  let f : ℕ → X := fun _ ↦ y
-  have h : Tendsto f atTop (𝓝 x) →
-      Tendsto f atTop (𝓝 y) → x = y := by
-    apply p99
-  apply h
-  · intro N NNx
-    have yinN : y ∈ N := by
-      rw [mem_nhds_iff] at NNx
-      rcases NNx with ⟨ U, ⟨ UsubN, Uopen, xinU⟩ ⟩
-      apply UsubN
-      apply hyp
-      exact Uopen
-      exact xinU
-    apply mem_map.mpr
-    simp
-    use 0
-    simp
-    intro b
-    have : f b = y := by
-      simp
-    rw [this]
-    exact yinN
-  · exact tendsto_const_nhds
+  suffices ∀ y, IsClosed ({y} : Set X) by exact { t1 := this }
+  apply fun y ↦ isClosed_of_closure_subset ?_
+  apply fun x xincly ↦ Set.mem_singleton_iff.mp <| p99 x y (fun _ ↦ y) (fun U Unhd ↦ ?_)
+    tendsto_const_nhds
+  apply mem_map.mpr <| mem_atTop_sets.mpr ?_
+  simp only [ge_iff_le, Set.mem_preimage]
+  exact ⟨0,
+    fun _ _ ↦ Set.inter_singleton_nonempty.mp <| (mem_closure_iff_nhds.mp xincly) U Unhd⟩
