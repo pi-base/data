@@ -24,6 +24,9 @@
       "label": "viewer"
     }
   },
+  "hostRequirements": {
+     "cpus": 4
+  },
   "customizations": {
     "codespaces": {
       "openFiles": [

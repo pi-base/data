@@ -1,0 +1,14 @@
+---
+uid: P000002
+name: "$T_1$"
+aliases:
+  - Fréchet
+  - T1
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
+---
+
+Given any two distinct points, each has an open set not containing the other.
+
+Defined on page 11 of {{doi:10.1007/978-1-4612-6290-9}}.
