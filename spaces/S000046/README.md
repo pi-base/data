@@ -7,7 +7,7 @@ refs:
     name: Counterexamples in Topology
 ---
 
-Let $X = \{x\in\mathbb{R} : x > 0, x \notin \mathbb{Z}\}$. Let $S_n = (0,1/n) \cup (n,n+1)$ for $n \geq 1$. Define a topology on $X$ by taking $\{S_n\}$ as a subbase.
+Let $X = (0,\infty)\setminus\mathbb Z$, the set of positive real numbers excluding the integers.  Let $S_n = (0,1/n) \cup (n,n+1)$ for $n \geq 1$. Define a topology on $X$ by taking $\{S_n\}$ as a subbase.
 
 A base for the topology is given by the sets $S_n$ for $n\ge 1$ together with the intervals $(0,1/n)$ for $n\ge 2$.
 
