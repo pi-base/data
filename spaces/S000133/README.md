@@ -26,3 +26,5 @@ $p(x,y) = \begin{cases}
 
 Note that {{mathse:4834226}} shows furthermore that the corresponding construction
 for any $\mathbb R^n$ (for $n>0$) results in a space homeomorphic to this one.
+
+In any case, note that every point of the space besides a single "particular point" 0 (the origin of $\mathbb R^n$) is isolated.
