@@ -13,22 +13,23 @@ refs:
 
 A space $X$ with a particular point $p$ satisfying:
 
-- Each point of $X\setminus\{p\}$ is isolated.
-- There exist neighborhoods $V_n$ of $p$ for each $n<\omega$ such that $V_{n+1}\subseteq V_{n}$, $\{p\}=\bigcap_{n<\omega} V_n$, and $|V_{n+1}\setminus V_n|=|\mathbb R|$.
+- Each point $x\ne p$ is isolated.
+- The point $p$ has a countable neighborhood base $\{V_n:n<\omega\}$ such that $V_0=X$, $V_{n+1}\subseteq V_n$ and $|V_n\setminus V_{n+1}|=|\mathbb R|$ for each n, and $\bigcap_{n<\omega}V_n=\{p\}$.
 
-The following sufficient constructions were demonstrated in
-{{mathse:4834226}}.
+These conditions uniquely determine the space $X$ up to homeomorphism, as shown in {{mathse:4833751}}.
 
-- Let $X=\mathbb{R}$ with $p=0$. The basic open neighborhoods of $0$ are the Euclidean open intervals around $0$.
+Here are a few examples of spaces satisfying the conditions (see {{mathse:4834226}}).
+
+- The space $X=\mathbb{R}$ with $p=0$. The basic open neighborhoods of $0$ are the Euclidean open intervals around $0$.
 
 - The post office metric space defined as
 counterexample #139 ("The Post Office Metric")
-in {{doi:10.1007/978-1-4612-6290-9}}, where $p$ is the origin.
-The *post office metric* $p$ on $\mathbb R^n$ is then defined by:
+in {{doi:10.1007/978-1-4612-6290-9}}, where $X=\mathbb R^n$ with $n\ge 1$ and $p$ is the origin.
+The *post office metric* $d$ on $\mathbb R^n$ is defined by:
 
 $$d(x,y) = \begin{cases}
     0 & \text{if } x=y, \\
     \|x\| + \|y\| & \text{otherwise.}
 \end{cases}$$
 
-- $(\mathbb R\times\mathbb Z)\cup\{\infty\}$ where $\mathbb R\times\mathbb Z$ has its lexicographical ordering, and $\infty$ is the greatest (and particular) point.
+- The ordered space $(\mathbb R\times\mathbb Z)\cup\{\infty\}$ with its order topology, where $\mathbb R\times\mathbb Z$ has its lexicographical ordering and $\infty$ is an additional maximum point (and the particular point).
