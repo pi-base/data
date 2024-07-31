@@ -1,0 +1,14 @@
+---
+uid: P000001
+name: "$T_0$"
+aliases:
+  - Kolmogorov
+  - T0
+refs:
+  - doi: 10.1007/978-1-4612-6290-9
+    name: Counterexamples in Topology
+---
+
+Given any two distinct points, there is an open set containing one but not the other.
+
+Defined on page 11 of {{doi:10.1007/978-1-4612-6290-9}}.
