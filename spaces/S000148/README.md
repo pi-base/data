@@ -1,6 +1,6 @@
 ---
 uid: S000148
-name: (CH) A Luzin subset of the reals (Just et al 1996)
+name: (CH) A Luzin subset of the reals (The generic Lusin set $H$)
 aliases:
   - Lusin subset of the reals
 ambiguous_construction: true
