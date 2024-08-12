@@ -15,7 +15,7 @@ refs:
 An uncountable subset of the reals such that its intersection with
 every nowhere dense subset of the reals (equivalently,
 every meager subset of the reals) is countable.
-The article {{zb:0389.54004}} is available at the [Topology Proceedings webpage](https://topology.nipissingu.ca/tp/reprints/v01/tp01021s.pdf).
+For background information, see the article {{zb:0389.54004}}, available at the [Topology Proceedings webpage](https://topology.nipissingu.ca/tp/reprints/v01/tp01021s.pdf).
 
 Note that the construction of such a set requires additional axioms beyond $ZFC$.
 
