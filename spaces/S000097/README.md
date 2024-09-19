@@ -1,6 +1,8 @@
 ---
 uid: S000097
-name: Steen-Seebach maximal compact topology
+name: One-point compactification of the sequential fan $S_\omega$
+aliases:
+  - Steen-Seebach maximal compact topology
 counterexamples_id: 99
 refs:
   - doi: 10.1007/978-1-4612-6290-9
@@ -12,6 +14,11 @@ $\{x\}\cup\{\langle i,j\rangle\in\omega^2 : i\geq f(j)\}$ is open for each $f:\o
 $\{y\}\cup\{\langle i,j\rangle\in\omega^2 : j\geq n\}$ is open for each $n<\omega$.
 Put another way, neighborhoods of $x$ contain all but finitely-many points of each row of $\omega^2$,
 and neighborhoods of $y$ contain all but finitely-many rows.
+
+Equivalently, this is the one-point compactification of
+a copy $\{x\}\cup\omega^2$ of
+{S131} with
+$y$ as its compactifying point.
 
 Defined as counterexample #99 ("Maximal Compact Topology")
 in {{doi:10.1007/978-1-4612-6290-9}} to demonstrate
