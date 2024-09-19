@@ -16,7 +16,7 @@ Put another way, neighborhoods of $x$ contain all but finitely-many points of ea
 and neighborhoods of $y$ contain all but finitely-many rows.
 
 Equivalently, this is the one-point compactification of
-a copy $\{x\}\cup\omega^2$ of
+a copy $\omega^2\cup\{x\}$ of
 {S131} with
 $y$ as its compactifying point.
 
