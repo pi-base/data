@@ -8,8 +8,8 @@ refs:
 ---
 
 The set $\omega^2\cup\{x,y\}$ topologized by the following basis: points of $\omega^2$ are isolated,
-$\{x\}\cup\bigcup_{n<\omega}(\omega\setminus f(n))\times\{n\}$ is open for each $f:\omega\to\omega$, and
-$\{y\}\cup\omega\times(\omega\setminus n)$ is open for each $n<\omega$.
+$\{x\}\cup\{\langle i,j\rangle\in\omega^2 : i\geq f(j)\}$ is open for each $f:\omega\to\omega$, and
+$\{y\}\cup\{\langle i,j\rangle\in\omega^2 : j\geq n\}$ is open for each $n<\omega$.
 Put another way, neighborhoods of $x$ contain all but finitely-many points of each row of $\omega^2$,
 and neighborhoods of $y$ contain all but finitely-many rows.
 
