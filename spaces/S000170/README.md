@@ -2,7 +2,7 @@
 uid: S000170
 name: Circle
 aliases:
-- S1
+- $S_1$
 - One-dimensional sphere
 refs:
   - wikipedia: Circle
