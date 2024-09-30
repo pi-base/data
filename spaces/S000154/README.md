@@ -12,7 +12,7 @@ refs:
     name: Fort space
 ---
 Let \(X=\mathbb{R}\cup\{\infty\}\).
-Define $U \subset X$ to open if its complement is finite or includes \(\infty\).
+Define $U \subset X$ to be open if its complement is finite or does not include \(\infty\).
 
 Defined as counterexample #24 ("Uncountable Fort Space")
 in {{doi:10.1007/978-1-4612-6290-9}}.
