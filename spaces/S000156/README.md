@@ -2,7 +2,7 @@
 uid: S000156
 name: Arens space
 aliases:
-- S_2
+- $S_2$
 refs:
   - mr: 37500
     name: Note on convergence in topology (Arens)
