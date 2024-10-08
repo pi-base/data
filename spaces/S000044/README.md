@@ -10,7 +10,7 @@ refs:
 ---
 Let $X$ be the set $(0,1)$ and define a topology on $X$ consisting of all sets $U_n = (0,\frac{n-1}{n})$ for $0<n\leq\omega$.
 
-Equivalently, the product of the left-ray topology on $\omega$ (with basic open sets of the form $(\leftarrow,n)$ for each $n<\omega$)
+Equivalently, the product of {S199}
 and {S194}.
 
 Defined as counterexample #52 ("Nested Interval Topology")
