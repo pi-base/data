@@ -8,7 +8,8 @@ refs:
   - wikipedia: Nested_interval_topology
     name: Nested interval topology on Wikipedia
 ---
-Let $X$ be the set $(0,1)$ and define a topology on $X$ consisting of all sets $U_n = (0,\frac{n-1}{n})$ for $0<n\leq\omega$.
+Let $X$ be the set $(0,1)$ and define a topology on $X$ consisting of basic open sets
+$U_n = (0,\frac{n-1}{n})$ for $1\leq n< \omega$.
 
 Equivalently, the product of {S199}
 and {S194}.
