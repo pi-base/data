@@ -8,8 +8,9 @@ refs:
   - wikipedia: Nested_interval_topology
     name: Nested interval topology on Wikipedia
 ---
-Let $X$ be the set $(0,1)$ with the topology
-$$\{\emptyset,X\}\cup\left\{\left(0,\frac{1}{2}\right),\left(0,\frac{2}{3}\right),\left(0,\frac{3}{4}\right),\dots\right\}$$
+
+Let $X$ be the interval $(0,1)$ with the topology
+$\{\emptyset,X\}\cup\{(0,\frac{1}{2}),(0,\frac{2}{3}),(0,\frac{3}{4}),\dots\}$.
 
 Equivalently, the product of {S199}
 and {S194}.
