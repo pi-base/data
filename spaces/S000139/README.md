@@ -14,4 +14,5 @@ refs:
 Let $X=\mathbb R/\mathbb Z$ to be the quotient of $\mathbb R$ (with its Euclidean topology) obtained by identifying all the points of $\mathbb Z$ to a single point $\infty$.
 
 Alternatively, this space can be characterized as the *wedge sum*
-(see {{wikipedia:Wedge_sum}}) of countably-many circles.
+(see {{wikipedia:Wedge_sum}}) of countably-many circles,
+also known as a *bouquet of countably many circles*.
