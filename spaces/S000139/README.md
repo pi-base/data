@@ -3,6 +3,7 @@ uid: S000139
 name: Countable bouquet of circles
 aliases:
 - $\mathbb R$ with $\mathbb Z$ collapsed to a point
+- Countable wedge sum of circles
 refs:
   - mathse: 4844916
     name: Answer to "Can a Fréchet-Urysohn hemicompact Hausdorff space fail to be locally compact?"
@@ -12,4 +13,6 @@ refs:
 
 Let $X=\mathbb R/\mathbb Z$ to be the quotient of $\mathbb R$ (with its Euclidean topology) obtained by identifying all the points of $\mathbb Z$ to a single point $\infty$.
 
-The space can also be described as the *wedge sum of countably many circles*, also known as a *bouquet of countably many circles*.
+Alternatively, this space can be characterized as the *wedge sum*
+(see {{wikipedia:Wedge_sum}}) of countably-many circles,
+also known as a *bouquet of countably many circles*.
