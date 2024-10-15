@@ -18,3 +18,5 @@ $U_f=\{\infty\}\cup\{(m,n)\in\omega\times\omega:n\ge f(m)\}$
 for some arbitrary function $f:\omega\to\omega$.
 
 See also <https://dantopology.wordpress.com/2015/07/01/a-note-on-products-of-sequential-fans> for useful information.
+
+Compare with {S202}.
