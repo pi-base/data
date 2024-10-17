@@ -1,8 +1,6 @@
 ---
 uid: S000185
 name: One-point compactification of the metric fan
-aliases:
-- Compact semi-Hausdorff non-KC space
 ---
 
 Consider
