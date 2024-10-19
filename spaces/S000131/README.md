@@ -19,4 +19,4 @@ for some arbitrary function $f:\omega\to\omega$.
 
 See also <https://dantopology.wordpress.com/2015/07/01/a-note-on-products-of-sequential-fans> for useful information.
 
-Compare with {S202}.
+Compare with the coarser topology of {S202}.
