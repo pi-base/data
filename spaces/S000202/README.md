@@ -12,4 +12,4 @@ $X=\{\langle 0,0\rangle\}\cup\{\langle \frac{1}{m},\frac{1}{mn} \rangle :m,n\in\
 Equivalently, a classical special case of the filter fans defined in
 {{zb:1339.54022}}: the set $X=\{\infty\}\cup\omega^2$ with $\omega^2$ discrete and neighborhoods of $\infty$ containing all but finitely-many rows of $\omega^2$.
 
-Compare with {S131}.
+Compare with the finer topology of {S131}.
