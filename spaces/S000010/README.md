@@ -1,11 +1,11 @@
 ---
 uid: S000010
-name: Sierpinski Space
+name: Sierpinski space
 aliases:
-  - Particular Point Topology on a Two-Point Set
-  - Excluded Point Topology on a Two-Point Set
-  - Right Ray Topology on a Two-Point Set
-  - Left Ray Topology on a Two-Point Set
+  - Particular point topology on a two-point set
+  - Excluded point topology on a two-point set
+  - Right ray topology on a two-point set
+  - Left ray topology on a two-point set
 counterexamples_id: 11
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
@@ -19,10 +19,3 @@ two-point set, or the excluded point ($1$) topology on a two-point set.
 
 Defined as counterexample #11 ("Sierpinski Space")
 in {{doi:10.1007/978-1-4612-6290-9}}.
-
-<!-- [[Proof of Topology]]
-The open sets $\emptyset$ and $X$ are included explicitly.
-
-Any union of open sets results in either $\{0\}$ or $X$, which are members of the topology.
-
-Any intersection of open sets results in either $\emptyset$ or $\{0\}$, which are members of the topology. -->
