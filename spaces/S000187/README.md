@@ -1,8 +1,8 @@
 ---
 uid: S000187
-name: Right Ray Topology on a Three-Point Set
+name: Right ray topology on a three-point set
 aliases:
-- Left Ray Topology on a Three-Point Set
+- Left ray topology on a three-point set
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
