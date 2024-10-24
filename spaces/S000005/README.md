@@ -10,6 +10,8 @@ refs:
 ---
 Define a topology on $\mathbb{N}$ by taking as a basis all sets of the form $\{\{2k-1,2k\}\mid k \in \mathbb{N}\}$.
 
+Equals the product of {S2} and {S4}.
+
 Defined as counterexample #6 ("Odd-Even Topology")
 in {{doi:10.1007/978-1-4612-6290-9}}.
 
