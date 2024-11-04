@@ -1,8 +1,8 @@
 ---
 uid: S000013
-name: Excluded Point Topology on the Real Numbers
+name: Excluded point topology on the real numbers
 aliases:
-  - Uncountable Excluded Point Topology
+  - Uncountable excluded point topology
 counterexamples_id: 15
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
