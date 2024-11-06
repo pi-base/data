@@ -3,7 +3,11 @@ uid: S000030
 name: Hilbert space
 aliases:
   - $\ell^2$
+  - $\mathbb R^\omega$
   - Fréchet space
+  - Continuous real-valued functions on the unit interval
+  - C(I)
+  - C[0,1]
 counterexamples_id: 36
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
@@ -19,3 +23,7 @@ This space is homeomorphic to $\mathbb{R}^\omega$ with the product topology (Fr�
 
 Defined as counterexamples #36 ("Hilbert Space") and #37 ("Fréchet Space")
 in {{doi:10.1007/978-1-4612-6290-9}}.
+
+---
+It follows from {{wikipedia:Anderson–Kadec theorem}} that any infinite-dimensional separable Banach/Fréchet space is homeomorphic to $\mathbb R^\omega$.
+So $\mathbb R^\omega$, $\ell^p$ ($1 \leq p < + \infty$) and $C[0, 1]$ are all homeomorphic in the view of topological spaces.
