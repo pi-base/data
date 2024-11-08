@@ -17,4 +17,4 @@ that is, the union of circles of radius $\frac{1}{n}$ centered at $(\frac{1}{n},
 integers $n$.
 
 Defined as "infinite earring" in section 71 of {{zb:0951.54001}}.
-Not to be confused with {S139}.
+Not to be confused with {S139}, which has a finer topology.
