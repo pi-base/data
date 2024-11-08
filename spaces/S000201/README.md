@@ -3,6 +3,7 @@ uid: S000201
 name: Infinite earring
 aliases:
 - Hawaiian earring
+- Shrinking wedge of circles
 refs:
 - wikipedia: Hawaiian_earring
   name: Hawaiian earring on Wikipedia
