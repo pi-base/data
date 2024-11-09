@@ -21,9 +21,7 @@ Let $X$ be the space $\ell^2$ of all sequences $x = \langle x_i \rangle$ of real
 
 This space is homeomorphic to $\mathbb{R}^\omega$ with the product topology (Fréchet space).  For this deep result due to R. D. Anderson, see for example {{doi:10.1090/S0002-9904-1968-12044-0}}.
 
-Defined as counterexamples #36 ("Hilbert Space") and #37 ("Fréchet Space")
-in {{doi:10.1007/978-1-4612-6290-9}}.
-
----
 It follows from {{wikipedia:Anderson–Kadec theorem}} that any infinite-dimensional separable Banach/Fréchet space is homeomorphic to $\mathbb R^\omega$.
 So $\mathbb R^\omega$, $\ell^p$ ($1 \leq p < + \infty$) and $C[0, 1]$ are all homeomorphic in the view of topological spaces.
+
+Defined as counterexamples #36 ("Hilbert Space") and #37 ("Fréchet Space") in {{doi:10.1007/978-1-4612-6290-9}}. Also defined as counterexample #108 ("\(C[0,1]\)") in {{doi:10.1007/978-1-4612-6290-9}}.
