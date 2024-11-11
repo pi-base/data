@@ -1,0 +1,75 @@
+{
+	"Space": {
+		"scope": "markdown",
+		"isFileTemplate": true,
+		"description": "Space data template",
+		"prefix": "space",
+		"body": [
+			"---",
+			"uid: ${TM_DIRECTORY/.*\\/(.+)$/$1/}",
+			"name: $1",
+			"aliases:",
+			"- $2",
+			"refs:",
+			"- ${3|doi,mr,wikipedia,mathse,mo,zb|}: $4",
+			"  name: $5",
+			"---",
+			""
+		]
+	},
+	"Trait": {
+		"scope": "markdown",
+		"isFileTemplate": true,
+		"description": "Trait data template",
+		"prefix": "trait",
+		"body": [
+			"---",
+			"space: ${TM_DIRECTORY/.*\\/(.+)\\/properties/$1/}",
+			"property: ${TM_FILENAME_BASE}",
+			"value: ${1|true,false|}",
+			"refs:",
+			"- ${3|doi,mr,wikipedia,mathse,mo,zb|}: $4",
+			"  name: $5",
+			"---",
+			""
+		]
+	},
+	"Theorem": {
+		"scope": "markdown",
+		"isFileTemplate": true,
+		"description": "Theorem data template",
+		"prefix": "theorem",
+		"body": [
+			"---",
+			"uid: ${TM_FILENAME_BASE}",
+			"if:",
+			"  and:",
+			"  - P$2: ${3|true,false|}",
+			"then:",
+			"  P$4: ${5|true,false|}",
+			"refs:",
+			"- ${6|doi,mr,wikipedia,mathse,mo,zb|}: $7",
+			"  name: $8",
+			"---",
+			""
+		]
+	},
+	"Property": {
+		"scope": "markdown",
+		"isFileTemplate": true,
+		"description": "Property data template",
+		"prefix": "property",
+		"body": [
+			"---",
+			"uid: ${TM_FILENAME_BASE}",
+			"name: $1",
+			"aliases:",
+			"- $2",
+			"refs:",
+			"- ${3|doi,mr,wikipedia,mathse,mo,zb|}: $4",
+			"  name: $5",
+			"---",
+			""
+		]
+	}
+}

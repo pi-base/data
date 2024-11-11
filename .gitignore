@@ -2,4 +2,5 @@
 .vscode/*
 !.vscode/extensions.json
 !.vscode/settings.json
+!.vscode/templates.code-snippets
 web
