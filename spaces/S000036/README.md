@@ -1,9 +1,8 @@
 ---
 uid: S000036
-name: Successor to the first uncountable ordinal
+name: Successor $\omega_1+1$ to the first uncountable ordinal $\omega_1$
 aliases:
   - Omega1 + 1
-  - ω_1 + 1
   - Closed Uncountable Ordinal Space
 counterexamples_id: 43
 refs:
