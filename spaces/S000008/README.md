@@ -2,7 +2,7 @@
 uid: S000008
 name: Particular point topology on a countably infinite set
 aliases:
-  - Included point topology on $\mathbb Z$
+  - Included point topology on $\omega$
   - Countable Particular Point Topology
 counterexamples_id: 9
 refs:
