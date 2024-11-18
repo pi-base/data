@@ -1,7 +1,8 @@
 ---
 uid: S000007
-name: Particular Point Topology on a Three-Point Set
+name: Particular point topology on a three-point set
 aliases:
+  - Included point topology on a three-point set
   - Finite Particular Point Topology
 counterexamples_id: 8
 refs:
