@@ -10,7 +10,7 @@ refs:
     name: Answer to "A space which is 𝜎-compact but neither hemicompact nor second countable"
 ---
 
-A particular subspace of the countable product $(\omega_1+1)^\omega$
-of {S36},
-consisting of all functions $\omega \to (\omega_1+1)$ that are non-zero on only finitely many inputs.
+The subspace of the countable product $(\omega_1+1)^\omega$ of {S36},
+consisting of all functions $\omega \to (\omega_1+1)$ with finite support,
+that is, those functions which are non-zero on only finitely many inputs.
 Discussed at {{mathse:4736740}}.
