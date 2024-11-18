@@ -1,7 +1,8 @@
 ---
 uid: S000008
-name: Particular Point Topology on a Countably Infinite Set
+name: Particular point topology on a countably infinite set
 aliases:
+  - Included point topology on $\omega$
   - Countable Particular Point Topology
 counterexamples_id: 9
 refs:

@@ -15,4 +15,4 @@ the sense of {S25}), $\infty_E$ has basic neighborhoods of the form
 $(a,\infty)\setminus E$, and $\infty_D$ has basic neighorhoods of the form
 $(a,\infty)\setminus D$.
 
-Constructed by M W in their MathOverflow answer {{mo:460346}}.
+Constructed by M W in {{mo:460346}}.

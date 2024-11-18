@@ -1,10 +1,10 @@
 ---
 uid: S000020
-name: Fort Space on a Countably Infinite Set
+name: Fort space on a countably infinite set
 aliases:
-  - Countable Fort Space
+  - Countable Fort space
   - Converging sequence
-  - $\omega+1$
+  - Ordinal space $\omega+1$
 counterexamples_id: 23
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
