@@ -4,7 +4,7 @@ name: Countable bouquet of circles
 aliases:
 - $\mathbb R$ with $\mathbb Z$ collapsed to a point
 - Countable wedge sum of circles
-- Rose with infinitely many petals
+- Rose with countably infinite petals
 refs:
   - mathse: 4844916
     name: Answer to "Can a Fréchet-Urysohn hemicompact Hausdorff space fail to be locally compact?"
