@@ -3,8 +3,8 @@ uid: S000048
 name: Closed extension of cofinite topology on $\omega$
 counterexamples_id: 56
 aliases:
-  - Prime ideal topology
   - $\mathrm{Spec}(\mathbb{Z})$
+  - Prime ideal topology
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
