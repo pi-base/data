@@ -2,6 +2,8 @@
 name: New Space Suggestion
 about: Template to propose a new space
 title: 'Space Suggestion: [newspacename]'
+labels:
+  - space
 ---
 
 <!-- Modify the below template for your space suggestion: -->
