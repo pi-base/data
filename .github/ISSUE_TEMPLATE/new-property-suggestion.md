@@ -2,6 +2,8 @@
 name: New Property Suggestion
 about: Template to propose a new property
 title: 'Property Suggestion: [newproperty]'
+labels:
+  - property
 ---
 
 <!-- Modify the below template for your property suggestion: -->
