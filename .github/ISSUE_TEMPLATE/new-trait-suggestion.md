@@ -2,6 +2,8 @@
 name: New Trait Suggestion
 about: Template to propose a new space/property pair
 title: 'Trait Suggestion: [spacename] S[id] is [not] [propertyname] P[id]'
+labels:
+  - trait
 ---
 
 <!-- Modify the below template for your trait suggestion: -->
