@@ -2,9 +2,8 @@
 name: New Theorem Suggestion
 about: Template to propose a new theorem
 title: 'Theorem Suggestion: [description]'
-labels: ''
-assignees: ''
-
+labels:
+  - theorem
 ---
 
 *Modify the below template for your theorem suggestion:*
