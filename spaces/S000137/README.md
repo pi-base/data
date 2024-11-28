@@ -12,4 +12,4 @@ $F=\{x\in X\setminus M: x(\lambda)=1 \text{ for only finitely many }\lambda\in 2
 Defined as counterexample #143 ("Michael's Closed Subspace")
 in {{doi:10.1007/978-1-4612-6290-9}}.
 
-See also https://dantopology.wordpress.com/2012/12/02/a-subspace-of-bings-example-g/.
+See also <https://dantopology.wordpress.com/2012/12/02/a-subspace-of-bings-example-g/>.
