@@ -21,7 +21,7 @@ Let $X$ be the space $\ell^2$ of all sequences $x = \langle x_i \rangle$ of real
 
 This space is homeomorphic to $\mathbb{R}^\omega$ with the product topology (Fréchet space).  For this deep result due to R. D. Anderson, see for example {{doi:10.1090/S0002-9904-1968-12044-0}}.
 
-More generally, any infinite-dimensional separable Banach space or, even more generally, any infinite-dimensional separable Fréchet space is homeomorphic to $\mathbb R^\omega$.  See {{wikipedia:Anderson–Kadec theorem}}.
+More generally, any infinite-dimensional separable Banach space or, even more generally, any infinite-dimensional separable Fréchet space is homeomorphic to $\mathbb R^\omega$. This is stated in Theorem VI.5.2 (Anderson-Kadec) on page 189 of {{mr:0478168}}. See also {{wikipedia:Anderson–Kadec theorem}}.
 
 In particular, the following are all homeomorphic as topological spaces:
 - $\mathbb R^\omega$
