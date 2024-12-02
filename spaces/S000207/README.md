@@ -11,6 +11,8 @@ refs:
 The product of {S35} with {S36},
 modified by declaring points of $\omega_1^2$ isolated.
 
-Constructed by Cohen in {{zb:0046.16403}} to show that {P207}
+Constructed by Cohen in {{zb:0046.16403}}
+(<http://gallica.bnf.fr/ark:/12148/bpt6k3186w/f290.image>)
+to show that {P207}
 is strictly stronger than {P88}.
 See {{mathse:5004796}} for details in English.
