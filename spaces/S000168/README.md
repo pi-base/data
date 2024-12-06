@@ -7,4 +7,4 @@ aliases:
   - RP2
 ---
 
-The quotient space by identifying antipodal points of {S169}, $S^2$.
+The quotient of a {S169} $S^2$ identifying its antipodal points.
