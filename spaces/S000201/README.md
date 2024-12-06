@@ -3,6 +3,7 @@ uid: S000201
 name: Infinite earring
 aliases:
 - Hawaiian earring
+- Shrinking wedge of circles
 refs:
 - wikipedia: Hawaiian_earring
   name: Hawaiian earring on Wikipedia
@@ -16,4 +17,4 @@ that is, the union of circles of radius $\frac{1}{n}$ centered at $(\frac{1}{n},
 integers $n$.
 
 Defined as "infinite earring" in section 71 of {{zb:0951.54001}}.
-Not to be confused with {S139}.
+Not to be confused with {S139}, which has a finer topology.
