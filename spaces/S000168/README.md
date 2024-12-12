@@ -6,7 +6,7 @@ aliases:
   - $P_2(\mathbb R)$
   - RP2
 refs:
-  - wikipedia: Real projective plane
+  - wikipedia: Real_projective_plane
     name: Real projective plane of Wikipedia
   - mr: 2766102
     name: Introduction to topological manifolds (Lee)
