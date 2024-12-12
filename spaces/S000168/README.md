@@ -3,7 +3,6 @@ uid: S000168
 name: Real projective plane
 aliases:
   - $\mathbb RP^2$
-  - $P_2(\mathbb R)$
   - RP2
 refs:
   - wikipedia: Real_projective_plane
