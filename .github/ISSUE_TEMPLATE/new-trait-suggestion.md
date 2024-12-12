@@ -6,11 +6,11 @@ labels:
   - trait
 ---
 
-<!-- Modify the below template for your trait suggestion: -->
+<!-- NOTE! If your proposal is not likely to need much discussion, you can
+consider opening a Pull Request to implement this suggestion directly, if you feel
+comfortable doing so. -->
 
-<!-- NOTE! If your proposal is not likely to need much discussion, you should
-consider opening a Pull Request to implement this suggestion directly (assuming
-you know how). -->
+<!-- Modify the below template for your trait suggestion: -->
 
 ## Trait Suggestion
 
