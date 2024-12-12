@@ -1,8 +1,7 @@
 ---
 uid: S000168
-name: Real projective plane
+name: Real projective plane $\mathbb RP^2$
 aliases:
-  - $\mathbb RP^2$
   - RP2
 refs:
   - wikipedia: Real_projective_plane
