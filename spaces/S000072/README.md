@@ -6,7 +6,7 @@ refs:
   - doi: 10.1007/978-1-4612-6290-9
     name: Counterexamples in Topology
 ---
-Let $S=((0,1)\setminus\{\frac{1}{2}\})\times(0,1)$ and $X=S\cup\{\langle 0,0\rangle,\langle 1,0\rangle\}\cup\{\frac{1}{2}\}\times\{r\sqrt{2}:r\in(0,\frac{1}{\sqrt 2})\cap\mathbb Q)\}$.
+Let $S=((0,1)\setminus\{\frac{1}{2}\})\times(0,1)$ and $X=S\cup\{\langle 0,0\rangle,\langle 1,0\rangle\}\cup\{\langle\frac{1}{2},r\sqrt{2}\rangle:r\in(0,\frac{1}{\sqrt 2})\cap\mathbb Q)\}$.
 
 This space is $X$ where $S$ has its subspace topology from {S176}. Then let
 
