@@ -6,9 +6,7 @@ refs:
   - doi: 10.1007/978-1-4612-6290-9
     name: Counterexamples in Topology
 ---
-Let 
-- $S = \{(x,y):x,y\in\mathbb Q \wedge 0<x,y<1\wedge x\not=\frac{1}{2}\}$ and 
-- $X = S \cup \{(0,0), (1,0)\} \cup \{(\frac{1}{2}, r\sqrt{2}) : r \in \mathbb{Q}, 0 < r\sqrt{2} < 1\}$.
+Let $X=S\cup\{\langle 0,0\rangle,\langle 1,0\rangle\}\cup\{\frac{1}{2}\}\times\{r\sqrt{2}:r\in(0,\frac{1}{\sqrt 2})\cap\mathbb Q)\}$ where $S=((0,1)\setminus\{\frac{1}{2}\})\times(0,1)$.
 
 Let $S$ have the subspace topology. Let
 
