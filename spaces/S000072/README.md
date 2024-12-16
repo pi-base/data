@@ -10,9 +10,9 @@ Let $S=((0,1)\setminus\{\frac{1}{2}\})\times(0,1)$ and $X=S\cup\{\langle 0,0\ran
 
 This space is $X$ where $S$ has its subspace topology from {S176}, and
 
-- $U_n(0,0) = \{\langle 0,0\rangle\} \cup (0,\frac{1}{4})\times(0,\frac{1}{n})$,
-- $U_n(1,0) = \{\langle 1,0\rangle\} \cup (\frac{3}{4},1)\times(0,\frac{1}{n})$, and
-- $U_n(\frac{1}{2},y) = ((\frac{1}{4},\frac{3}{4})\times(y-\frac{1}{n},y+\frac{1}{n}))\cap X$
+- $U_n(0,0) = \{\langle 0,0\rangle\} \cup \left((0,\frac{1}{4})\times(0,\frac{1}{n})\right)$,
+- $U_n(1,0) = \{\langle 1,0\rangle\} \cup \left((\frac{3}{4},1)\times(0,\frac{1}{n})\right)$, and
+- $U_n(\frac{1}{2},y) = \left((\frac{1}{4},\frac{3}{4})\times(y-\frac{1}{n},y+\frac{1}{n})\right)\cap X$
 
 are local bases at $\langle 0,0\rangle$, $\langle 1,0\rangle$ and $\langle\frac{1}{2},y\rangle$ respectively.
 
