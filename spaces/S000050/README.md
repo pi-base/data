@@ -1,6 +1,6 @@
 ---
 uid: S000050
-name: Open extension of the rationals
+name: Rationals extended by a focal point
 aliases:
   - Non-Hausdorff cone over the rationals
   - Rationals extended by a focal point
