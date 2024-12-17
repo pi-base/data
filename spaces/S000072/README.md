@@ -15,9 +15,10 @@ This space is $X$, where $S$ has its subspace topology from {S176}, and
 
 - $U_n(0,0) = \{\langle 0,0\rangle\} \cup \left((0,\frac{1}{4})_{\mathbb Q}\times(0,\frac{1}{n})_{\mathbb Q}\right)$,
 - $U_n(1,0) = \{\langle 1,0\rangle\} \cup \left((\frac{3}{4},1)_{\mathbb Q}\times(0,\frac{1}{n})_{\mathbb Q}\right)$, and
-- $U_n(\frac{1}{2},y) = \left((\frac{1}{4},\frac{3}{4})\times(y-\frac{1}{n},y+\frac{1}{n})\right)\cap X$
+- $U_n(\frac{1}{2},r\sqrt{2}) = \left((\frac{1}{4},\frac{3}{4})\times(r\sqrt{2}-\frac{1}{n},r\sqrt{2}+\frac{1}{n})\right)\cap X$
+  for $r\in(0,\frac{1}{\sqrt 2})_{\mathbb Q}$.
 
-are local bases at $\langle 0,0\rangle$, $\langle 1,0\rangle$ and $\langle\frac{1}{2},y\rangle$ respectively.
+are local bases at $\langle 0,0\rangle$, $\langle 1,0\rangle$ and $\langle\frac{1}{2},r\sqrt{2}\rangle$ respectively.
 
 Defined as counterexample #80 ("Arens Square") in {{doi:10.1007/978-1-4612-6290-9}}, where
 this space was erroneously claimed to be {P4}.
