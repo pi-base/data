@@ -19,5 +19,7 @@ This space is $X$, where $S$ has its subspace topology from {S176}, and
 
 are local bases at $\langle 0,0\rangle$, $\langle 1,0\rangle$ and $\langle\frac{1}{2},y\rangle$ respectively.
 
-Defined as counterexample #80 ("Arens Square")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+Defined as counterexample #80 ("Arens Square") in {{doi:10.1007/978-1-4612-6290-9}}, where
+this space was erroneously claimed to be {P4}.
+Compare with {S80} which modifies the construction to
+obtain a valid {P4} example.
