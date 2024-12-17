@@ -1,5 +1,5 @@
 ---
-uid: S000152
+uid: S000160
 name: Right "open-ray" topology on $\omega+1$
 ---
 
