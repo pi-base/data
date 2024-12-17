@@ -7,4 +7,4 @@ aliases:
 ---
 
 Let $X = \mathbb{Q} \cup \{\infty\}$, where $\mathbb{Q}$ has the usual topology on {S27} and is an open subset
-of $X$, and where the only neighborhood of $\infty$ is $X$.
+of $X$, and where the only neighborhood of $\infty$ is $X$. See {P202}.
