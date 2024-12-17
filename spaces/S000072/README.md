@@ -11,8 +11,9 @@ Let $S=(0,1)_{\mathbb Q}^2$ and
 $X=S\cup\{\langle 0,0\rangle,\langle 1,0\rangle\}\cup\{\langle\frac{1}{2},r\sqrt{2}\rangle:r\in(0,\frac{1}{\sqrt 2})_{\mathbb Q}\}$
 (where $I_{\mathbb Q}=I\cap\mathbb Q$).
 
-This space is $X$, where $S$ has its subspace topology from {S176}, and
+This space is $X$ with the topology such that
 
+- $U_n(p,q) = \{\langle x,y\rangle: (p-x)^2+(q-y)^2<\frac{1}{n}\}\cap X$ for $p,q\in(0,1)_{\mathbb Q}$
 - $U_n(0,0) = \{\langle 0,0\rangle\} \cup \left((0,\frac{1}{4})_{\mathbb Q}\times(0,\frac{1}{n})_{\mathbb Q}\right)$,
 - $U_n(1,0) = \{\langle 1,0\rangle\} \cup \left((\frac{3}{4},1)_{\mathbb Q}\times(0,\frac{1}{n})_{\mathbb Q}\right)$, and
 - $U_n(\frac{1}{2},r\sqrt{2}) = \left((\frac{1}{4},\frac{3}{4})\times(r\sqrt{2}-\frac{1}{n},r\sqrt{2}+\frac{1}{n})\right)\cap X$
