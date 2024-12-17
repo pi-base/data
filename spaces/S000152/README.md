@@ -1,6 +1,6 @@
 ---
 uid: S000152
-name: David Gao's highly connected Alexandrov non-sober space
+name: David Gao's highly connected Alexandrov non-spectral space
 refs:
   - mathse: 5007860
     name: Answer to "For a compact sober "highly non-$T_1$" space, how much "highly connectedness" is needed to imply it's a spectral space?"
