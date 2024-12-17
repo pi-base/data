@@ -1,6 +1,6 @@
 ---
 uid: S000048
-name: Cofinite topology on $\omega$ extended by a generic point
+name: Closed extension of cofinite topology on $\omega$
 counterexamples_id: 56
 aliases:
   - $\mathrm{Spec}(\mathbb{Z})$
