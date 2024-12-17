@@ -7,10 +7,9 @@ refs:
     name: Counterexamples in Topology
 ---
 
-For each subinterval $I$ of the real line, let $I_{\mathbb Q}=I\cap\mathbb Q$.
-
 Let $S=(0,1)_{\mathbb Q}^2$ and
-$X=S\cup\{\langle 0,0\rangle,\langle 1,0\rangle\}\cup\{\langle\frac{1}{2},r\sqrt{2}\rangle:r\in(0,\frac{1}{\sqrt 2})_{\mathbb Q}\}$.
+$X=S\cup\{\langle 0,0\rangle,\langle 1,0\rangle\}\cup\{\langle\frac{1}{2},r\sqrt{2}\rangle:r\in(0,\frac{1}{\sqrt 2})_{\mathbb Q}\}$
+(where $I_{\mathbb Q}=I\cap\mathbb Q$).
 
 This space is $X$, where $S$ has its subspace topology from {S176}, and
 
