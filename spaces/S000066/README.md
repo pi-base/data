@@ -1,6 +1,6 @@
 ---
 uid: S000066
-name: Double origin topology
+name: Double origin plane
 counterexamples_id: 74
 refs:
 - doi: 10.1007/978-1-4612-6290-9 
