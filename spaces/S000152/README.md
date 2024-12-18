@@ -2,10 +2,10 @@
 uid: S000152
 name: David Gao's highly connected Alexandrov non-spectral space
 refs:
-  - mathse: 5007860
-    name: Answer to "For a compact sober "highly non-$T_1$" space, how much "highly connectedness" is needed to imply it's a spectral space?"
   - wikipedia: Alexandrov_topology
     name: Alexandrov topology on Wikipedia
+  - mathse: 5007860
+    name: Answer to "For a compact sober "highly non-$T_1$" space, how much "highly connectedness" is needed to imply it's a spectral space?"
 ---
 
 David Gao's example of a {P39}, {P40}, {P90}, {P16}, and {P73} space which is not {P75}, as constructed in part 2 of {{mathse:5007860}}.
