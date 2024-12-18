@@ -10,6 +10,6 @@ David Gao's example of a {P39}, {P40}, {P90}, {P16}, and {P73} space which is no
 
 Consider the set $\{\frac{1}{n}\}_{n=1}^\infty$ with its usual order. Let,
 
-$$X=\{-1,0_a,0_b\}\cup\{\frac{1}{n}\}_{n=1}^\infty$$
+$\quad X=\{-1,0_a,0_b\}\cup\{\frac{1}{n}\}_{n=1}^\infty$
 
 where either of the zeros is smaller than all $\frac{1}{n}$, the two zeros are incomparable, and $-1$ is smaller than everything else. Then equip $X$ with the Alexandrov topology associated to the order defined above.
