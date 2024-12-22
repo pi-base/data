@@ -7,3 +7,5 @@ refs:
 ---
 
 $X$ has underlying set $[0,1]$ and the open sets are exactly $X$ and $(a,1]$ for $0 \leq a \leq 1$.
+
+This space is described in part 3 of {{mathse:5007860}}.
