@@ -8,7 +8,7 @@ refs:
 ---
 Let $\mathbb{Z}^+$ denote the set of positive integers, $Y$ be the set of all finite sequences of positive integers of even length, and $W = \{A \subseteq Y\ |\ |A| = 2\}$. Gustin's Sequence Space is the set $X = Y \cup (\mathbb{Z}^+ \times W)$ with topology defined as follows:
 
-For any $\alpha, \beta \in Y$, let $\alpha\beta$ be the sequence formed by adjoining $\beta$ to the end of $\alpha$. Let $\alpha \geq i \in \mathbb{Z}$ abbreviate $a \geq i$ for every $a \in \alpha$. Let $\beta \supseteq_i \alpha$ abbreviate $\exists \gamma \geq i$ with $\beta = \alpha\gamma$ and $U_i(\alpha) = \{\beta \in Y\ |\ \beta \supseteq_i \alpha\}$.
+For any finite sequences $\alpha, \beta$ of arbitrary length, let $\alpha\beta$ be the sequence formed by adjoining $\beta$ to the end of $\alpha$. Let $\alpha \geq i \in \mathbb{Z}$ abbreviate $a \geq i$ for every $a \in \alpha$. Let $\beta \supseteq_i \alpha$ abbreviate that there exists a sequence of finite length $\gamma\geq i$ with $\beta = \alpha\gamma$ and $U_i(\alpha) = \{\beta \in Y\ |\ \beta \supseteq_i \alpha\}$.
 
 Let $q: \mathbb{Z}^+ \times W\rightarrow \mathbb{Z}^+$ be a function increasing on its first coordinate. (For example, fix a bijection $p$ from $W$ to the set of all positive primes, and define $q: \mathbb{Z}^+ \times W \rightarrow \mathbb{Z}^+$ by $q(n,w) = [p(w)]^n$.)
 
