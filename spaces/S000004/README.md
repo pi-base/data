@@ -1,8 +1,6 @@
 ---
 uid: S000004
 name: Indiscrete Topology on a Two-Point Set
-aliases:
-  - Indiscrete Topology on a Two-Point Set
 counterexamples_id: 4
 refs:
   - doi: 10.1007/978-1-4612-6290-9 

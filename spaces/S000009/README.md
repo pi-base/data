@@ -1,7 +1,8 @@
 ---
 uid: S000009
-name: Particular Point Topology on the Real Numbers
+name: Particular point topology on the real numbers
 aliases:
+  - Included point topology on $\mathbb R$
   - Uncountable Particular Point Topology
 counterexamples_id: 10
 refs:
