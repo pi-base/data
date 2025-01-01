@@ -6,7 +6,7 @@ labels:
   - theorem
 ---
 
-*Modify the below template for your theorem suggestion:*
+<!-- Modify the below template for your theorem suggestion -->
 
 ## Theorem Suggestion
 
