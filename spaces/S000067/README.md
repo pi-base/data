@@ -6,7 +6,7 @@ refs:
   - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
   - zb: 0051.13902
-    name: A connected countable Hausdorff space (Bing)
+    name: A connected countable Hausdorff space (R.H. Bing)
 ---
 
 Let $X = \{(x,y) : x,y \in \mathbb{Q}, y \geq 0\}$. For a fixed irrational $\theta>0$, the irrational slope topology on $X$ is obtained by taking as a local base of open neighborhoods of each point $(x,y)\in X$ the collection of sets $N_\epsilon(x,y)$ with $\epsilon>0$,
