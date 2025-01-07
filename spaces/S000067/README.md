@@ -1,6 +1,8 @@
 ---
 uid: S000067
 name: Irrational slope topology
+aliases:
+- Bing's connected countable space
 counterexamples_id: 75
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
