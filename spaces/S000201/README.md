@@ -9,6 +9,10 @@ refs:
   name: Hawaiian earring on Wikipedia
 - zb: "0951.54001"
   name: Topology (Munkres)
+- zb: "1044.55001"
+  name: Algebraic Topology (Hatcher)
+- doi: 10.1007/978-1-4612-4576-6
+  name: An Introduction to Algebraic Topology (Rotman)
 ---
 
 The subspace of {S176} defined by
@@ -20,5 +24,5 @@ integers $n$.
 
 Not to be confused with {S139}, which has a finer topology.
 
-Defined as "infinite earring" in section 71 of {{zb:0951.54001}}.
-Appears as Example 1.25 in {{zb:1044.55001}} (available [here](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html)) under the name "Shrinking wedge of circles"; however, note that it is not actually an example of a "wedge sum" as defined in e.g. {{wikipedia:Wedge_sum}}, {{doi:10.1007/978-1-4612-4576-6}}.
+Defined as "infinite earring" in section 71 of {{zb:0951.54001}}; usually known in the literature as "Hawaiian earring".
+Appears as Example 1.25 in {{zb:1044.55001}} (available [here](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html)) under the name "Shrinking wedge of circles"; however, note that it is not actually an example of a "wedge sum" as defined in e.g. {{wikipedia:Wedge_sum}} or {{doi:10.1007/978-1-4612-4576-6}}.
