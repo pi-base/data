@@ -6,5 +6,4 @@ refs:
     name: Counterexamples in Topology
 ---
 
-Write a definition of this space. I can cite other ideas from pi-Base
-like {S123}.
+The topology given by (...) on the set $\mathbb R$.
