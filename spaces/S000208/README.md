@@ -6,4 +6,4 @@ refs:
     name: Counterexamples in Topology
 ---
 
-The topology given by (...) on the set $\mathbb R$.
+The topology given by (...) on the set $R=\{1,2,3,4\}$.
