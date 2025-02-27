@@ -1,8 +1,8 @@
 ---
 uid: S000063
-name: Discrete irrational extension of the reals
+name: Michael line
 aliases:
-  - Michael Line
+  - Discrete irrational extension of $\mathbb R$
 counterexamples_id: 71
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
