@@ -10,11 +10,11 @@ refs:
   - wikipedia: Hedgehog_space
     name: Hedgehog space
 ---
-If $d$ is the usual metric on $\mathbb{R}^2$, the radial metric $r$ is defined by:
+If $d_e$ is the usual metric on $\mathbb{R}^2$, the radial metric $r$ is defined by:
 
 $r(x,y) = \begin{cases}
-d(x,y), & x \text{ and } y \text{ colinear with } \vec 0\\
-d(x,\vec 0) + d(y,\vec 0), & \text{otherwise.}
+d_e(x,y), & x \text{ and } y \text{ are colinear with } \vec 0\\
+d_e(x,\vec 0) + d_e(y,\vec 0), & \text{otherwise.}
 \end{cases}$
 
 Defined as counterexample #140 ("The Radial Metric")
