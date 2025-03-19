@@ -10,7 +10,7 @@ Let $\mathbb{Z}^+$ denote the set of positive integers, $Y$ be the set of all fi
 
 For any finite sequences $\alpha, \beta$ of arbitrary length, let $\alpha\beta$ be the sequence formed by adjoining $\beta$ to the end of $\alpha$. Let $\alpha \geq i \in \mathbb{Z}$ abbreviate $a \geq i$ for every $a \in \alpha$. Let $\beta \supseteq_i \alpha$ abbreviate that there exists a sequence of finite length $\gamma\geq i$ with $\beta = \alpha\gamma$ and $U_i(\alpha) = \{\beta \in Y\ |\ \beta \supseteq_i \alpha\}$.
 
-Let $q: \mathbb{Z}^+ \times W\rightarrow \mathbb{Z}^+$ be a function increasing on its first coordinate. (For example, fix a bijection $p$ from $W$ to the set of all positive primes, and define $q: \mathbb{Z}^+ \times W \rightarrow \mathbb{Z}^+$ by $q(n,w) = [p(w)]^n$.)
+Let $q: \mathbb{Z}^+ \times W\rightarrow \mathbb{Z}^+$ be an injective function increasing on its first coordinate. (For example, fix a bijection $p$ from $W$ to the set of all positive primes, and define $q: \mathbb{Z}^+ \times W \rightarrow \mathbb{Z}^+$ by $q(n,w) = [p(w)]^n$.)
 
 Define a topology on $X$ by letting neighborhoods of points $\alpha \in Y$ be sets of the form $U_i(\alpha)$, and neighborhoods of points $(n,w) = (n, \{\alpha, \beta\})$ be sets of the form $V_i(n,w) = \{(n,w)\} \cup U_i\big(\alpha q(n,w)\big) \cup U_i\big(\beta q(n,w)\big) $.
 
