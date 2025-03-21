@@ -14,4 +14,4 @@ Equivalently, it can be obtained from $\mathbb R$ by replacing the origin $0$ wi
 
 See {{wikipedia:Non-Hausdorff_manifold}}.
 
-This space illustrates that in {T404} the {P3} hypothesis cannot be weakened to {P2}.
+The cardinality $|S|=2^\mathfrak c$ is choosen to illustrate that in {T404} the {P99} hypothesis cannot be weakened to {P2}.
