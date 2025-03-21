@@ -6,4 +6,4 @@ refs:
     name: General Topology (Willard)
 ---
 
-The subspace $I=[0,1]=\{t\in \mathbb R : 0\leq x \leq 1\}$ of {S25} $\mathbb{R}$.
+The subspace $I=[0,1]=\{t\in \mathbb R : 0\leq t \leq 1\}$ of {S25} $\mathbb{R}$.
