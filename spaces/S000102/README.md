@@ -1,8 +1,7 @@
 ---
 uid: S000102
-name: Baire metric on a countable product of reals
+name: Baire metric on $\mathbb R^\omega$
 aliases:
-  - Baire product metric
   - Countable product of continuum-sized discrete spaces
 counterexamples_id: 104
 refs:

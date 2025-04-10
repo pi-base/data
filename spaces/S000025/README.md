@@ -1,10 +1,9 @@
 ---
 uid: S000025
-name: Euclidean Real Numbers
+name: Euclidean real numbers $\mathbb R$
 aliases:
-  - Real Line
-  - Euclidean Topology
-  - Euclidean Space
+  - Real line
+  - Euclidean topology
 counterexamples_id: 28
 refs:
 - doi: 10.1007/978-1-4612-6290-9 
