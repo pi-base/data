@@ -1,8 +1,7 @@
 ---
 uid: S000022
-name: Fortissimo space on the real numbers
+name: Fortissimo space on $\mathbb R$
 aliases:
-  - Fortissimo space
   - One-point Lindelöfication of uncountable discrete space
 counterexamples_id: 25
 refs:
