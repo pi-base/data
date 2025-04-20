@@ -1,8 +1,7 @@
 ---
 uid: S000027
-name: Rational numbers
+name: Rational numbers $\mathbb Q$
 aliases:
-  - $\mathbb Q$
   - Furstenberg topology
   - Evenly spaced integer topology
   - The $p$-adic topology on $\mathbb{Z}$
@@ -25,7 +24,7 @@ in {{doi:10.1007/978-1-4612-6290-9}}.
 ----
 A purely topological characterization of the space $\mathbb Q$, due to Sierpinski, is given by the following equivalent theorems:
 - Every countably infinite, {P53} space without isolated point is homeomorphic to $\mathbb Q$.
-- Every countably infinite, {P5} {P28} space without isolated point is homeomorphic to $\mathbb Q$.
+- Every countably infinite, {P5}, {P28} space without isolated point is homeomorphic to $\mathbb Q$.
 
 For a proof, see [Countable metric spaces without isolated points (A. Dasgupta)](http://at.yorku.ca/p/a/c/a/25.pdf) or {{doi:10.48550/arXiv.1210.1008}}.
 And for the equivalence between the two theorems, the second one easily follows from the first; and the reverse direction follows from {T212} together with Urysohn's metrization theorem.
