@@ -1,3 +1,7 @@
+*Looking for pi-Base's software? Head over to [`pi-base/web`](https://github.com/pi-base/web)!*
+
+---
+
 ![compile](https://github.com/pi-base/data/workflows/compile/badge.svg)
 
 This repository is used to collaborate on the underlying data powering the
@@ -5,5 +9,5 @@ This repository is used to collaborate on the underlying data powering the
 
 To learn more, visit our [wiki](https://github.com/pi-base/data/wiki).
 
-Copyright 2014-2023 Steven Clontz and James Dabbs,
+Copyright 2014-2025 Steven Clontz and James Dabbs,
 [licensed for free public use](https://github.com/pi-base/data/blob/main/LICENSE.md).
