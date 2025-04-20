@@ -1,6 +1,6 @@
 ---
 uid: S000009
-name: Particular point topology on the real numbers
+name: Particular point topology on $\mathbb R$
 aliases:
   - Included point topology on $\mathbb R$
   - Uncountable Particular Point Topology

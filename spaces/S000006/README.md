@@ -1,6 +1,6 @@
 ---
 uid: S000006
-name: Deleted Integer Topology
+name: Deleted integer topology on $\mathbb R\setminus\mathbb Z$
 counterexamples_id: 7
 refs:
   - doi: 10.1007/978-1-4612-6290-9 

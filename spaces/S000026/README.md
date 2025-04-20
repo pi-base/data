@@ -1,6 +1,6 @@
 ---
 uid: S000026
-name: Cantor space
+name: Cantor space $2^\omega$
 aliases:
 - Cantor set
 counterexamples_id: 29

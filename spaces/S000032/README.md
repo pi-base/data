@@ -1,6 +1,6 @@
 ---
 uid: S000032
-name: Hilbert cube
+name: Hilbert cube $[0,1]^\omega$
 counterexamples_id: 38
 refs:
   - doi: 10.1007/978-1-4612-6290-9 

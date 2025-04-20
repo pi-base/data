@@ -14,6 +14,6 @@ The space $\ell^2$ is the Banach space of sequences of real numbers $x=(x_i)_i$ 
 equipped with the norm $\|x\|_2=(\Sigma_i x_i^2)^{1/2}$ and corresponding distance and topology.
 
 The space $\ell^2$ is topologically homeomorphic to {S30};
-but note the space $X$ is *not* homeomorphic to the subspace $\mathbb Q^\omega$ of $\mathbb R^\omega$.
+but note the space $X$ is *not* homeomorphic to the subspace {S146} of $\mathbb R^\omega$.
 
 See {{mathse:151954}} or Example 6.2.19 in {{zb:0684.54001}}.
