@@ -2,8 +2,7 @@
 uid: S000018
 name: Double pointed cocountable topology on $\mathbb R$
 aliases:
-  - Double pointed countable complement topology on the real numbers
-  - Double pointed countable complement topology
+  - Double pointed countable complement topology on $\mathbb R$
 counterexamples_id: 21
 refs:
   - doi: 10.1007/978-1-4612-6290-9
