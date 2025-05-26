@@ -9,7 +9,7 @@ refs:
     name: Alexandroff extension on Wikipedia
 ---
 
-The space $X = \mathbb{Q} \cup \{\infty\}$ is the one point compactification of $\mathbb Q$ ({S27}).
+The space $X = \mathbb{Q} \cup \{\infty\}$ is the Alexandroff one point compactification of {S27}.
 The open sets in $X$ are the open subsets of $\mathbb Q$ together with the sets $X\setminus C$ with $C$ compact in $\mathbb Q$.
 
 Defined as counterexample #35 ("One Point Compactification of the Rationals")
