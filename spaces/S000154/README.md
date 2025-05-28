@@ -1,6 +1,6 @@
 ---
 uid: S000154
-name: Fort Space on the Real Numbers
+name: Fort space on the real numbers
 aliases:
   - Uncountable Fort Space
   - One-point compactification of an uncountable discrete space
