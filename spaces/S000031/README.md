@@ -1,6 +1,8 @@
 ---
 uid: S000031
-name: Square of One Point Compactification of the Rationals
+name: Square of one-point compactification of $\mathbb Q$
+aliases:
+  - Square of one-point compactification of the rationals
 refs:
 - mathse: 632320
   name: Weak Hausdorff space not KC
