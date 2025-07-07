@@ -1,5 +1,7 @@
 *Looking for pi-Base's software? Head over to [`pi-base/web`](https://github.com/pi-base/web)!*
 
+*Looking for the latest data blob? Download it from [r2.dev](https://pub-65041ca69d744da88ade13abd31ad834.r2.dev/refs/heads/main.json)!*
+
 ---
 
 ![compile](https://github.com/pi-base/data/workflows/compile/badge.svg)
