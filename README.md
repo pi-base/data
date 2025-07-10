@@ -4,7 +4,7 @@
 
 ---
 
-![compile](https://github.com/pi-base/data/workflows/compile/badge.svg)
+![compile](https://github.com/pi-base/data/workflows/compile/badge.svg) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15850332.svg)](https://doi.org/10.5281/zenodo.15850332)
 
 This repository is used to collaborate on the underlying data powering the
 [pi-Base community database of topological spaces](https://topology.pi-base.org).
