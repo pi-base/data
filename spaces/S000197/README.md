@@ -1,11 +1,10 @@
 ---
 uid: S000197
-name: Van Douwen line
+name: Rudin's nonmetrizable manifold
 refs:
 - doi: 10.1016/0166-8641(90)90099-N
-  name: Two nonmetrizable manifolds (Mary Ellen Rudin)
+  name: Two nonmetrizable manifolds (M. E. Rudin)
 ---
 
-The Van Douwen line is a space based on the construction of the Kunen line. It is locally $2$-Euclidean.
-
-Van douwen line has been constructed in section 1 of {{doi:10.1016/0166-8641(90)90099-N}}. 
+The space is based on Van Douwen line construction. It's locally $2$-Euclidean.
+It has been constructed in section 1 of {{doi:10.1016/0166-8641(90)90099-N}}. 
