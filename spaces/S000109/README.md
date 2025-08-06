@@ -3,10 +3,20 @@ uid: S000109
 name: Novak space
 counterexamples_id: 112
 refs:
+  - zb: "0053.12404"
+    name: On the Cartesian product of two compact spaces. (J. Novak)
   - doi: 10.1007/978-1-4612-6290-9
     name: Counterexamples in Topology
 ---
-Let $S = \beta \omega$. Let $F = S^{[\omega]}$ be the family of all countably infinite subsets of $S$ and fix a well ordering for $F$. Let $\hat{f}: S \rightarrow S$ be the extension of the function $f(n) = n + (-1)^{n+1}$. Let $\{P_A\ |\ A \in F\}$ be a collection of subsets of $S$ such that $|P_A| < 2^\mathfrak{c}$, $P_D \subset P_A$ whenever $D < A$ and $\hat{f}(P_A) \cap P_A = \emptyset$. Novak's space is $X = \omega \cup \bigcup_{A \in F} P_A \subset \beta\omega$ with the subspace topology.
 
-Defined as counterexample #112 ("Novak Space")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+Defined in the proof of theorem 3 in {{zb:0053.12404}}. (<https://eudml.org/doc/213312>)
+
+Let $\{S_\xi : \xi < 2^\mathfrak{c}\}$ be all countably infinite subsets of $\beta\omega$. Find elements $x_\xi$ and $y_\xi$ of $\beta\omega\setminus \omega$ for all $\xi < 2^\mathfrak{c}$ so that the following hold: 
+
+1. All $x_\xi$ and $y_\eta$ are pairwise distinct.
+
+2. All $x\in \beta\omega\setminus \omega$ are either of the form $x_\xi$ or $y_\eta$.
+
+4. $x_\xi, y_\xi\in \overline{S_\xi}\setminus S_\xi$.
+
+Then the Novak space is defined as $X = \omega\cup \{x_\xi : \xi < 2^\mathfrak{c}\}$ with subspace topology.
