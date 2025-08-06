@@ -9,7 +9,7 @@ refs:
     name: Counterexamples in Topology
 ---
 
-Defined in the proof of theorem 3 in {{zb:0053.12404}}. (<https://eudml.org/doc/213312>)
+Defined as $A_1 = N\cup P$ in the proof of theorem 3 in {{zb:0053.12404}}. (<https://eudml.org/doc/213312>)
 
 Let $\{S_\xi : \xi < 2^\mathfrak{c}\}$ be all countably infinite subsets of $\beta\omega$. Find elements $x_\xi$ and $y_\xi$ of $\beta\omega\setminus \omega$ for all $\xi < 2^\mathfrak{c}$ so that the following hold: 
 
