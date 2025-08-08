@@ -14,9 +14,9 @@ refs:
 The subspace $X$ of {S191} obtained by removing the point $\langle\omega_1,\omega\rangle$.
 So $X=(Y\times Z)\setminus\{\langle\omega_1,\omega\rangle\}$ 
 where $Y=[0,\omega_1]$ is given the topology with points of $[0,\omega_1)$
-isolated and neighborhoods of $\omega_1$ cocountable,
+isolated and neighborhoods of $\omega_1$ cocountable ({S155}),
 and $Z=[0,\omega]$ is given the topology with points of $[0,\omega)$
-isolated and neighborhoods of $\omega$ cofinite.
+isolated and neighborhoods of $\omega$ cofinite ({S20}).
 
 Defined as counterexample #89 ("Dieudonné Plank")
 in {{doi:10.1007/978-1-4612-6290-9}}. Note that the pi-Base qualifies this name with
