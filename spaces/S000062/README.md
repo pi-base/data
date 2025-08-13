@@ -3,7 +3,7 @@ uid: S000062
 name: Discrete rational extension of $\mathbb R$
 counterexamples_id: 70
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001"
     name: Counterexamples in Topology
 ---
 
@@ -15,4 +15,4 @@ together with all singletons $\{x\}$ for $x\in D$.
 The topology is finer than {S58}.
 
 Defined as counterexample #70 ("Discrete Rational Extension of $\mathbb{R}$")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.
