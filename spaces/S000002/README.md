@@ -4,6 +4,8 @@ name: Discrete Topology on a Countably Infinite Set
 aliases:
   - Countable Discrete Topology
   - Sierpinski's metric space
+  - The Natural Numbers
+  - The Integers
 counterexamples_id: 2
 refs:
   - doi: 10.1007/978-1-4612-6290-9
