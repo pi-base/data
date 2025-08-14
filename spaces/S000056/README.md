@@ -15,4 +15,4 @@ Let $K = \{\frac{1}{n} : n \in \mathbb{N}\}$. Smirnov's Deleted Sequence Topolog
 Defined as counterexample #64 ("Smirnov's Deleted Sequence Topology")
 in {{doi:10.1007/978-1-4612-6290-9}}.
 
-See also {S206}.
+Compare with {S206}.
