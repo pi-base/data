@@ -8,7 +8,7 @@ aliases:
   - Integers $\mathbb Z$
 counterexamples_id: 2
 refs:
-  - doi: 10.1007/978-1-4612-6290-9
+  - zb: "0386.54001"
     name: Counterexamples in Topology
   - wikipedia: Discrete_space
     name: Discrete Space on Wikipedia
