@@ -20,3 +20,6 @@ Let $\{S_\xi : \xi < 2^\mathfrak{c}\}$ be all countably infinite subsets of $\be
 4. $x_\xi, y_\xi\in \overline{S_\xi}\setminus S_\xi$.
 
 Then the Novak space is defined as $X = \omega\cup \{x_\xi : \xi < 2^\mathfrak{c}\}$ with subspace topology.
+
+Constructed as counterexample #112
+in {{doi:10.1007/978-1-4612-6290-9}}. However, the construction in that book is incorrect as it assumes that $2^\mathfrak{c}$ is a regular cardinal, which it consistently isn't.
