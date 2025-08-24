@@ -5,11 +5,11 @@ aliases:
 - Core topology on $\mathbb R^2$
 refs:
   - mathse: 2250999
-    name: "Is the core topology on R2 a group topology?"
+    name: "Is the core topology on $\mathbb R^2$ a group topology?"
   - zb: "0042.36201"
     name: Convex sets in linear spaces (Klee 1951)
   - zb: "0064.10505"
-    name: Some topological properites on convex sets (Klee 1955)
+    name: Some topological properties on convex sets (Klee 1955)
   - doi: 10.2307/2315929
     name: Problem 5468 of The American Mathematical Monthly
 ---
