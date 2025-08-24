@@ -5,7 +5,7 @@ aliases:
 - Core topology on $\mathbb R^2$
 refs:
   - mathse: 2250999
-    name: "Is the core topology on $\mathbb R^2$ a group topology?"
+    name: Is the core topology on $\mathbb R^2$ a group topology?
   - zb: "0042.36201"
     name: Convex sets in linear spaces (Klee 1951)
   - zb: "0064.10505"
