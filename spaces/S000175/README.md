@@ -14,5 +14,7 @@ refs:
     name: Problem 5468 of The American Mathematical Monthly
 ---
 
-Sets $U$ are open provided for every point $x\in U$ and line $L$ passing through $x$,
-there exists an open subinterval $S\subseteq L$ with $x\in S\subseteq U$.
+Let $X=\mathbb R^2$ as a set.  For the topology, a set $U\subseteq X$ is open if for every point $x\in U$ and line $L$ passing through $x$, there is an open segment $S\subseteq L$ with $x\in S\subseteq U$.
+In other words, $U$ is open in $X$ provided $U\cap L$ is open in $L$ for each line $L$ with its Euclidean topology.
+
+$X$ has a finer topology than {S176}.
