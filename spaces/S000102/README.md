@@ -5,13 +5,13 @@ aliases:
   - Countable product of continuum-sized discrete spaces
 counterexamples_id: 104
 refs:
-  - doi: 10.1007/978-1-4612-6290-9
+  - zb: "0386.54001"
     name: Counterexamples in Topology
 ---
-The Baire metric on $X = \mathbb{R}^\omega$ is defined by $d(\langle x_i\rangle, \langle y_i\rangle) = \frac{1}{i}$ where $i$ is the first coordinate such that $x_i \neq y_i$.
+The Baire metric on $X =\mathbb{R}^\omega$ is defined by $d(\langle x_i\rangle, \langle y_i\rangle) = \frac{1}{i+1}$ where $i$ is the first coordinate such that $x_i \neq y_i$.
 
 This space is homeomorphic to a countable product of discrete spaces of
 size continuum.
 
 Defined as counterexample #104 ("Baire Metric on \(\mathbb{R}^\omega\)")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}. Note that therein the index of the first coordinate is $1$.
