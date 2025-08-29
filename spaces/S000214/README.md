@@ -1,5 +1,5 @@
 ---
-uid: S000208
+uid: S000214
 name: Katětov's non-normal subspace of $\beta\mathbb{N}$
 refs:
   - doi: 10.1007/978-1-4615-7819-2
