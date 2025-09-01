@@ -3,7 +3,13 @@ uid: S000213
 name: Pseudocircle
 refs:
   - wikipedia: Pseudocircle
-    name: Pseudocircle
+    name: Pseudocircle on Wikipedia
 ---
 
-$X = \{0, 1, 2, 3\}$ with open sets $\bigl\{ \varnothing, \{1\}, \{3\}, \{1,3\}, \{0,1,3\}, \{1,2,3\}, X \bigr\}$.
+Let $X$ be the *complete bipartite poset* $K_{2,2}$, with two incomparable elements in the bottom layer, two incomparable elements in the top layer, and every bottom element less than every top element.
+
+Specifically, take $X=\{0,1,2,3\}$ with bottom elements $0,2$ and top elements $1,3$.
+(The ordered pairs $(a,b)$ with $a<b$ are $(0,1),(0,3),(2,1),(2,3)$.)
+
+Equip $X$ with the corresponding Alexandrov topology, where the open sets are the upper sets of the poset:
+$\varnothing, \{1\}, \{3\}, \{1,3\}, \{0,1,3\}, \{2,1,3\}, X$.
