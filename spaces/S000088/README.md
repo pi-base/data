@@ -6,9 +6,8 @@ refs:
   - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
 ---
-For each ordinal $\alpha$ let $A_\alpha$ denote the linearly ordered set $(-0, -1, -2, \dots, \alpha, \dots, 2, 1, 0)$ with the order topology. Let $P = A_{\omega_1} \times A_{\omega}$ and $P^\ast = P \setminus \{(\omega_1, \omega)\}$. We may regard $P^\ast$ as a rectangular lattice with coordinate axes $A_{\omega_1}$ and $A_\omega$.
 
-Form a corkscrew by taking a (countably) infinite stack of copies of $P^\ast$ by slitting each $P^\ast$ immediately below the positive $A_{\omega_1}$ axis and the joining the fourth quadrant of one plane to the first quadrant of the one immediately below it. Complete the space by adjoining a point $a^+$ with neighborhoods all points above a certain level and $a^-$ with neighborhoods all points below a certain level.
+For a space $X$, define $Z = X\times \mathbb{N} \cup \{p\}$ where $p$ is a new point to have topology such that $U\subseteq Z$ is open iff $U\cap (X\times \mathbb{N})$ is open in the product topology where $\mathbb{N}$ is {S2}, and if $p\in U$ then $X\times \{n\in \mathbb{N} : n\geq N\}\subseteq U$ for some $N$. If $H, K\subseteq X$ are disjoint closed subsets which can't be separated by open sets, define $\text{J}(X) = Z/\sim$ where $\sim$ is such that $(x, 2n)\sim (x, 2n+1)$ for $x\in H$ and $(x, 2n-1)\sim (x, 2n)$ for $x\in K$ and let $q:Z\to \text{J}(X)$ be the quotient map. Define $\text{DJ}(X) = (\text{J}(X)\times \{0, 1\})/\sim$ where $(x, 0)\sim (x, 1)$ for $x\in q(X\times \{1\})$. Tychonoff corkscrew is defined as $\text{DJ}(X)$ where $X$ is {S79}, $H = \omega_1\times \{\omega\}$ and $K = \{\omega_1\}\times \omega$.
 
 Defined as counterexample #90 ("Tychonoff Corkscrew")
 in {{doi:10.1007/978-1-4612-6290-9}}.
