@@ -6,7 +6,7 @@ refs:
   - zb: "0386.54001"
     name: Counterexamples in Topology
 ---
-If $(X,\tau)$ is the {S176}, we define a new topology for $X$ by declaring open each point in the set $D = \{(x,y) | x \in Q, y \in Q\}$, and each set of the form $\{x\} \cup (D \cap U)$ where $x \in U \in \tau$.
+If $(X,\tau)$ is the {S176}, we define a new topology for $X$ by declaring open each point in the set $D = \mathbb Q^2$, and each set of the form $\{x\} \cup (D \cap U)$ where $x \in U \in \tau$.
 
 Defined as counterexample #72 ("Rational Extension in the Plane")
 in {{zb:0386.54001}}.
