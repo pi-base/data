@@ -6,7 +6,8 @@ refs:
   - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
 ---
-The subspace $Y = X \setminus \{a^-\}$ of the {S88}.
+
+If $\text{DJ}(Y, H, K)$ is {S88}, then {S89} is $X := \text{DJ}(X)\setminus \{p^-\}$.
 
 Defined as counterexample #91 ("Deleted Tychonoff Corkscrew")
 in {{doi:10.1007/978-1-4612-6290-9}}.
