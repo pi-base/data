@@ -11,7 +11,7 @@ we define a new topology for $X$ by declaring open each point in the set
 $D = \mathbb Q^2$, and each set of the form $\{x\} \cup (D \cap U)$
 where $x \in U \in \tau$.
 
-The topology is finer than {S176}.
+The topology is finer than that of {S176}.
 
 The construction combines the ideas from
 {S60} and {S62}.
