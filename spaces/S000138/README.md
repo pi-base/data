@@ -13,4 +13,4 @@ consisting of all functions $f$ such that, for some $i<\omega$, we have
 $\omega< \mathrm{cf}(f(n))<\omega_i$ for all $n\in\omega$. By $\mathrm{cf}(\lambda)$ we denote the smallest ordinal
 cofinal with $\lambda$.
 
-See {{zb:0224.54019}} and section 3.2(i) of {{mr:0554.54005}}.
+See {{zb:0224.54019}} and section 3.2(i) of {{zb:0554.54005}}.
