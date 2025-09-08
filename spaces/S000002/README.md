@@ -13,6 +13,7 @@ refs:
   - wikipedia: Discrete_space
     name: Discrete Space on Wikipedia
 ---
+
 Let $X=\omega=\{0,1,2,\dots\}$ be the space containing countably-many
 points and let all subsets of $X$ be open.
 
