@@ -3,7 +3,7 @@ uid: S000090
 name: Hewitt's condensed corkscrew
 counterexamples_id: 92
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001"
     name: Counterexamples in Topology
 ---
 
