@@ -3,12 +3,13 @@ uid: S000005
 name: Odd-Even Topology
 counterexamples_id: 6
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001"
     name: Counterexamples in Topology
   - wikipedia: Partition_topology
     name: Partition topology on Wikipedia
 ---
-Define a topology on $\mathbb{N}$ by taking as a basis all sets of the form $\{\{2k-1,2k\}\mid k \in \mathbb{N}\}$.
+
+Define a topology on $X = \mathbb{N}$ by taking as a basis all sets of the form $\{\{2k-1,2k\}\mid k \in \mathbb{N}\}$.
 
 Homeomorphic to the product of {S2} and {S4}.
 
