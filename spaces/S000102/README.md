@@ -31,4 +31,6 @@ See Example 4.2.12 in {{zb:0684.54001}}.
 Also defined as counterexample #104 ("Baire Metric on \(\mathbb{R}^\omega\)")
 in {{zb:0386.54001}}, where the index starts at $i=1$.
 
-Compare with {S28}.
+This space has a finer topology than {S30}.
+
+Compare with {S28}, which is the Baire space $B(\aleph_0)$.
