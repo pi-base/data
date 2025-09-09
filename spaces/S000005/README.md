@@ -9,7 +9,7 @@ refs:
     name: Partition topology on Wikipedia
 ---
 
-Define a topology on $X = \mathbb{N}$ by taking as a basis all sets of the form $\{\{2k-1,2k\}\mid k \in \mathbb{N}\}$.
+Define a topology on $X = \mathbb{N}$ by taking as a basis all pairs $\{2k-1,2k\}$ for $k \in \mathbb{N}$.
 
 Homeomorphic to the product of {S2} and {S4}.
 
