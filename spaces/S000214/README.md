@@ -1,6 +1,6 @@
 ---
 uid: S000214
-name: 
+name: Uncountable power of integers with lexicographic order
 refs: none
 ---
 
