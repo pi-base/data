@@ -1,12 +1,20 @@
 ---
 uid: S000064
-name: Pointed rational extension of the plane
+name: Rational extension of the plane
 counterexamples_id: 72
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001"
     name: Counterexamples in Topology
 ---
-If $(X,\tau)$ is the Euclidean plane, we define a new topology for $X$ by declaring open each point in the set $D = \{(x,y) | x \in Q, y \in Q\}$, and each set of the form $\{x\} \cup (D \cap U)$ where $x \in U \in \tau$.
+If $(X,\tau)$ is the {S176},
+we define a new topology for $X$ by declaring open each point in the set
+$D = \mathbb Q^2$, and each set of the form $\{x\} \cup (D \cap U)$
+where $x \in U \in \tau$.
+
+The topology is finer than that of {S176}.
+
+The construction combines the ideas from
+{S60} and {S62}.
 
 Defined as counterexample #72 ("Rational Extension in the Plane")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.
