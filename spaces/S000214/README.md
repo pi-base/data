@@ -2,7 +2,7 @@
 uid: S000214
 name: Uncountable power of integers with lexicographic order
 refs:
-- mathof: 500190
+- mathoverflow: 500190
   name: Answer to: "Find a topological group which is T_5 but not T_6" 
 ---
 
