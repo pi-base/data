@@ -1,7 +1,9 @@
 ---
 uid: S000214
 name: Uncountable power of integers with lexicographic order
-refs: none
+refs:
+- mathoverflow: 500190
+  name: Answer to: "Find a topological group which is T_5 but not T_6" 
 ---
 
 The space is defined to be $X = \mathbb Z ^ {\omega_1}$ with order topology induced by lexicographic order. 
