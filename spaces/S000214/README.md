@@ -3,7 +3,7 @@ uid: S000214
 name: Uncountable power of integers with lexicographic order
 refs:
 - url: "https://mathoverflow.net/a/500190"
-  name: Answer to: "Find a topological group which is T₅ but not T₆"
+  name: "Answer to: 'Find a topological group which is T₅ but not T₆'"
 ---
 
 The space is defined to be $X = \mathbb Z ^ {\omega_1}$ with order topology induced by lexicographic order. 
