@@ -12,4 +12,4 @@ The space $X=\mathrm{DJ}(Y,H,K)$ is the result of applying the double-sided vari
 See description of {S88} for detailed construction.
 
 Defined as counterexample #94 ("Thomas' Corkscrew")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.
