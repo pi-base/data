@@ -13,9 +13,14 @@ refs:
   - wikipedia: Split_interval
     name: Split interval on Wikipedia
 ---
-Let $A$ be the subset of the plane $ \{ (x,0)\ |\ 0 < x \leq 1 \}$ and let $B$ be the subset $ \{ (x,1)\ |\ 0\leq x<1 \} $. Let $X = A \cup B$ as a set. The weak parallel line topology on $X$ is defined by taking as a basis all sets of the form $W = \{(x,0)\ |\ a<x<b \} \cup \{ (x,1)\ |\ a \leq x < b\}$ and $U = \{(x,0)\ |\ a < x \leq b \} \cup \{(x,1)\ |\ a<x<b\}$.
+Let $A:=(0,1]\times\{0\}$ and $B:=[0,1)\times\{1\}$. 
+We define the weak parallel line topology on $X = A \cup B$ to be the order topology given by the lexicographic order.
 
 Defined as counterexample #95 ("Weak Parallel Line Topology")
-in {{zb:0386.54001}}.
+in {{zb:0386.54001}}. Base open sets $W$ and $U$ mentioned therein are the open intervals
+$(\langle a,0\rangle, \langle b,1\rangle)$ and
+$(\langle a,1\rangle, \langle b,0\rangle)$ respectively
+(with convention $\leftarrow\,:=\langle 0,0\rangle$ and
+$\rightarrow\,:=\langle 1,1\rangle$).
 
 Referenced in Exercise 3.10.C of {{zb:0684.54001}}.
