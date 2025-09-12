@@ -6,11 +6,12 @@ aliases:
   - I^I
 counterexamples_id: 105
 refs:
-  - doi: 10.1007/978-1-4612-6290-9
+  - zb: "0386.54001"
     name: Counterexamples in Topology
 ---
 
 Let $I$ be the unit interval $[0,1]$ and let $X$ have the product topology on $I^I$.
+In other words it is the set of all self-maps of the unit interval endowed with the pointwise convergence topology.
 
 Defined as counterexample #105 ("\(I^I\)")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.
