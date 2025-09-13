@@ -4,10 +4,13 @@ name: Continuum-power of closed unit intervals
 aliases:
   - Continuum-sized product of closed unit intervals
   - I^I
+  - Tychonoff cube of weight continuum
 counterexamples_id: 105
 refs:
   - zb: "0386.54001"
     name: Counterexamples in Topology
+  - zb: "0684.54001"
+    name: General Topology (Engelking, 1989)
 ---
 
 Let $I$ be the unit interval $[0,1]$ and let $X$ have the product topology on $I^I$.
