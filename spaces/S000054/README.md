@@ -6,7 +6,7 @@ refs:
   - doi: 10.1007/978-1-4612-6290-9 
     name: Counterexamples in Topology
 ---
-The double pointed reals is the product topology on $X = \mathbb{R} \times \{0,1\}$ where $\mathbb{R}$ has the usual topology and $\{0,1\}$ has the indiscrete topology.
+The double pointed reals is the product $X$ of {S25} and {S4}.
 
 Defined as counterexample #62 ("Double Pointed Reals")
 in {{doi:10.1007/978-1-4612-6290-9}}.
