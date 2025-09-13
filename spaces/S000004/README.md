@@ -1,6 +1,8 @@
 ---
 uid: S000004
-name: Indiscrete Topology on a Two-Point Set
+name: Indiscrete topology on $\{0,1\}$
+aliases:
+  - Indiscrete topology on a two-point set
 counterexamples_id: 4
 refs:
   - zb: "0386.54001"
@@ -9,9 +11,8 @@ refs:
     name: Trivial topology on Wikipedia
 ---
 
-Let $X=2=\{0,1\}$ be the space containing two points and
-let only the sets $X$ and $\emptyset$ be open.
-
+Let $X=2=\{0,1\}$, a set with two elements,
+and let $X$ and $\emptyset$ be the only open sets.
 
 Defined as counterexample #4 ("Indiscrete Topology")
 in {{zb:0386.54001}}.
