@@ -13,14 +13,16 @@ refs:
   - wikipedia: Split_interval
     name: Split interval on Wikipedia
 ---
-Let $A:=(0,1]\times\{0\}$ and $B:=[0,1)\times\{1\}$. 
-We define the weak parallel line topology on $X = A \cup B$ to be the order topology given by the lexicographic order.
+
+The set $X=[0,1]\times\{0,1\}\setminus
+\{\langle 0,0\rangle,\langle 1,1\rangle \}$ with the order topology given by the lexicographic order.
+$$\langle x,t\rangle < \langle x',t'\rangle
+\iff x<x' \lor (x=x' \land t<t')$$
 
 Defined as counterexample #95 ("Weak Parallel Line Topology")
 in {{zb:0386.54001}}. Base open sets $W$ and $U$ mentioned therein are the open intervals
 $(\langle a,0\rangle, \langle b,1\rangle)$ and
 $(\langle a,1\rangle, \langle b,0\rangle)$ respectively
-(with convention $\leftarrow\,:=\langle 0,0\rangle$ and
-$\rightarrow\,:=\langle 1,1\rangle$).
+(with $0\leq a<b\leq 1$).
 
 Referenced in Exercise 3.10.C of {{zb:0684.54001}}.
