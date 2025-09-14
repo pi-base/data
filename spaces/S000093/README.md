@@ -21,8 +21,8 @@ $$\langle x,t\rangle < \langle x',t'\rangle
 
 Defined as counterexample #95 ("Weak Parallel Line Topology")
 in {{zb:0386.54001}}. Base open sets $W$ and $U$ mentioned therein are the open intervals
-$(\langle a,0\rangle, \langle b,1\rangle)$ and
-$(\langle a,1\rangle, \langle b,0\rangle)$ respectively
+$(\langle a,0\rangle, \langle b,0\rangle)$ and
+$(\langle a,1\rangle, \langle b,1\rangle)$ respectively
 (with $0\leq a<b\leq 1$).
 
 Referenced in Exercise 3.10.C of {{zb:0684.54001}}.
