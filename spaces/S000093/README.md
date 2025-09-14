@@ -14,10 +14,10 @@ refs:
     name: Split interval on Wikipedia
 ---
 
-The set $X=[0,1]\times\{0,1\}\setminus
+The set $X=([0,1]\times\{0,1\})\setminus
 \{\langle 0,0\rangle,\langle 1,1\rangle \}$ with the order topology given by the lexicographic order.
 $$\langle x,t\rangle < \langle x',t'\rangle
-\iff x<x' \lor (x=x' \land t<t')$$
+\iff x<x' \text{ or } (x=x' \text{ and } t<t')$$
 
 Defined as counterexample #95 ("Weak Parallel Line Topology")
 in {{zb:0386.54001}}. Base open sets $W$ and $U$ mentioned therein are the open intervals
