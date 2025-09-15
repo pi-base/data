@@ -3,7 +3,7 @@ uid: S000091
 name: Thomas plank
 counterexamples_id: 93
 refs:
-  - doi: 10.1007/978-1-4612-6290-9
+  - zb: "0386.54001"
     name: Counterexamples in Topology
 ---
 
@@ -12,4 +12,4 @@ Let $L_0 = \{(x,0)\ |\ x \in (0,1)\}$ and for $i \geq 1$, $L_i = \{(x,\frac{1}{i
 This space is homeomorphic to $(Y_1\times Y_2)\setminus \{(\infty, \infty)\}$ where $Y_1 = ${S154} and $Y_2=${S20}.
 
 Defined as counterexample #93 ("Thomas' Plank")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.
