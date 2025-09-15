@@ -10,6 +10,7 @@ refs:
 ---
 
 Define a topology on $X = \mathbb{N}$ by taking as a basis all pairs $\{2k-1,2k\}$ for $k \in \mathbb{N}$.
+(Here we assume $0\notin\mathbb{N}$.)
 
 Homeomorphic to the product of {S2} and {S4}.
 
