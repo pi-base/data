@@ -22,7 +22,7 @@ and is denoted $B(\kappa)$.  It has weight $\kappa$.
 The current space is $X=B(\mathfrak c)=B(2^{\aleph_0})$.
 
 This space is metrizable using the Baire metric.  For distinct elements
-$x=(x_i)_{i\ge 0}, y=(y_i)_{i\ge 0}$ in $X=$D^\omega$ the *Baire metric*
+$x=(x_i)_{i\ge 0}, y=(y_i)_{i\ge 0}$ in $X=D^\omega$ the *Baire metric*
 is defined by $d(x,y)=\frac{1}{i+1}$ where $i$ is the first coordinate with $x_i\neq y_i$.
 And $d(x,x)=0$.
 
