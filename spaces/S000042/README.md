@@ -1,10 +1,10 @@
 ---
 uid: S000042
-name: Right "open-ray" topology on the reals
+name: Right ray topology on the reals
 aliases:
   - Right-ordered reals
   - Right order topology on $\mathbb R$
-  - Left "open-ray" topology on the reals
+  - Left ray topology on the reals
 counterexamples_id: 48
 refs:
   - doi: 10.1007/978-1-4612-6290-9 
