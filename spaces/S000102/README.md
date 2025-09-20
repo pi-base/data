@@ -13,8 +13,7 @@ refs:
 ---
 
 $X$ is the product of countably many copies of {S3}.
-Specifically, one can give $\mathbb R$ the discrete topology
-and take $X=\mathbb R^\omega$ with the product topology.
+So $X=\mathbb R^\omega$ with $\mathbb R$ having the discrete topology.
 
 In general, the *Baire space of weight $\kappa$* for some infinite cardinal $\kappa$
 is the countable power $D^\omega$ for some discrete space $D$ with $|D|=\kappa$,
