@@ -14,12 +14,12 @@ refs:
 ---
 
 The product topology on $X=I^I$, where $I$ is the {S158}.
-In other words it is the set of *all* functions $f\colon I\to I$, endowed with the topology of pointwise convergence.
+In other words it is the set of all functions $f\colon I\to I$, endowed with the topology of pointwise convergence.
 
-Defined as counterexample #105 ("$I^I$")
-in {{zb:0386.54001}}.
+In general, the *Tychonoff cube of weight* $\kappa$ for an infinite cardinal $\kappa$ is the product space $[0,1]^\kappa$, as defined on page 83 of {{zb:0684.54001}}.
+It has topological weight $\kappa$ (see Theorem 2.3.23 in the same reference).
+The current space $X$ is the Tychonoff cube of weight $\mathfrak c$.
 
-The *Tychonoff cube of weight* $\kappa$, that is the product space $I^\kappa$ for an infinite cardinal $\kappa$, is defined on page 83 of {{zb:0684.54001}}. The fact that
-it actually has topological weight $\kappa$ follows from
-Theorem 2.3.23. therein. Obviously $X\cong I^\mathfrak{c}$.
-See also {S32}.
+Defined as counterexample #105 ("$I^I$") in {{zb:0386.54001}}.
+
+Compare with {S32}, which is the Tychonoff cube of weight $\aleph_0$.
