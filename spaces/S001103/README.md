@@ -11,4 +11,4 @@ The product topology on $\omega^{2^{\mathfrak c}}$.
 
 Defined more generally as counterexample #103
 ("Uncountable Products of $\mathbb{Z}^+$")
-in {{doi:10386.54001}}.
+in {{zb:0386.54001}}.
