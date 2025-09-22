@@ -1,6 +1,6 @@
 ---
 uid: S000041
-name: Lexicographic unit square
+name: Lexicographically ordered unit square $I^2$
 aliases:
   - Lexicographic ordering on the unit square
 counterexamples_id: 48
