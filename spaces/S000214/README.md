@@ -1,6 +1,6 @@
 ---
 uid: S000214
-name: Uncountable power of integers with lexicographic order
+name: Lexicographically ordered $\mathbb Z^{\omega_1}$
 refs:
 - mo: 500191
   name: 'Answer to: "Find a topological group which is T_5 but not T_6"'
