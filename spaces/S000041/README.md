@@ -1,7 +1,8 @@
 ---
 uid: S000041
-name: Lexicographic unit square
+name: Lexicographically ordered unit square $[0,1]^2$
 aliases:
+  - Lexicographic unit square
   - Lexicographic ordering on the unit square
 counterexamples_id: 48
 refs:
