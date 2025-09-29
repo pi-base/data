@@ -14,4 +14,4 @@ refs:
 Let $X=\mathbb R$ be the set of real numbers.  Define the topology on $X$ by letting a set in $X$ be open iff it is empty or its complement is countable. 
 
 Defined as counterexample #20 ("Countable Complement Topology")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

@@ -14,4 +14,4 @@ where $U\subseteq\mathbb R$ is open in the Euclidean topology and $x\in U$.
 The topology is finer than {S59}.
 
 Defined as counterexample #69 ("Pointed Irrational Extension of $\mathbb{R}$")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

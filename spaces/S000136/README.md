@@ -16,7 +16,7 @@ For the topology on $X$, points of $M$ have their usual neighborhoods from the p
 and points of $X\setminus M$ are isolated.
 
 Defined as counterexample #142 ("Bing's Discrete Extension Space")
-in {{doi:10.1007/978-1-4612-6290-9}}
+in {{zb:0386.54001}}
 and Example G in {{doi:10.4153/CJM-1951-022-3}}.
 
 See also <https://dantopology.wordpress.com/2012/11/18/bings-example-g/>.

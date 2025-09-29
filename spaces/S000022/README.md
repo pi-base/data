@@ -20,4 +20,4 @@ Compare with {S155} and {S157}.
 With a suitable assumption on $|\mathbb R|$ so that the cardinalities match, $X$ will be homeomorphic to one of them.
 
 Defined as counterexample #25 ("Fortissimo Space")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

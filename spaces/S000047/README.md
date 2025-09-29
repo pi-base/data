@@ -13,7 +13,7 @@ Let $X$ be the set of positive integers and define a topology by declaring $U \s
 This space is a topological sum of countably-many copies of the {S10}.
 
 Defined as counterexample #55 ("Hjalmar Ekdal Topology")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.
 
 A piece of trivia: the origin of the name Hjalmar Ekdal is explained [here](https://proofwiki.org/wiki/Mathematician:Hjalmar_Ekdal).
 

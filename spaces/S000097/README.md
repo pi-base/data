@@ -21,6 +21,6 @@ a copy $\omega^2\cup\{x\}$ of
 $y$ as its compactifying point.
 
 Defined as counterexample #99 ("Maximal Compact Topology")
-in {{doi:10.1007/978-1-4612-6290-9}} to demonstrate
+in {{zb:0386.54001}} to demonstrate
 an example of a non-{P3} space which has a maximal
 compact topology.

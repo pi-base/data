@@ -11,4 +11,4 @@ Let $X$ be the unit square $[0,1] \times [0,1] \subset \mathbb{R}^2$. For a poin
 Every vertical slice is homeomorphic to {S158}. Every horizontal slice is homeomorphic to {S154}, with the homeomorphism sending the point on the diagonal to $\infty$. The diagonal $\{(x,x) | x \in [0, 1]\}$ is homeomorphic to {S158}.
 
 Defined as counterexample #101 ("Alexandroff Square")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

@@ -14,7 +14,7 @@ Let $X=\omega=\{0,1,2,\dots\}$.
 A set is closed in this topology if it contains $0$ or is empty.
 
 Defined as counterexample #14 ("Countable Particular Point Topology")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.
 
 <!-- [[Proof of Topology]]
 To prove the first condition, note that $X\in \tau$ by definition. Now, note that $\emptyset \subset X$ and $p\notin \emptyset$. It follows that $\emptyset \in \tau$.

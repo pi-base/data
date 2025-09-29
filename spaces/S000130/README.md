@@ -14,4 +14,4 @@ along with sets of the form $\{c\} \cup \big( (c-\delta,c+\delta) \setminus C\bi
 $c\in C$ and $\delta > 0$.
 
 Defined as counterexample #133 ("Tangora's Connected Space")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

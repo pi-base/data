@@ -19,5 +19,5 @@ and $Z=[0,\omega]$ is given the topology with points of $[0,\omega)$
 isolated and neighborhoods of $\omega$ cofinite ({S20}).
 
 Defined as counterexample #89 ("Dieudonné Plank")
-in {{doi:10.1007/978-1-4612-6290-9}}. Note that the pi-Base qualifies this name with
+in {{zb:0386.54001}}. Note that the pi-Base qualifies this name with
 "Deleted" to align with e.g. {S78} and {S79}.

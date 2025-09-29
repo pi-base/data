@@ -13,4 +13,4 @@ $C_n = \{(x,y,z) \in \mathbb{R}^3\ |\ 0 \leq x \leq \frac{1}{n}, y=2n, z=x(\frac
 The Infinite Cage is the space $X = \bigcup_{n \geq 1} (A_n \cup B_n \cup C_n) \subset \mathbb{R}^3$ with the subspace topology.
 
 Defined as counterexample #123 ("The Infinite Cage")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

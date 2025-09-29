@@ -18,4 +18,4 @@ This space may be characterized as the particular point ($0$) topology on a
 two-point set, or the excluded point ($1$) topology on a two-point set.
 
 Defined as counterexample #11 ("Sierpinski Space")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

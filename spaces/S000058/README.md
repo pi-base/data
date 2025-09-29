@@ -16,4 +16,4 @@ And it is coarser than {S60}
 and coarser than {S62}.
 
 Defined as counterexample #66 ("Indiscrete Rational Extension of $\mathbb{R}$")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

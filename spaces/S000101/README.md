@@ -11,4 +11,4 @@ refs:
 The product topology on \(\omega^{\mathfrak c}\).
 
 Defined as counterexample #103 ("Uncountable Products of \(\mathbb{Z}^+\)")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

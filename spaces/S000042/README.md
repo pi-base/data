@@ -15,4 +15,4 @@ $B_y=\{x\in\mathbb R:y<x\}$.
 (Equivalently, one could use the basis of left rays $B_y=\{x\in\mathbb R:x<y\}$ instead.)
 
 Defined as counterexample #50 ("Right Order Topology on $\mathbb R$")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

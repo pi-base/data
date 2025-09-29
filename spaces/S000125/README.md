@@ -15,6 +15,6 @@ For any $a \in [0,1]$, let $L(a)$ be the line segment from $(a,0)$ to $p = (\fra
 The subspace $X\setminus\{p\}$ obtained by removing the apex point is {S126}.
 
 Defined as counterexample #128 ("Cantor's Leaky Tent")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.
 
 <!-- ![](http://i.imgur.com/P36Jx0z.png?1) -->

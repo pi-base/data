@@ -14,4 +14,4 @@ where $U\subset\mathbb{R}$ is open in the Euclidean topology and $x\in U$.
 The topology is finer than {S58}.
 
 Defined as counterexample #68 ("Pointed Rational Extension of $\mathbb{R}$")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

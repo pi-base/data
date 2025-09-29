@@ -15,6 +15,6 @@ and neighborhoods of $F$ all sets of the form $U \cup \{F\}$ for $U \in F$.
 This is the subspace topology on $\omega\cup\{F\}$ induced as a subset of $\beta\omega$ ({S108}).
 
 Defined as counterexample #114 ("Single Ultrafilter Topology")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.
 
 Not to be confused with {S145}.

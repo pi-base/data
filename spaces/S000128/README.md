@@ -20,4 +20,4 @@ Inductively define for each $\alpha$ an $M_\alpha \subset K$ and simple closed c
 Let $X = \Delta \cup M \subset \mathbb{R}^2$ with the subspace topology.   
 
 Defined as counterexample #131 ("Miller's Biconnected Set")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

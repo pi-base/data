@@ -16,4 +16,4 @@ Define a topology $\tau$ on $\mathbb{R}$ by letting $U \subset \mathbb{R}$ be op
 Note that this topology is coarser than {S25}.
 
 Defined as counterexample #22 ("Compact Complement Topology")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

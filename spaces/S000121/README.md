@@ -25,4 +25,4 @@ Bernstein's connected set is $A=\bigcup_{\alpha<\mathfrak c}A_\alpha$
 with its subspace topology induced from {S176}.
 
 Defined as counterexample #124 ("Bernstein's Connected Sets")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

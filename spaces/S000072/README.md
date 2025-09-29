@@ -20,7 +20,7 @@ This space is $X$ with the topology such that points of $S$ have their usual nei
 
 are local bases at $\langle 0,0\rangle$, $\langle 1,0\rangle$ and $\langle\frac{1}{2},r\sqrt{2}\rangle$ respectively.
 
-Defined as counterexample #80 ("Arens Square") in {{doi:10.1007/978-1-4612-6290-9}}, where
+Defined as counterexample #80 ("Arens Square") in {{zb:0386.54001}}, where
 this space was erroneously claimed to be {P4}.
 Compare with {S80} which modifies the construction to
 obtain a valid {P4} example.

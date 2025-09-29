@@ -13,4 +13,4 @@ Let $X \subset \mathbb{R}^2$ consist of points with polar coordinates $\{(n,\the
 This space is the quotient of the product of {S200} with {S20} where all points whose first components are 0 are identified.
 
 Defined as counterexample #121 ("The Integer Broom")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

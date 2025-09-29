@@ -12,4 +12,4 @@ refs:
 The space $[0,\omega_1] \times [0,\omega]$ where each factor has the order topology.
 
 Defined as counterexample #86 ("Tychonoff Plank")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

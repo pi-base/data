@@ -15,4 +15,4 @@ sets are of the form \(\prod_{i<\omega}U_i\) for \(U_i\) open in \(\mathbb R\).
 Also known as the Boolean product.
 
 Defined as counterexample #109 ("Box Product Topology on \(\mathbb{R}^\omega\)")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

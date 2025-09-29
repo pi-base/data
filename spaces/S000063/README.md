@@ -22,4 +22,4 @@ The use of this space by [Ernest Michael](https://en.wikipedia.org/wiki/Ernest_M
 See for example <https://dantopology.wordpress.com/2012/10/28/michael-line-basics/>.
 
 Defined as counterexample #71 ("Discrete Irrational Extension of $\mathbb{R}$")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.
