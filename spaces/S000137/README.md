@@ -5,7 +5,7 @@ aliases:
   - Michael's closed subspace
 counterexamples_id: 143
 refs:
-- doi: 10.1007/978-1-4612-6290-9
+- zb: "0386.54001"
   name: Counterexamples in Topology
 - doi: 10.4153/CJM-1955-029-6
   name: Point-finite and localy finite coverings (E. Michael)

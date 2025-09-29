@@ -4,7 +4,7 @@ name: B. Scott's modified Arens square
 refs:
   - mathse: 1716095
     name: Answer to "Is Arens Square a Urysohn space?"
-  - doi: 10.1007/978-1-4612-6290-9
+  - zb: "0386.54001"
     name: Counterexamples in Topology
 ---
 

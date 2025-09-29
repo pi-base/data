@@ -3,7 +3,7 @@ uid: S000130
 name: Tangora's connected space
 counterexamples_id: 133
 refs:
-  - doi: 10.1007/978-1-4612-6290-9
+  - zb: "0386.54001"
     name: Counterexamples in Topology
 ---
 Let $A,B,C$ partition the reals into three dense subspaces; for example, let

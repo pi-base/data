@@ -5,7 +5,7 @@ aliases:
   - Countable Excluded Point Topology
 counterexamples_id: 14
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
   - wikipedia: Excluded_point_topology
     name: Excluded point topology on Wikipedia

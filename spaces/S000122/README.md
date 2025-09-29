@@ -3,7 +3,7 @@ uid: S000122
 name: Gustin's sequence space
 counterexamples_id: 125
 refs:
-- doi: 10.1007/978-1-4612-6290-9
+- zb: "0386.54001"
   name: Counterexamples in Topology
 ---
 Let $\mathbb{Z}^+$ denote the set of positive integers, $Y$ be the set of all finite sequences of positive integers of even length, and $W = \{A \subseteq Y\ |\ |A| = 2\}$. Gustin's Sequence Space is the set $X = Y \cup (\mathbb{Z}^+ \times W)$ with topology defined as follows:

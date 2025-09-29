@@ -3,7 +3,7 @@ uid: S000014
 name: Either-Or Topology
 counterexamples_id: 17
 refs:
-- doi: 10.1007/978-1-4612-6290-9
+- zb: "0386.54001"
   name: Counterexamples in Topology
 - wikipedia: Either-or_topology
   name: Either-or topology on Wikipedia

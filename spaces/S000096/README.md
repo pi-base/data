@@ -5,7 +5,7 @@ aliases:
   - Appert topology
 counterexamples_id: 98
 refs:
-  - doi: 10.1007/978-1-4612-6290-9
+  - zb: "0386.54001"
     name: Counterexamples in Topology
   - wikipedia: Appert_topology
     name: Appert topology on Wikipedia

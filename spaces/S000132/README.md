@@ -3,7 +3,7 @@ uid: S000132
 name: Duncan's space
 counterexamples_id: 136
 refs:
-  - doi: 10.1007/978-1-4612-6290-9
+  - zb: "0386.54001"
     name: Counterexamples in Topology
   - zb: "0085.03002"
     name: A topology for sequences of integers I (R. L. Duncan)

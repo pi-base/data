@@ -3,7 +3,7 @@ uid: S000120
 name: Infinite cage
 counterexamples_id: 123
 refs:
-  - doi: 10.1007/978-1-4612-6290-9
+  - zb: "0386.54001"
     name: Counterexamples in Topology
 ---
 For each integer $n\geq 1$, let

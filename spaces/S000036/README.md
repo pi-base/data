@@ -5,7 +5,7 @@ aliases:
   - Successor to the first uncountable ordinal
 counterexamples_id: 43
 refs:
-  - doi: 10.1007/978-1-4612-6290-9
+  - zb: "0386.54001"
     name: Counterexamples in Topology
 ---
 The set of all ordinal numbers less than or equal to

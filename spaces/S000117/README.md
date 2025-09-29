@@ -3,7 +3,7 @@ uid: S000117
 name: Closed infinite broom
 counterexamples_id: 120
 refs:
-  - doi: 10.1007/978-1-4612-6290-9
+  - zb: "0386.54001"
     name: Counterexamples in Topology
   - wikipedia: Infinite_broom
     name: Infinite broom on Wikipedia

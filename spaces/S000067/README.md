@@ -5,7 +5,7 @@ aliases:
 - Bing's connected countable space
 counterexamples_id: 75
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
   - zb: 0051.13902
     name: A connected countable Hausdorff space (R.H. Bing)

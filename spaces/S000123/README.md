@@ -3,7 +3,7 @@ uid: S000123
 name: Roy's lattice space
 counterexamples_id: 126
 refs:
-  - doi: 10.1007/978-1-4612-6290-9
+  - zb: "0386.54001"
     name: Counterexamples in Topology
 ---
 Let $\{C_i\ |\ i < \omega\}$ be a collection of disjoint dense subsets of $\mathbb{Q}$. For specificity, let \(\{p_i:i<\omega\}\) enumerate the prime numbers,

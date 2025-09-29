@@ -6,7 +6,7 @@ aliases:
   - Countable complement topology
 counterexamples_id: 20
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
   - wikipedia: Cocountable_topology
     name: Cocountable topology on Wikipedia

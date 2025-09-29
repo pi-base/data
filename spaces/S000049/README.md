@@ -3,7 +3,7 @@ uid: S000049
 name: Divisor topology
 counterexamples_id: 57
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
   - wikipedia: Divisor_topology
     name: Divisor topology on Wikipedia

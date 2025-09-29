@@ -3,7 +3,7 @@ uid: S000054
 name: Double pointed reals
 counterexamples_id: 62
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
 ---
 The double pointed reals is the product $X$ of {S25} and {S4}.

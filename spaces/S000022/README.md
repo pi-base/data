@@ -5,7 +5,7 @@ aliases:
   - One-point Lindelöfication of uncountable discrete space
 counterexamples_id: 25
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
   - wikipedia: Fort_space
     name: Fort space on Wikipedia

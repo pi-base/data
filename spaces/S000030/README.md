@@ -9,7 +9,7 @@ aliases:
   - Closed unit ball of $\ell^2$
 counterexamples_id: 36
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
   - wikipedia: Hilbert_space
     name: Hilbert space on Wikipedia

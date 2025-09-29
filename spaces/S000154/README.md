@@ -6,7 +6,7 @@ aliases:
   - One-point compactification of an uncountable discrete space
 counterexamples_id: 24
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
   - wikipedia: Fort_space
     name: Fort space

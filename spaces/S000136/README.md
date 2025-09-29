@@ -5,7 +5,7 @@ aliases:
   - Bing's discrete extension space
 counterexamples_id: 142
 refs:
-  - doi: 10.1007/978-1-4612-6290-9
+  - zb: "0386.54001"
     name: Counterexamples in Topology
   - doi: 10.4153/CJM-1951-022-3
     name: Metrization of topological spaces (R. H. Bing)

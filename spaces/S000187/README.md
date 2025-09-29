@@ -4,7 +4,7 @@ name: Right ray topology on a three-point set
 aliases:
 - Left ray topology on a three-point set
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
 ---
 Let $X = \{0,1,2\}$ with open right rays $\{\{0,1,2\}, \{1,2\}, \{2\}, \emptyset\}$.

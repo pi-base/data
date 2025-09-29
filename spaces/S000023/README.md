@@ -3,7 +3,7 @@ uid: S000023
 name: Arens-Fort Space
 counterexamples_id: 26
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
   - wikipedia: Arens-Fort_space
     name: Arens-Fort space

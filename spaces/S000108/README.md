@@ -9,7 +9,7 @@ aliases:
   - Stone-Cech compactification of the natural numbers
 counterexamples_id: 111
 refs:
-  - doi: 10.1007/978-1-4612-6290-9
+  - zb: "0386.54001"
     name: Counterexamples in Topology
   - wikipedia: Stone–Čech_compactification
     name: Stone–Čech compactification on Wikipedia

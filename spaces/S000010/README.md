@@ -8,7 +8,7 @@ aliases:
   - Left ray topology on a two-point set
 counterexamples_id: 11
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
   - wikipedia: Sierpinski_space
     name: Sierpinski space on Wikipedia

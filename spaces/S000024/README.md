@@ -3,7 +3,7 @@ uid: S000024
 name: Modified Fort space on $\mathbb R$
 counterexamples_id: 27
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
   - wikipedia: Fort_space
     name: Fort space

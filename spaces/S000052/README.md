@@ -5,7 +5,7 @@ counterexamples_id: 60
 aliases:
 - Golomb Topology
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
   - wikipedia: Arithmetic_progression_topologies
     name: Arithmetic progression topologies on Wikipedia

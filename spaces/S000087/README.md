@@ -5,7 +5,7 @@ aliases:
   - Dieudonné plank
 counterexamples_id: 89
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
   - wikipedia: Dieudonné_plank
     name: Dieudonné plank on Wikipedia

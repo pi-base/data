@@ -6,7 +6,7 @@ aliases:
   - Finite Complement Topology on a Countable Space
 counterexamples_id: 18
 refs:
-- doi: 10.1007/978-1-4612-6290-9
+- zb: "0386.54001"
   name: Counterexamples in Topology
 - wikipedia: Finite_complement_topology
   name: Finite complement topology on Wikipedia

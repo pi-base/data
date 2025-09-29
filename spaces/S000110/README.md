@@ -3,7 +3,7 @@ uid: S000110
 name: Strong ultrafilter topology
 counterexamples_id: 113
 refs:
-  - doi: 10.1007/978-1-4612-6290-9
+  - zb: "0386.54001"
     name: Counterexamples in Topology
 ---
 Let $M$ be the set of all free ultrafilters on $\omega$. The strong ultrafilter
