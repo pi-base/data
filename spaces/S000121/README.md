@@ -3,7 +3,7 @@ uid: S000121
 name: Bernstein's connected set
 counterexamples_id: 124
 refs:
-  - doi: 10.1007/978-1-4612-6290-9
+  - zb: "0386.54001"
     name: Counterexamples in Topology
 ---
 
@@ -25,4 +25,4 @@ Bernstein's connected set is $A=\bigcup_{\alpha<\mathfrak c}A_\alpha$
 with its subspace topology induced from {S176}.
 
 Defined as counterexample #124 ("Bernstein's Connected Sets")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.
