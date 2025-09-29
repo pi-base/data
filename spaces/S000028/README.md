@@ -7,7 +7,7 @@ aliases:
   - Countable power of a countable discrete space
 counterexamples_id: 31
 refs:
-- doi: 10.1007/978-1-4612-6290-9 
+- zb: "0386.54001" 
   name: Counterexamples in Topology
 - wikipedia: Irrational_number
   name: Irrational number on Wikipedia
@@ -24,6 +24,6 @@ product topology.  See for example {{mathse:352547}}.
 
 Defined as counterexample #31 ("The Irrational Numbers")
 and as counterexample #102 ("$\mathbb Z^{\mathbb Z}$")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.
 
 Compare with {S102}.

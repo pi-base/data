@@ -5,7 +5,7 @@ aliases:
   - Discrete irrational extension of $\mathbb R$
 counterexamples_id: 71
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
   - doi: 10.1090/S0002-9904-1963-10931-3
     name: The product of a normal space and a metric space need not be normal (E. Michael)
@@ -22,4 +22,4 @@ The use of this space by [Ernest Michael](https://en.wikipedia.org/wiki/Ernest_M
 See for example <https://dantopology.wordpress.com/2012/10/28/michael-line-basics/>.
 
 Defined as counterexample #71 ("Discrete Irrational Extension of $\mathbb{R}$")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

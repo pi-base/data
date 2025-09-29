@@ -2,7 +2,7 @@
 uid: S000155
 name: Fortissimo space of size $\aleph_1$
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
   - wikipedia: Fort_space
     name: Fort space on Wikipedia
@@ -17,4 +17,4 @@ If (CH) $2^{\aleph_0}=\aleph_1$ holds, this space is homeomorphic to {S22}.
 Compare also with {S157}.
 
 For a general $X$ with unspecified uncountable cardinality,
-see counterexample #25 ("Fortissimo Space") in {{doi:10.1007/978-1-4612-6290-9}}.
+see counterexample #25 ("Fortissimo Space") in {{zb:0386.54001}}.
