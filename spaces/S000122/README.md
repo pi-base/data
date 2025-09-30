@@ -3,7 +3,7 @@ uid: S000122
 name: Gustin's sequence space
 counterexamples_id: 125
 refs:
-- doi: 10.1007/978-1-4612-6290-9
+- zb: "0386.54001"
   name: Counterexamples in Topology
 ---
 Let $\mathbb{Z}^+$ denote the set of positive integers, $Y$ be the set of all finite sequences of positive integers of even length, and $W = \{A \subseteq Y\ |\ |A| = 2\}$. Gustin's Sequence Space is the set $X = Y \cup (\mathbb{Z}^+ \times W)$ with topology defined as follows:
@@ -15,4 +15,4 @@ Let $q: \mathbb{Z}^+ \times W\rightarrow \mathbb{Z}^+$ be an injective function 
 Define a topology on $X$ by letting neighborhoods of points $\alpha \in Y$ be sets of the form $U_i(\alpha)$, and neighborhoods of points $(n,w) = (n, \{\alpha, \beta\})$ be sets of the form $V_i(n,w) = \{(n,w)\} \cup U_i\big(\alpha q(n,w)\big) \cup U_i\big(\beta q(n,w)\big) $.
 
 Defined as counterexample #125 ("Gustin's Sequence Space")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

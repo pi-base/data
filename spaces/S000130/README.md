@@ -3,7 +3,7 @@ uid: S000130
 name: Tangora's connected space
 counterexamples_id: 133
 refs:
-  - doi: 10.1007/978-1-4612-6290-9
+  - zb: "0386.54001"
     name: Counterexamples in Topology
 ---
 Let $A,B,C$ partition the reals into three dense subspaces; for example, let
@@ -14,4 +14,4 @@ along with sets of the form $\{c\} \cup \big( (c-\delta,c+\delta) \setminus C\bi
 $c\in C$ and $\delta > 0$.
 
 Defined as counterexample #133 ("Tangora's Connected Space")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.
