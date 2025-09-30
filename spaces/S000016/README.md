@@ -7,7 +7,7 @@ aliases:
   - Cofinite topology on the real numbers
 counterexamples_id: 19
 refs:
-- doi: 10.1007/978-1-4612-6290-9
+- zb: "0386.54001"
   name: Counterexamples in Topology
 - wikipedia: Finite_complement_topology
   name: Finite complement topology on Wikipedia
@@ -18,7 +18,7 @@ $U = \emptyset$. In this case we let \(X=\mathbb R\) so it has cardinality
 \(\mathfrak c\).
 
 Defined as counterexample #19 ("Finite Complement Topology on an Uncountable Space")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.
 
 <!-- [[Proof of Topology]]
 1) $U = \emptyset$ is open by definition. Now let $U = X$. This implies $X/U = X/X = \emptyset$.
