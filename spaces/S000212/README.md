@@ -1,6 +1,8 @@
 ---
 uid: S000212
-name: Lexicographic Hilbert cube $[0,1]^\omega$
+name: Lexicographically ordered Hilbert cube $[0,1]^\omega$
+aliases:
+  - Lexicographic Hilbert cube $[0,1]^\omega$
 refs:
   - mathse: 4453440
     name: Answer to "Is there a nontrivial LOTS that is connected and totally path disconnected?"
