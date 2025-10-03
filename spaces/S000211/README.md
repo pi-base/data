@@ -13,5 +13,5 @@ $\{[\alpha,\omega_1]\setminus F:\alpha<\omega_1,F\text{ finite}\}$.
 
 A related example was constructed by Isbell in section 2 of
 {{doi:10.1090/S0002-9939-1987-0891170-3}}
-as an example of a {P130} space which is not {P141}.
+as an example of a {P130} space which is not {P141}. We make it {P2} by applying section 3 of the same article.
 See also {{mathse:3904987}}.
