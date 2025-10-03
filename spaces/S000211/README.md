@@ -1,6 +1,6 @@
 ---
 uid: S000211
-name: Join of cofinite and closed right-ray topologies on $\omega_1+1$
+name: Join of cofinite and right "closed-ray" topologies on $\omega_1+1$
 refs:
   - doi: 10.1090/S0002-9939-1987-0891170-3
     name: A distinguishing example in k-spaces (Isbell)
