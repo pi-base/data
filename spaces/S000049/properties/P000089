@@ -1,0 +1,8 @@
+---
+space: S000049
+property: P000089
+value: false
+---
+
+Let $n>1$ be an integer, then multiplication by $n$ has no fixed points. Also multiplication by $n$ is
+continuous as the inverse image of a basis open is a basis open again.
