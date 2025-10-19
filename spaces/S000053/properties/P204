@@ -1,0 +1,7 @@
+---
+space: S000053
+property: P000204
+value: false
+---
+
+Assume $X$ has a cut point $p$. As $X$ is connected, we find open base elements $U_a(b)$, $U_c(d)$ such that $U_a(b) \cap U_c(d) = \{p\}$. However if $p \in U_a(b) \cap U_c(d)$ then also $p + ac \in U_a(b) \cap U_c(d)$. Contradiction. 
