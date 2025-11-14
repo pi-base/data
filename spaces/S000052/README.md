@@ -12,5 +12,7 @@ refs:
 ---
 Let $X=\mathbb{Z}^+$, the set of positive integers.  For $a,b \in X$, let $U_a(b) = \{b+na \in X : n \in \mathbb{Z}\} = (b+a\mathbb{Z})\cap X$.  Then $\{U_a(b) : a,b \in X, gcd(a,b)=1\}$ forms a basis for the relatively prime integer topology on $X$.
 
+Alternatively, a basis is given by $\{U'_a(b) : a,b \in X, gcd(a,b)=1\}$ with $U'_a(b) = \{b+na \in X : n \in \mathbb{N}\}$.
+
 Defined as counterexample #60 ("Relatively Prime Integer Topology")
 in {{zb:0386.54001}}.
