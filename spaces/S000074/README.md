@@ -12,6 +12,6 @@ refs:
     name: Moore plane on Wikipedia
 ---
 
-Let $X = \{(x,y) \in \mathbb{R}^2 : y \geq 0\}$. The topology is defined by letting points of the strict upper half plane have their usual Euclidean neighborhoods and points $z=(x,0)$ have as a local neighborhood base the sets of the form $\{z\}\cup D$ with $D$ an open disk in the upper plane tangent to the $x$-axis at $z$.
+Let $X = \{(x,y) \in \mathbb{R}^2 : y \geq 0\}$. The topology is defined by letting points of the strict upper half plane have their usual Euclidean neighborhoods and points $z=(x,0)$ have as a local neighborhood base the sets of the form $\{z\}\cup D$ with $D$ an open disk in the upper half plane tangent to the $x$-axis at $z$.
 
 Defined as counterexample #82 ("Niemytzki's Tangent Disc Topology") in {{zb:0386.54001}}.
