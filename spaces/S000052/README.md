@@ -22,3 +22,5 @@ See {{mathse:4460847}} for a proof of the equivalence.
 As a space, $X$ is often called the *Golomb space*, for example in {{zb:1474.54066}}.
 Defined as counterexample #60 ("Relatively Prime Integer Topology")
 in {{zb:0386.54001}}.
+
+Compare with {S53}, which has a coarser topology.
