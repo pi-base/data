@@ -1,14 +1,17 @@
 ---
 uid: S001103
-name: Supercontinuum power of a countable discrete space
+name: Product topology on $\omega^{2^\mathfrak{c}}$
 aliases:
-  - Uncountable products of Z+
+  - Uncountable product of $\mathbb Z^+$
+  - Supercontinuum power of $\omega$
 refs:
-- doi: 10.1007/978-1-4612-6290-9
+- zb: "0386.54001"
   name: Counterexamples in Topology
 ---
-The product topology on \(\omega^{2^{\mathfrak c}}\).
+
+The product topology on $\omega^{2^{\mathfrak c}}=\omega^{\beth_2}$,
+where each factor is {S2}.
 
 Defined more generally as counterexample #103
-("Uncountable Products of \(\mathbb{Z}^+\)")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+("Uncountable Products of $\mathbb{Z}^+$")
+in {{zb:0386.54001}}.

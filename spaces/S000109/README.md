@@ -4,8 +4,8 @@ name: Novak space
 counterexamples_id: 112
 refs:
   - zb: "0053.12404"
-    name: On the Cartesian product of two compact spaces. (J. Novak)
-  - doi: 10.1007/978-1-4612-6290-9
+    name: On the Cartesian product of two compact spaces (J. Novak)
+  - zb: "0386.54001"
     name: Counterexamples in Topology
 ---
 
@@ -22,4 +22,4 @@ Let $\{S_\xi : \xi < 2^\mathfrak{c}\}$ be all countably infinite subsets of $\be
 Then the Novak space is defined as $X = \omega\cup \{x_\xi : \xi < 2^\mathfrak{c}\}$ with subspace topology.
 
 Constructed as counterexample #112
-in {{doi:10.1007/978-1-4612-6290-9}}. However, the construction in that book is incorrect as it assumes that $2^\mathfrak{c}$ is a regular cardinal, which it consistently isn't.
+in {{zb:0386.54001}}. However, the construction in that book is incorrect as it assumes that $2^\mathfrak{c}$ is a regular cardinal, which it consistently isn't.

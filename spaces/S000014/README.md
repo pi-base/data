@@ -3,7 +3,7 @@ uid: S000014
 name: Either-Or Topology
 counterexamples_id: 17
 refs:
-- doi: 10.1007/978-1-4612-6290-9
+- zb: "0386.54001"
   name: Counterexamples in Topology
 - wikipedia: Either-or_topology
   name: Either-or topology on Wikipedia
@@ -16,4 +16,4 @@ The space is homeomorphic to the topological sum of
 And the subspace topology on the interval $(-1,1)$ is an "excluded point topology" on a set of cardinality $\mathfrak c$.)
 
 Defined as counterexample #17 ("Either-Or Topology")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

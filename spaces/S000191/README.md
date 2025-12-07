@@ -9,6 +9,8 @@ isolated and neighborhoods of $\omega_1$ cocountable,
 and $Z=[0,\omega]$ is given the topology with points of $[0,\omega)$
 isolated and neighborhoods of $\omega$ cofinite.
 
+Equivalently, the product of {S155} and {S20}.
+
 The space $X$ has the same underlying set as {S78}, but with a finer topology.
 
 Note that "Dieudonné plank" is also used to refer to {S87}.
