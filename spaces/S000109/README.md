@@ -9,17 +9,26 @@ refs:
     name: Counterexamples in Topology
 ---
 
-Defined as $A_1 = N\cup P$ in the proof of theorem 3 in {{zb:0053.12404}}. (<https://eudml.org/doc/213312>)
+The space $X$ is the subspace $A_1 = \mathbb N\cup P$ of $\beta\mathbb N$
+({S108}) constructed in the proof
+of Theorem 3 in {{zb:0053.12404}}.
 
-Let $\{S_\xi : \xi < 2^\mathfrak{c}\}$ be all countably infinite subsets of $\beta\omega$. Find elements $x_\xi$ and $y_\xi$ of $\beta\omega\setminus \omega$ for all $\xi < 2^\mathfrak{c}$ so that the following hold: 
+Using the alternative notation $\beta\omega$, the construction goes as follows.
+There are $2^\mathfrak{c}$ countably infinite subsets of $\beta\omega$.
+Let $\{S_\xi : \xi<\lambda\}$ enumerate them all,
+where $\lambda$ is the first ordinal of cardinality $2^\mathfrak{c}$.
+By transfinite recursion one can find elements $x_\xi,y_\xi\in\beta\omega\setminus\omega$ for all $\xi$
+such that:
 
-1. All $x_\xi$ and $y_\eta$ are pairwise distinct.
+1. $x_\xi, y_\xi\in \overline{S_\xi}\setminus S_\xi$;
 
-2. All $x\in \beta\omega\setminus \omega$ are either of the form $x_\xi$ or $y_\eta$.
+2. all the $x_\xi$ are distinct and all the $y_\xi$ are distinct;
 
-4. $x_\xi, y_\xi\in \overline{S_\xi}\setminus S_\xi$.
+3. the sets $\{x_\xi:\xi<\lambda\}$ and $\{y_\xi:\xi<\lambda\}$
+form a partition of $\beta\omega\setminus\omega$.
 
-Then the Novak space is defined as $X = \omega\cup \{x_\xi : \xi < 2^\mathfrak{c}\}$ with subspace topology.
+Then $X=\omega\cup\{x_\xi:\xi<\lambda\}$ with the subspace topology induced from $\beta\omega$.
 
-Constructed as counterexample #112
-in {{zb:0386.54001}}. However, the construction in that book is incorrect as it assumes that $2^\mathfrak{c}$ is a regular cardinal, which it consistently isn't.
+Defined as counterexample #112 ("Novak Space") in {{zb:0386.54001}}.
+However, the construction in that book is incorrect as it assumes that
+$2^\mathfrak{c}$ is a regular cardinal, while it is consistent with ZFC that it isn't.
