@@ -1,9 +1,11 @@
 ---
 uid: S000032
-name: Hilbert cube
+name: Hilbert cube $[0,1]^\omega$
 counterexamples_id: 38
+aliases:
+  - Tychonoff cube of weight $\aleph_0$
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001"
     name: Counterexamples in Topology
   - wikipedia: Hilbert_cube
     name: Hilbert cube on Wikipedia
@@ -11,4 +13,6 @@ refs:
 $X = [0,1]^\omega$ with the product topology.
 
 Defined as counterexample #38 ("Hilbert Cube")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.
+
+See also {S103}.

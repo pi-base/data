@@ -1,18 +1,35 @@
 ---
 uid: S000102
-name: Baire metric on a countable product of reals
+name: Baire space of weight continuum $B(\mathfrak c)$
 aliases:
-  - Baire product metric
   - Countable product of continuum-sized discrete spaces
+  - Baire metric on $\mathbb R^\omega$
 counterexamples_id: 104
 refs:
-  - doi: 10.1007/978-1-4612-6290-9
+  - zb: "0684.54001"
+    name: General Topology (Engelking, 1989)
+  - zb: "0386.54001"
     name: Counterexamples in Topology
 ---
-The Baire metric on $X = \mathbb{R}^\omega$ is defined by $d(\langle x_i\rangle, \langle y_i\rangle) = \frac{1}{i}$ where $i$ is the first coordinate such that $x_i \neq y_i$.
 
-This space is homeomorphic to a countable product of discrete spaces of
-size continuum.
+$X$ is the product of countably many copies of {S3}.
+So $X=\mathbb R^\omega$ with $\mathbb R$ having the discrete topology.
 
-Defined as counterexample #104 ("Baire Metric on \(\mathbb{R}^\omega\)")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+In general, the *Baire space of weight $\kappa$* for some infinite cardinal $\kappa$
+is the countable power $D^\omega$ for some discrete space $D$ with $|D|=\kappa$,
+and is denoted $B(\kappa)$.  It has weight $\kappa$.
+The current space is $X=B(\mathfrak c)=B(2^{\aleph_0})$.
+
+This space is metrizable using the Baire metric.  For distinct elements
+$x=(x_i)_{i\ge 0}, y=(y_i)_{i\ge 0}$ in $X=D^\omega$ the *Baire metric*
+is defined by $d(x,y)=\frac{1}{i+1}$ where $i$ is the first coordinate with $x_i\neq y_i$.
+And $d(x,x)=0$.
+
+See Example 4.2.12 in {{zb:0684.54001}}.
+
+Also defined as counterexample #104 ("Baire Metric on \(\mathbb{R}^\omega\)")
+in {{zb:0386.54001}}, where the index starts at $i=1$.
+
+This space has a finer topology than {S30}.
+
+Compare with {S28}, which is the Baire space $B(\aleph_0)$.

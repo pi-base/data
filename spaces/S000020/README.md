@@ -7,7 +7,7 @@ aliases:
   - Ordinal space $\omega+1$
 counterexamples_id: 23
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
   - wikipedia: Fort_space
     name: Fort space on Wikipedia
@@ -20,4 +20,4 @@ It is homeomorphic to $\{0\}\cup\{2^{-n}:n<\omega\}$ as a subspace of {S25},
 and is also homeomorphic to the ordinal space $\omega+1$.
 
 Defined as counterexample #23 ("Countable Fort Space")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

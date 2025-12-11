@@ -5,7 +5,7 @@ aliases:
 - Sum of continuum-many Right-ordered reals
 - Sum of continuum-many Left Ray Topology on the Reals
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
 ---
 
