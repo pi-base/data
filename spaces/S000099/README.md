@@ -3,10 +3,12 @@ uid: S000099
 name: Alexandroff square
 counterexamples_id: 101
 refs:
-  - doi: 10.1007/978-1-4612-6290-9
+  - zb: "0386.54001"
     name: Counterexamples in Topology
 ---
-Let $X$ be the unit square $[0,1] \times [0,1] \subset \mathbb{R}^2$. If $(x,y)$ is a point off the diagonal, define neighborhoods of $(x,y)$ to be sets of the form $N_\epsilon(x,y) = \{(x,t)\ |\ |t-y| < \epsilon, t \neq x\} $. If $(x,x)$ is a point on the diagonal, define neighborhoods of $(x,x)$, for every finite collection $\{x_i\} \subset [0,1]$ which does not contain $x$, as follows: $\{(t,y) \in X\ |\ |y-x|<\epsilon, t \not\in \{x_0, \dots, x_n\}\}$.
+Let $X$ be the unit square $[0,1] \times [0,1] \subset \mathbb{R}^2$. For a point $(x,y)$ not on the diagonal (for $x \ne y$), basic neighborhoods are given by the vertical segments $\{x\} \times (y - \varepsilon,y + \varepsilon)$ for $\varepsilon > 0$. For a point $(x,x)$ on the diagonal, basic open neighborhoods are given by open horizontal strips minus a finite number of vertical lines, i.e., sets of the form $S \times (x - \varepsilon,x + \varepsilon)$ for $\varepsilon > 0$ and $S$ cofinite subset of $[0,1]$ not containing $x$.
+
+Every vertical slice is homeomorphic to {S158}. Every horizontal slice is homeomorphic to {S154}, with the homeomorphism sending the point on the diagonal to $\infty$. The diagonal $\{(x,x) | x \in [0, 1]\}$ is homeomorphic to {S158}.
 
 Defined as counterexample #101 ("Alexandroff Square")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.
