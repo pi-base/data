@@ -2,7 +2,7 @@
 uid: S000108
 name: Stone-Čech compactification $\beta\omega$ of the integers
 aliases:
-  - \beta\mathbb{N}
+  - $\beta\mathbb{N}$
 counterexamples_id: 111
 refs:
   - zb: "0386.54001"
