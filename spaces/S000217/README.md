@@ -1,5 +1,5 @@
 ---
-uid: S000166
+uid: S000217
 name: Left ray topology on $\omega_1$
 refs:
   - wikipedia: Alexandrov_topology
