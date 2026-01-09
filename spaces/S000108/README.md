@@ -1,12 +1,8 @@
 ---
 uid: S000108
-name: Stone-Čech compactification of the integers
+name: Stone-Čech compactification $\beta\omega$ of the integers
 aliases:
-  - Beta N
-  - βN
-  - Beta Z
-  - Beta omega
-  - Stone-Čech compactification of the natural numbers
+  - \beta\mathbb{N}
 counterexamples_id: 111
 refs:
   - zb: "0386.54001"
