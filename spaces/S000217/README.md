@@ -6,5 +6,9 @@ refs:
     name: Alexandrov topology on Wikipedia
 ---
 
-$\omega_1$ with the topology of left rays
-$\{\omega_1\}\cup\{(\leftarrow,n):n<\omega_1\} = \{\emptyset,\omega_1\}\cup\{(\leftarrow,n]:n<\omega_1\}$.
+Let $X=\omega_1$, with a base for the topology consisting of the left rays
+$[0,\alpha]=[0,\alpha+1)$ for $\alpha\in\omega_1$.
+
+The open sets are the downward closed subsets of $X$, which are $X$, $\emptyset$,
+the basic open sets above, and the rays $[0,\alpha)$ with $\alpha$ limit ordinal.
+This is the Alexandrov topology for the reverse ordering on $\omega_1$.
