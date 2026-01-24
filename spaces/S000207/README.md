@@ -1,6 +1,8 @@
 ---
 uid: S000207
-name: Cohen's modified product $\omega_1\times(\omega_1+1)$
+name: Cohen's modification of $\omega_1\times(\omega_1+1)$
+aliases:
+  - Cohen's modified product $\omega_1\times(\omega_1+1)$
 refs:
   - zb: "0046.16403"
     name: Sur une problème de M. Dieudonné (H. J. Cohen)
