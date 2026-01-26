@@ -27,3 +27,5 @@ H. J. Cohen provides this example, communicated by Bing, in {{zb:0046.16403}}
 to show that {P207}
 is strictly stronger than {P88}.
 See {{mathse:5004796}} for details in English.
+
+$X$ has a finer topology than {S218}.
