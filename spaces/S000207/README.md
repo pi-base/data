@@ -16,6 +16,7 @@ Each point $\langle \alpha,\omega_1\rangle$ with $\alpha>0$ has a local base con
 $(\beta,\alpha]\times(\gamma,\omega_1]$ for $\beta<\alpha$ and $\gamma<\omega_1$.
 The point $\langle 0,\omega_1\rangle$ has a local base consisting of the sets
 $\{0\}\times(\gamma,\omega_1]$ for $\gamma<\omega_1$.
+The resulting space $X$ has a finer topology than {S218}.
 
 Each vertical slice $\{\alpha\}\times[0,\omega_1]$ for $\alpha<\omega_1$
 is homeomorphic to {S155}.
@@ -27,5 +28,3 @@ H. J. Cohen provides this example, communicated by Bing, in {{zb:0046.16403}}
 to show that {P207}
 is strictly stronger than {P88}.
 See {{mathse:5004796}} for details in English.
-
-$X$ has a finer topology than {S218}.
