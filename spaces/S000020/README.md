@@ -12,7 +12,7 @@ refs:
   - wikipedia: Fort_space
     name: Fort space on Wikipedia
 ---
-Let $X=\omega\cup\{\infty\}=\{0,1,2\dots\}\cup\{\infty\}$.
+Let $X=\omega\cup\{\infty\}=\{0,1,2,\dots\}\cup\{\infty\}$.
 Define $U \subseteq X$ to be open if its complement either is finite or includes $\infty$.
 
 This space is the one-point compactification of a countably infinite discrete space.

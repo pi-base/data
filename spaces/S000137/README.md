@@ -8,7 +8,7 @@ refs:
 - zb: "0386.54001"
   name: Counterexamples in Topology
 - doi: 10.4153/CJM-1955-029-6
-  name: Point-finite and localy finite coverings (E. Michael)
+  name: Point-finite and locally finite coverings (E. Michael)
 ---
 
 This space is the subspace $Y = M \cup F$ of $X=$ {S000136} where
