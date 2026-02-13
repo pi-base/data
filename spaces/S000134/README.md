@@ -13,7 +13,7 @@ refs:
 If $d_e$ is the usual Euclidean metric on $\mathbb{R}^2$, the radial metric $r$ is defined by:
 
 $r(x,y) = \begin{cases}
-d_e(x,y), & x \text{ and } y \text{ are colinear with } \vec 0\\
+d_e(x,y), & x \text{ and } y \text{ are collinear with } \vec 0\\
 d_e(x,\vec 0) + d_e(y,\vec 0), & \text{otherwise.}
 \end{cases}$
 
