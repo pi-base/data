@@ -9,4 +9,4 @@ refs:
 ---
 
 In {{mo:434266}} KP Hart shows that an example of Kannan and Rajagopalan is 
-constructable in ZFC.
+constructible in ZFC.
