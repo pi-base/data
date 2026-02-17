@@ -1,10 +1,10 @@
 ---
 uid: S000219
-name: Discrete topology on $2^{\mathfrak c}$
+name: Discrete space of size $2^{\mathfrak c}$
 refs:
   - wikipedia: Discrete_space
     name: Discrete space on Wikipedia
 ---
 
-Let $X=2^{\mathfrak c}$ be the power set of the real numbers,
+Let $X$ be a set of cardinality $2^{\mathfrak c}$, for example the power set of $\mathbb R$,
 and let all subsets of $X$ be open.
