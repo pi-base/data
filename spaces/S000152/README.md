@@ -8,7 +8,7 @@ refs:
     name: Answer to "For a compact sober "highly non-$T_1$" space, how much "highly connectedness" is needed to imply it's a spectral space?"
 ---
 
-Consider the set $\{1/n\}_{n=1}^\infty$ with its usual order. Let,
+Consider the set $\{1/n\}_{n=1}^\infty$ with its usual order. Let
 
 $\quad X=\{-1,0_a,0_b\}\cup\{1/n\}_{n=1}^\infty$
 
