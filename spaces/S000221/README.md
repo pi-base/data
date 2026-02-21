@@ -11,4 +11,4 @@ Note that the "closed rays" $[\beta,\rightarrow)$ with $\beta$ a limit ordinal a
 
 The nonempty proper closed sets are the intervals $[0,\alpha]$ for $\alpha\in X.$
 
-Compare with the finer topology of {S221}.
+Compare with the finer topology of {S220}.
