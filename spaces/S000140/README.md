@@ -1,6 +1,6 @@
 ---
 uid: S000140
-name: Real numbers extended by a point with co-countable open neighborhoods
+name: $\mathbb{R}$ extended by a point with co-countable open neighborhoods
 refs:
 - mathse: 4850979
   name: Answer to 'Radial/pseudoradial implies Fréchet-Urysohn/sequential for locally countable spaces'
