@@ -1,5 +1,5 @@
 ---
-uid: S001103
+uid: S000222
 name: Product topology on $\omega^{2^\mathfrak{c}}$
 aliases:
   - Uncountable product of $\mathbb Z^+$
