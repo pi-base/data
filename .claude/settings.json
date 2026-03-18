@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \":*)",
+      "Bash(printf 'propagate\\\\nq\\\\n')",
+      "Bash(printf 'propagate\\\\npropgate\\\\nq\\\\n')",
+      "Bash(for s:*)",
+      "Bash(do echo:*)",
+      "Read(//home/batixx/Documents/GitHub/data/spaces/$s/**)",
+      "Bash(done)",
+      "Bash(ls -d /home/batixx/Documents/GitHub/data/spaces/S*)",
+      "Bash(grep -r cone /home/batixx/Documents/GitHub/data/spaces/*/README.md)",
+      "Bash(grep -r \"suspension\\\\|suspend\" /home/batixx/Documents/GitHub/data/spaces/*/README.md)",
+      "Bash(grep -r \"long line\\\\|long ray\\\\|ordinal\\\\|ω\\\\|omega\" /home/batixx/Documents/GitHub/data/spaces/*/README.md)",
+      "Bash(grep -r \"long line\" /home/batixx/Documents/GitHub/data/spaces/*/README.md)",
+      "Bash(grep -r \"wedge\\\\|product\\\\|subspace\\\\|subgroup\\\\|quotient\\\\|mapping cylinder\\\\|adjunction\" /home/batixx/Documents/GitHub/data/spaces/*/README.md)",
+      "Bash(grep -r \"subspace\\\\|contains\\\\|restriction\\\\|open copy\" /home/batixx/Documents/GitHub/data/spaces/*/README.md)",
+      "Bash(grep -r \"closure\\\\|removed\\\\|deleted\\\\|open copy\\\\|two-point\\\\|double\\\\|multiple\\\\|pair\" /home/batixx/Documents/GitHub/data/spaces/*/README.md)"
+    ]
+  }
+}

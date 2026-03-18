@@ -1,0 +1,3 @@
+Loaded 41462 pairs from pairs_reduced.txt
+Filtered pairs: 0
+============================================================
