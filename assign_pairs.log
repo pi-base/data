@@ -789,3 +789,435 @@
 [2026-03-19 15:30:06] status
 [2026-03-19 15:30:22] q
 [2026-03-19 15:30:22] --- session end ---
+[2026-03-19 15:31:58] --- session start --- Reduced=41993 Special=2511
+[2026-03-19 15:32:03] status
+[2026-03-19 15:32:28] show 65
+[2026-03-19 15:32:41] r 65 192
+[2026-03-19 15:32:41]   +pairs_reduced (S000065, S000192) [direct]
+[2026-03-19 15:33:00] r 192 65
+[2026-03-19 15:33:01]   +pairs_reduced (S000192, S000065) [direct]
+[2026-03-19 15:33:01]   +reduced (S000192, S000083) [closure rule 3, origin: r 192 65]
+[2026-03-19 15:33:01]   +reduced (S000192, S000084) [closure rule 3, origin: r 192 65]
+[2026-03-19 15:33:01]   +reduced (S000192, S000209) [closure rule 3, origin: r 192 65]
+[2026-03-19 15:33:11] r 65 195
+[2026-03-19 15:33:15] r 65 185
+[2026-03-19 15:33:17]   +pairs_reduced (S000065, S000185) [direct]
+[2026-03-19 15:33:27] show2 25
+[2026-03-19 15:33:48] show 65
+[2026-03-19 15:33:56] bottom
+[2026-03-19 15:34:02] show 37
+[2026-03-19 15:34:55] q
+[2026-03-19 15:34:55] --- session end ---
+[2026-03-19 17:04:26] --- session start --- Reduced=41999 Special=2511
+[2026-03-19 17:04:34] show 202
+[2026-03-19 17:04:40] show1 202
+[2026-03-19 17:05:53] bottom
+[2026-03-19 17:06:03] show 24
+[2026-03-19 17:06:19] show 83
+[2026-03-19 17:06:27] r 83 192
+[2026-03-19 17:06:28]   +pairs_reduced (S000083, S000192) [direct]
+[2026-03-19 17:06:38] r 83 185
+[2026-03-19 17:06:41]   +pairs_reduced (S000083, S000185) [direct]
+[2026-03-19 17:06:47] bottom
+[2026-03-19 17:06:56] show 209
+[2026-03-19 17:07:01] r 209 192
+[2026-03-19 17:07:02]   +pairs_reduced (S000209, S000192) [direct]
+[2026-03-19 17:07:08] r 209 185
+[2026-03-19 17:07:12]   +pairs_reduced (S000209, S000185) [direct]
+[2026-03-19 17:07:23] show1 85
+[2026-03-19 17:08:32] r 85 192
+[2026-03-19 17:08:34]   +pairs_reduced (S000085, S000192) [direct]
+[2026-03-19 17:08:34]   +reduced (S000084, S000192) [closure rule 2, origin: r 85 192]
+[2026-03-19 17:09:10] r 85 170
+[2026-03-19 17:09:12]   +pairs_reduced (S000085, S000170) [direct]
+[2026-03-19 17:09:12]   +reduced (S000084, S000170) [closure rule 2, origin: r 85 170]
+[2026-03-19 17:09:12]   +reduced (S000084, S000112) [closure rule 3, origin: r 85 170]
+[2026-03-19 17:09:12]   +reduced (S000084, S000115) [closure rule 3, origin: r 85 170]
+[2026-03-19 17:09:12]   +reduced (S000084, S000201) [closure rule 3, origin: r 85 170]
+[2026-03-19 17:09:12]   +reduced (S000085, S000112) [closure rule 3, origin: r 85 170]
+[2026-03-19 17:09:12]   +reduced (S000085, S000115) [closure rule 3, origin: r 85 170]
+[2026-03-19 17:09:12]   +reduced (S000085, S000129) [closure rule 3, origin: r 85 170]
+[2026-03-19 17:09:12]   +reduced (S000085, S000201) [closure rule 3, origin: r 85 170]
+[2026-03-19 17:09:18] show1 85
+[2026-03-19 17:09:32] r 85 185
+[2026-03-19 17:09:34]   +pairs_reduced (S000085, S000185) [direct]
+[2026-03-19 17:09:34]   +reduced (S000084, S000185) [closure rule 2, origin: r 85 185]
+[2026-03-19 17:11:01] q
+[2026-03-19 17:11:01] --- session end ---
+[2026-03-19 17:12:38] --- session start --- Reduced=42016 Special=2511
+[2026-03-19 17:12:41] show1 25
+[2026-03-19 17:15:18] q
+[2026-03-19 17:15:18] --- session end ---
+[2026-03-19 17:15:21] --- session start --- Reduced=42016 Special=2511
+[2026-03-19 17:15:26] status
+[2026-03-19 17:15:31] q
+[2026-03-19 17:15:31] --- session end ---
+[2026-03-19 17:16:23] --- session start --- Reduced=42024 Special=2511
+[2026-03-19 17:16:28] show1 85
+[2026-03-19 17:17:21] r 85 201
+[2026-03-19 17:17:21]   +pairs_reduced (S000085, S000201) [direct]
+[2026-03-19 17:17:21]   +reduced (S000084, S000201) [closure rule 2, origin: r 85 201]
+[2026-03-19 17:17:31] r 85 192
+[2026-03-19 17:17:32]   +pairs_reduced (S000085, S000192) [direct]
+[2026-03-19 17:17:32]   +reduced (S000065, S000192) [closure rule 2, origin: r 85 192]
+[2026-03-19 17:17:32]   +reduced (S000083, S000192) [closure rule 2, origin: r 85 192]
+[2026-03-19 17:17:32]   +reduced (S000084, S000192) [closure rule 2, origin: r 85 192]
+[2026-03-19 17:17:43] show1 85
+[2026-03-19 17:17:54] r 85 185
+[2026-03-19 17:17:55]   +pairs_reduced (S000085, S000185) [direct]
+[2026-03-19 17:17:55]   +reduced (S000065, S000185) [closure rule 2, origin: r 85 185]
+[2026-03-19 17:17:55]   +reduced (S000083, S000185) [closure rule 2, origin: r 85 185]
+[2026-03-19 17:17:55]   +reduced (S000084, S000185) [closure rule 2, origin: r 85 185]
+[2026-03-19 17:18:07] r 85 170
+[2026-03-19 17:18:08]   +pairs_reduced (S000085, S000170) [direct]
+[2026-03-19 17:18:08]   +reduced (S000084, S000170) [closure rule 2, origin: r 85 170]
+[2026-03-19 17:18:08]   +reduced (S000084, S000112) [closure rule 3, origin: r 85 170]
+[2026-03-19 17:18:08]   +reduced (S000085, S000112) [closure rule 3, origin: r 85 170]
+[2026-03-19 17:18:08]   +reduced (S000085, S000129) [closure rule 3, origin: r 85 170]
+[2026-03-19 17:18:33] show1 209
+[2026-03-19 17:18:39] r 209 192
+[2026-03-19 17:18:41]   +pairs_reduced (S000209, S000192) [direct]
+[2026-03-19 17:18:47] r 209 185
+[2026-03-19 17:18:47]   +pairs_reduced (S000209, S000185) [direct]
+[2026-03-19 17:18:51] propagate
+[2026-03-19 17:19:37] show 85
+[2026-03-19 17:20:02] bottom
+[2026-03-19 17:20:07] show 83
+[2026-03-19 17:20:34] r 192 83
+[2026-03-19 17:21:13]   +pairs_reduced (S000192, S000083) [direct]
+[2026-03-19 17:21:13]   +reduced (S000192, S000084) [closure rule 3, origin: r 192 83]
+[2026-03-19 17:21:13]   +reduced (S000192, S000209) [closure rule 3, origin: r 192 83]
+[2026-03-19 17:21:46] bottom
+[2026-03-19 17:22:06] show 165
+[2026-03-19 17:22:32] show1 209
+[2026-03-19 17:22:37] show2 209
+[2026-03-19 17:24:28] show1 19
+[2026-03-19 17:25:04] r 19 83
+[2026-03-19 17:25:05]   +pairs_reduced (S000019, S000083) [direct]
+[2026-03-19 17:25:06]   +reduced (S000019, S000084) [closure rule 3, origin: r 19 83]
+[2026-03-19 17:25:06]   +reduced (S000019, S000209) [closure rule 3, origin: r 19 83]
+[2026-03-19 17:25:12] bottom
+[2026-03-19 17:25:16] show 65
+[2026-03-19 18:08:38] show 24
+[2026-03-19 18:09:52] show 55
+[2026-03-19 18:09:58] bottom
+[2026-03-19 18:10:06] show 84
+[2026-03-19 18:10:12] show 86
+[2026-03-19 18:12:09] r 86 170
+[2026-03-19 18:12:10]   +pairs_reduced (S000086, S000170) [direct]
+[2026-03-19 18:12:10]   +reduced (S000086, S000030) [closure rule 3, origin: r 86 170]
+[2026-03-19 18:12:10]   +reduced (S000086, S000032) [closure rule 3, origin: r 86 170]
+[2026-03-19 18:12:10]   +reduced (S000086, S000074) [closure rule 3, origin: r 86 170]
+[2026-03-19 18:12:10]   +reduced (S000086, S000112) [closure rule 3, origin: r 86 170]
+[2026-03-19 18:12:10]   +reduced (S000086, S000115) [closure rule 3, origin: r 86 170]
+[2026-03-19 18:12:10]   +reduced (S000086, S000129) [closure rule 3, origin: r 86 170]
+[2026-03-19 18:12:10]   +reduced (S000086, S000168) [closure rule 3, origin: r 86 170]
+[2026-03-19 18:12:10]   +reduced (S000086, S000169) [closure rule 3, origin: r 86 170]
+[2026-03-19 18:12:10]   +reduced (S000086, S000176) [closure rule 3, origin: r 86 170]
+[2026-03-19 18:12:10]   +reduced (S000086, S000197) [closure rule 3, origin: r 86 170]
+[2026-03-19 18:12:10]   +reduced (S000086, S000201) [closure rule 3, origin: r 86 170]
+[2026-03-19 18:12:43] undo
+[2026-03-19 18:12:51] show 201
+[2026-03-19 18:18:13] bottom
+[2026-03-19 18:18:27] bottom 40
+[2026-03-19 18:18:32] show 38
+[2026-03-19 18:19:20] show 108
+[2026-03-19 18:21:23] show 95
+[2026-03-19 18:22:19] show1 95
+[2026-03-19 18:22:37] show 176
+[2026-03-19 18:24:02] show 117
+[2026-03-19 18:24:16] show1 117
+[2026-03-19 18:25:07] r 117 170
+[2026-03-19 18:25:08]   +pairs_reduced (S000117, S000170) [direct]
+[2026-03-19 18:25:08]   +reduced (S000116, S000170) [closure rule 2, origin: r 117 170]
+[2026-03-19 18:25:08]   +reduced (S000116, S000112) [closure rule 3, origin: r 117 170]
+[2026-03-19 18:25:08]   +reduced (S000116, S000115) [closure rule 3, origin: r 117 170]
+[2026-03-19 18:25:08]   +reduced (S000116, S000168) [closure rule 3, origin: r 117 170]
+[2026-03-19 18:25:08]   +reduced (S000116, S000176) [closure rule 3, origin: r 117 170]
+[2026-03-19 18:25:08]   +reduced (S000116, S000201) [closure rule 3, origin: r 117 170]
+[2026-03-19 18:25:08]   +reduced (S000117, S000112) [closure rule 3, origin: r 117 170]
+[2026-03-19 18:25:08]   +reduced (S000117, S000115) [closure rule 3, origin: r 117 170]
+[2026-03-19 18:25:08]   +reduced (S000117, S000168) [closure rule 3, origin: r 117 170]
+[2026-03-19 18:25:08]   +reduced (S000117, S000176) [closure rule 3, origin: r 117 170]
+[2026-03-19 18:25:08]   +reduced (S000117, S000201) [closure rule 3, origin: r 117 170]
+[2026-03-19 18:25:16] show1 117
+[2026-03-19 18:37:23] r 117 113
+[2026-03-19 18:37:25]   +pairs_reduced (S000117, S000113) [direct]
+[2026-03-19 18:37:25]   +reduced (S000116, S000113) [closure rule 2, origin: r 117 113]
+[2026-03-19 18:37:25]   +reduced (S000116, S000114) [closure rule 3, origin: r 117 113]
+[2026-03-19 18:37:25]   +reduced (S000116, S000205) [closure rule 3, origin: r 117 113]
+[2026-03-19 18:37:25]   +reduced (S000117, S000114) [closure rule 3, origin: r 117 113]
+[2026-03-19 18:37:25]   +reduced (S000117, S000205) [closure rule 3, origin: r 117 113]
+[2026-03-19 18:37:33] show1 117
+[2026-03-19 18:37:43] bottom
+[2026-03-19 18:37:49] propagate
+[2026-03-19 18:46:52] propagate
+[2026-03-19 18:47:01] status
+[2026-03-19 18:47:10] list
+[2026-03-19 18:47:14] top
+[2026-03-19 19:12:48] see 156 20
+[2026-03-19 19:12:51] show 156
+[2026-03-20 02:17:23] --- session start --- Reduced=42092 Special=2511
+[2026-03-20 02:18:29] bottom
+[2026-03-20 02:18:41] show 85
+[2026-03-20 02:18:55] see 25 180
+[2026-03-20 02:27:07] r 85 180
+[2026-03-20 02:27:14]   +pairs_reduced (S000085, S000180) [direct]
+[2026-03-20 02:27:23] undo
+[2026-03-20 02:27:36] r 85 133
+[2026-03-20 02:27:37]   +pairs_reduced (S000085, S000133) [direct]
+[2026-03-20 02:27:55] bottom
+[2026-03-20 02:30:59] see 166
+[2026-03-20 02:31:02] show 166
+[2026-03-20 02:33:34] show 155
+[2026-03-20 02:36:46] r 141 155
+[2026-03-20 02:36:50]   +pairs_reduced (S000141, S000155) [direct]
+[2026-03-20 02:36:50]   +reduced (S000141, S000022) [closure rule 3, origin: r 141 155]
+[2026-03-20 02:36:50]   +reduced (S000141, S000036) [closure rule 3, origin: r 141 155]
+[2026-03-20 02:36:50]   +reduced (S000141, S000181) [closure rule 3, origin: r 141 155]
+[2026-03-20 02:37:32] see 25 155
+[2026-03-20 02:40:19] see 170 155
+[2026-03-20 02:40:32] see 83 155
+[2026-03-20 02:42:05] see 209 155
+[2026-03-20 02:42:42] show 155
+[2026-03-20 02:48:46] see 39 36
+[2026-03-20 02:49:18] see 36 155
+[2026-03-20 02:52:28] r 36 155
+[2026-03-20 02:53:49] s 39 155
+[2026-03-20 02:54:14] s 39 36
+[2026-03-20 02:54:15]   +special_pairs (S000039, S000036) [direct]
+[2026-03-20 02:54:15]   +special (S000039, S000155) [closure rule 1, origin: s 39 36]
+[2026-03-20 02:54:15]   +special (S000196, S000036) [closure rule 1, origin: s 39 36]
+[2026-03-20 02:54:15]   +special (S000196, S000155) [closure rule 1, origin: s 39 36]
+[2026-03-20 02:54:43] bottom
+[2026-03-20 02:55:03] show 37
+[2026-03-20 02:55:53] see 36 174
+[2026-03-20 02:56:10] see 37 133
+[2026-03-20 02:56:18] see 36 202
+[2026-03-20 02:56:25] status
+[2026-03-20 02:56:47] bottom
+[2026-03-20 02:58:42] see 65
+[2026-03-20 02:58:48] show 65
+[2026-03-20 03:01:01] r 192 65
+[2026-03-20 03:01:04]   +pairs_reduced (S000192, S000065) [direct]
+[2026-03-20 03:20:05] show 19
+[2026-03-20 03:22:59] s 19 210
+[2026-03-20 03:23:02]   +special_pairs (S000019, S000210) [direct]
+[2026-03-20 03:23:02]   +special (S000019, S000002) [closure rule 1, origin: s 19 210]
+[2026-03-20 03:23:02]   +special (S000019, S000020) [closure rule 1, origin: s 19 210]
+[2026-03-20 03:23:02]   +special (S000019, S000025) [closure rule 1, origin: s 19 210]
+[2026-03-20 03:23:02]   +special (S000019, S000026) [closure rule 1, origin: s 19 210]
+[2026-03-20 03:23:02]   +special (S000019, S000027) [closure rule 1, origin: s 19 210]
+[2026-03-20 03:23:02]   +special (S000019, S000028) [closure rule 1, origin: s 19 210]
+[2026-03-20 03:23:02]   +special (S000019, S000033) [closure rule 1, origin: s 19 210]
+[2026-03-20 03:23:02]   +special (S000019, S000034) [closure rule 1, origin: s 19 210]
+[2026-03-20 03:23:02]   +special (S000019, S000062) [closure rule 1, origin: s 19 210]
+[2026-03-20 03:23:02]   +special (S000019, S000146) [closure rule 1, origin: s 19 210]
+[2026-03-20 03:23:02]   +special (S000019, S000147) [closure rule 1, origin: s 19 210]
+[2026-03-20 03:23:02]   +special (S000019, S000148) [closure rule 1, origin: s 19 210]
+[2026-03-20 03:23:02]   +special (S000019, S000158) [closure rule 1, origin: s 19 210]
+[2026-03-20 03:23:02]   +special (S000019, S000198) [closure rule 1, origin: s 19 210]
+[2026-03-20 03:23:02]   +special (S000019, S000202) [closure rule 1, origin: s 19 210]
+[2026-03-20 03:24:28] show 19
+[2026-03-20 03:39:36] q
+[2026-03-20 03:39:36] --- session end ---
+[2026-03-20 03:39:45] --- session start --- Reduced=42098 Special=2531
+[2026-03-20 03:39:46] top
+[2026-03-20 03:39:48] q
+[2026-03-20 03:39:48] --- session end ---
+[2026-03-20 03:40:08] BATCH: add (S19, SA) to reduced for all SA where (S25,SA) in reduced and SA not P39
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000030) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000032) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000052) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000053) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000056) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000058) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000059) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000065) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000066) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000067) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000071) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000072) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000073) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000075) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000080) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000098) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000112) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000113) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000114) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000115) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000116) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000117) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000119) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000120) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000121) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000122) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000123) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000124) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000125) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000126) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000127) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000128) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000130) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000142) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000168) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000169) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000170) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000172) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000176) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000185) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000192) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000201) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000205) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08]   +pairs_reduced (S000019, S000206) [direct, batch: (S25,SA) reduced + not P39]
+[2026-03-20 03:40:08] BATCH done. Reduced=42142 Special=2531 Missing=3727
+[2026-03-20 03:40:16] --- session start --- Reduced=42142 Special=2531
+[2026-03-20 03:40:22] show 19
+[2026-03-20 03:40:34] top
+[2026-03-20 03:41:09] show 202
+[2026-03-20 03:41:17] show1 202
+[2026-03-20 03:41:41] bottom
+[2026-03-20 03:41:56] top
+[2026-03-20 03:42:22] show 40
+[2026-03-20 03:48:30] r 40 205
+[2026-03-20 03:48:36]   +pairs_reduced (S000040, S000205) [direct]
+[2026-03-20 03:48:36]   +reduced (S000040, S000030) [closure rule 3, origin: r 40 205]
+[2026-03-20 03:48:36]   +reduced (S000040, S000032) [closure rule 3, origin: r 40 205]
+[2026-03-20 03:48:36]   +reduced (S000040, S000074) [closure rule 3, origin: r 40 205]
+[2026-03-20 03:48:36]   +reduced (S000040, S000168) [closure rule 3, origin: r 40 205]
+[2026-03-20 03:48:36]   +reduced (S000040, S000169) [closure rule 3, origin: r 40 205]
+[2026-03-20 03:48:36]   +reduced (S000040, S000176) [closure rule 3, origin: r 40 205]
+[2026-03-20 03:48:36]   +reduced (S000040, S000197) [closure rule 3, origin: r 40 205]
+[2026-03-20 03:48:48] show1 40
+[2026-03-20 03:51:00] r 40 170
+[2026-03-20 03:51:01]   +pairs_reduced (S000040, S000170) [direct]
+[2026-03-20 03:51:02]   +reduced (S000040, S000095) [closure rule 3, origin: r 40 170]
+[2026-03-20 03:51:02]   +reduced (S000040, S000112) [closure rule 3, origin: r 40 170]
+[2026-03-20 03:51:02]   +reduced (S000040, S000115) [closure rule 3, origin: r 40 170]
+[2026-03-20 03:51:02]   +reduced (S000040, S000129) [closure rule 3, origin: r 40 170]
+[2026-03-20 03:51:02]   +reduced (S000040, S000201) [closure rule 3, origin: r 40 170]
+[2026-03-20 03:51:06] show1 40
+[2026-03-20 03:51:42] r 40 116
+[2026-03-20 03:51:43]   +pairs_reduced (S000040, S000116) [direct]
+[2026-03-20 03:51:43]   +reduced (S000040, S000117) [closure rule 3, origin: r 40 116]
+[2026-03-20 03:51:48] show1 40
+[2026-03-20 03:52:26] r 40 114
+[2026-03-20 03:52:27]   +pairs_reduced (S000040, S000114) [direct]
+[2026-03-20 03:55:42] r 40 39
+[2026-03-20 03:55:43]   +pairs_reduced (S000040, S000039) [direct]
+[2026-03-20 03:55:44]   +reduced (S000040, S000196) [closure rule 3, origin: r 40 39]
+[2026-03-20 03:56:15] show1 40
+[2026-03-20 03:59:24] propagate
+[2026-03-20 03:59:54] bottom 40
+[2026-03-20 04:00:17] show 29
+[2026-03-20 21:05:07] q
+[2026-03-20 21:05:07] --- session end ---
+[2026-03-20 21:05:25] --- session start --- Reduced=42161 Special=2531
+[2026-03-20 21:05:28] propagate
+[2026-03-20 21:06:47] status
+[2026-03-20 21:06:51] bottom
+[2026-03-20 21:07:00] show 167
+[2026-03-20 21:07:07] show1 118
+[2026-03-20 21:18:48] see 200 118
+[2026-03-20 21:19:05] see 200 199
+[2026-03-20 21:19:31] r 118 199
+[2026-03-20 21:19:36]   +pairs_reduced (S000118, S000199) [direct]
+[2026-03-20 21:19:36]   +reduced (S000118, S000150) [closure rule 3, origin: r 118 199]
+[2026-03-20 21:19:36]   +reduced (S000118, S000151) [closure rule 3, origin: r 118 199]
+[2026-03-20 21:19:36]   +reduced (S000118, S000166) [closure rule 3, origin: r 118 199]
+[2026-03-20 21:19:36]   +reduced (S000118, S000167) [closure rule 3, origin: r 118 199]
+[2026-03-20 21:33:22] bottom
+[2026-03-20 21:38:29] show1 118
+[2026-03-20 21:40:03] r 118 27
+[2026-03-20 21:40:03]   +pairs_reduced (S000118, S000027) [direct]
+[2026-03-20 21:40:03]   +reduced (S000118, S000050) [closure rule 3, origin: r 118 27]
+[2026-03-20 21:40:31] propagate
+[2026-03-20 21:46:18] show 118
+[2026-03-20 21:47:28] r 118 34
+[2026-03-20 21:47:28]   +pairs_reduced (S000118, S000034) [direct]
+[2026-03-20 21:55:22] s 118 33
+[2026-03-20 21:55:23]   +special_pairs (S000118, S000033) [direct]
+[2026-03-20 21:58:13] show 118
+[2026-03-20 21:58:57] show 111
+[2026-03-20 21:59:12] show 118
+[2026-03-21 01:42:41] propagate
+[2026-03-21 02:54:05] --- session start --- Reduced=42169 Special=2532
+[2026-03-21 02:54:22] see 39 36
+[2026-03-21 03:06:44] q
+[2026-03-21 03:06:44] --- session end ---
+[2026-03-21 12:58:47] --- session start --- Reduced=42169 Special=2532
+[2026-03-21 12:58:50] bottom
+[2026-03-21 12:59:41] show 118
+[2026-03-21 13:04:03] r 118 23
+[2026-03-21 13:04:04]   +pairs_reduced (S000118, S000023) [direct]
+[2026-03-21 13:04:04]   +reduced (S000118, S000156) [closure rule 3, origin: r 118 23]
+[2026-03-21 13:04:10] show 118
+[2026-03-21 13:04:54] r 118 111
+[2026-03-21 13:04:55]   +pairs_reduced (S000118, S000111) [direct]
+[2026-03-21 13:05:09] bottom
+[2026-03-21 13:05:24] random
+[2026-03-21 13:05:35]   +special_pairs (S000174, S000169) [direct, random]
+[2026-03-21 13:05:35]   +special (S000174, S000025) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000026) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000027) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000028) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000033) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000034) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000062) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000075) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000112) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000113) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000114) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000115) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000116) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000117) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000119) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000121) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000125) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000126) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000127) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000128) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000132) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000142) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000146) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000147) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000148) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000158) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000170) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000176) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000198) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000201) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000202) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000205) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +special (S000174, S000210) [closure rule 1, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000035, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000036, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000037, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000038, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000039, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000040, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000041, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000063, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000076, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000078, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000079, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000087, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000088, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000089, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000091, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000094, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000101, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000141, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000149, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000153, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000171, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000180, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000191, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000195, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000196, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000207, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000212, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000218, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:35]   +reduced (S000222, S000174) [closure rule 3, origin: random s S000174 S000169]
+[2026-03-21 13:05:45] undo
+[2026-03-21 13:06:54] show1 174
