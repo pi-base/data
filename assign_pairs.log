@@ -1221,3 +1221,297 @@
 [2026-03-21 13:05:35]   +reduced (S000222, S000174) [closure rule 3, origin: random s S000174 S000169]
 [2026-03-21 13:05:45] undo
 [2026-03-21 13:06:54] show1 174
+[2026-03-21 21:51:29] --- session start --- Reduced=42172 Special=2532
+[2026-03-21 21:51:32] status
+[2026-03-21 21:51:37] propapaget
+[2026-03-21 21:51:41] propagate
+[2026-03-21 21:52:03] q
+[2026-03-21 21:52:03] --- session end ---
+[2026-03-21 22:50:19] --- session start --- Reduced=42172 Special=2532
+[2026-03-21 22:50:25] bottom
+[2026-03-21 22:50:32] show 165
+[2026-03-23 11:03:52] --- session start --- Reduced=42172 Special=2532
+[2026-03-23 11:03:55] help
+[2026-03-23 11:04:38] propagate
+[2026-03-23 11:05:40] status
+[2026-03-23 11:06:36] random
+[2026-03-23 11:06:47] bottom
+[2026-03-23 11:06:55] show 85
+[2026-03-23 11:07:05] s 85 172
+[2026-03-23 11:07:11]   +special_pairs (S000085, S000172) [direct]
+[2026-03-23 11:07:12]   +reduced (S000172, S000023) [closure rule 2, origin: s 85 172]
+[2026-03-23 11:07:12]   +reduced (S000172, S000052) [closure rule 2, origin: s 85 172]
+[2026-03-23 11:07:12]   +reduced (S000172, S000053) [closure rule 2, origin: s 85 172]
+[2026-03-23 11:07:12]   +reduced (S000172, S000067) [closure rule 2, origin: s 85 172]
+[2026-03-23 11:07:12]   +reduced (S000172, S000072) [closure rule 2, origin: s 85 172]
+[2026-03-23 11:07:12]   +reduced (S000172, S000080) [closure rule 2, origin: s 85 172]
+[2026-03-23 11:07:12]   +reduced (S000172, S000096) [closure rule 2, origin: s 85 172]
+[2026-03-23 11:07:12]   +reduced (S000172, S000111) [closure rule 2, origin: s 85 172]
+[2026-03-23 11:07:12]   +reduced (S000172, S000122) [closure rule 2, origin: s 85 172]
+[2026-03-23 11:07:12]   +reduced (S000172, S000123) [closure rule 2, origin: s 85 172]
+[2026-03-23 11:07:12]   +reduced (S000172, S000124) [closure rule 2, origin: s 85 172]
+[2026-03-23 11:07:12]   +reduced (S000172, S000131) [closure rule 2, origin: s 85 172]
+[2026-03-23 11:07:12]   +reduced (S000172, S000156) [closure rule 2, origin: s 85 172]
+[2026-03-23 11:07:16] undo
+[2026-03-23 11:08:34] q
+[2026-03-23 11:08:34] --- session end ---
+[2026-03-23 19:27:12] --- session start --- Reduced=42172 Special=2532
+[2026-03-23 19:27:17] random
+[2026-03-23 19:28:55] q
+[2026-03-23 19:28:55] --- session end ---
+[2026-03-23 19:30:30] --- session start --- Reduced=42172 Special=2532
+[2026-03-23 19:30:33] show 25
+[2026-03-23 19:31:05] s 21 25
+[2026-03-23 19:31:06]   +special_pairs (S000021, S000025) [direct]
+[2026-03-23 19:31:06]   +special (S000021, S000002) [closure rule 1, origin: s 21 25]
+[2026-03-23 19:31:06]   +special (S000021, S000020) [closure rule 1, origin: s 21 25]
+[2026-03-23 19:31:06]   +special (S000021, S000026) [closure rule 1, origin: s 21 25]
+[2026-03-23 19:31:06]   +special (S000021, S000027) [closure rule 1, origin: s 21 25]
+[2026-03-23 19:31:06]   +special (S000021, S000028) [closure rule 1, origin: s 21 25]
+[2026-03-23 19:31:06]   +special (S000021, S000033) [closure rule 1, origin: s 21 25]
+[2026-03-23 19:31:06]   +special (S000021, S000034) [closure rule 1, origin: s 21 25]
+[2026-03-23 19:31:06]   +special (S000021, S000062) [closure rule 1, origin: s 21 25]
+[2026-03-23 19:31:06]   +special (S000021, S000146) [closure rule 1, origin: s 21 25]
+[2026-03-23 19:31:06]   +special (S000021, S000147) [closure rule 1, origin: s 21 25]
+[2026-03-23 19:31:06]   +special (S000021, S000148) [closure rule 1, origin: s 21 25]
+[2026-03-23 19:31:06]   +special (S000021, S000158) [closure rule 1, origin: s 21 25]
+[2026-03-23 19:31:06]   +special (S000021, S000198) [closure rule 1, origin: s 21 25]
+[2026-03-23 19:31:06]   +special (S000021, S000202) [closure rule 1, origin: s 21 25]
+[2026-03-23 19:31:06]   +special (S000021, S000210) [closure rule 1, origin: s 21 25]
+[2026-03-23 19:31:23] see 29 25
+[2026-03-23 19:31:28] see 19 25
+[2026-03-23 19:31:58] s 66 25
+[2026-03-23 19:32:04]   +special_pairs (S000066, S000025) [direct]
+[2026-03-23 19:32:04]   +special (S000066, S000002) [closure rule 1, origin: s 66 25]
+[2026-03-23 19:32:04]   +special (S000066, S000020) [closure rule 1, origin: s 66 25]
+[2026-03-23 19:32:04]   +special (S000066, S000026) [closure rule 1, origin: s 66 25]
+[2026-03-23 19:32:04]   +special (S000066, S000027) [closure rule 1, origin: s 66 25]
+[2026-03-23 19:32:04]   +special (S000066, S000028) [closure rule 1, origin: s 66 25]
+[2026-03-23 19:32:04]   +special (S000066, S000033) [closure rule 1, origin: s 66 25]
+[2026-03-23 19:32:04]   +special (S000066, S000034) [closure rule 1, origin: s 66 25]
+[2026-03-23 19:32:04]   +special (S000066, S000062) [closure rule 1, origin: s 66 25]
+[2026-03-23 19:32:04]   +special (S000066, S000146) [closure rule 1, origin: s 66 25]
+[2026-03-23 19:32:04]   +special (S000066, S000147) [closure rule 1, origin: s 66 25]
+[2026-03-23 19:32:04]   +special (S000066, S000148) [closure rule 1, origin: s 66 25]
+[2026-03-23 19:32:04]   +special (S000066, S000158) [closure rule 1, origin: s 66 25]
+[2026-03-23 19:32:04]   +special (S000066, S000198) [closure rule 1, origin: s 66 25]
+[2026-03-23 19:32:04]   +special (S000066, S000202) [closure rule 1, origin: s 66 25]
+[2026-03-23 19:32:04]   +special (S000066, S000210) [closure rule 1, origin: s 66 25]
+[2026-03-23 19:32:10] s 68 25
+[2026-03-23 19:32:12]   +special_pairs (S000068, S000025) [direct]
+[2026-03-23 19:32:12]   +special (S000068, S000020) [closure rule 1, origin: s 68 25]
+[2026-03-23 19:32:12]   +special (S000068, S000026) [closure rule 1, origin: s 68 25]
+[2026-03-23 19:32:12]   +special (S000068, S000027) [closure rule 1, origin: s 68 25]
+[2026-03-23 19:32:12]   +special (S000068, S000028) [closure rule 1, origin: s 68 25]
+[2026-03-23 19:32:12]   +special (S000068, S000033) [closure rule 1, origin: s 68 25]
+[2026-03-23 19:32:12]   +special (S000068, S000034) [closure rule 1, origin: s 68 25]
+[2026-03-23 19:32:12]   +special (S000068, S000062) [closure rule 1, origin: s 68 25]
+[2026-03-23 19:32:12]   +special (S000068, S000146) [closure rule 1, origin: s 68 25]
+[2026-03-23 19:32:12]   +special (S000068, S000147) [closure rule 1, origin: s 68 25]
+[2026-03-23 19:32:12]   +special (S000068, S000148) [closure rule 1, origin: s 68 25]
+[2026-03-23 19:32:12]   +special (S000068, S000158) [closure rule 1, origin: s 68 25]
+[2026-03-23 19:32:12]   +special (S000068, S000198) [closure rule 1, origin: s 68 25]
+[2026-03-23 19:32:12]   +special (S000068, S000202) [closure rule 1, origin: s 68 25]
+[2026-03-23 19:32:12]   +special (S000068, S000210) [closure rule 1, origin: s 68 25]
+[2026-03-23 19:32:15] s 69 25
+[2026-03-23 19:32:16]   +special_pairs (S000069, S000025) [direct]
+[2026-03-23 19:32:16]   +special (S000069, S000002) [closure rule 1, origin: s 69 25]
+[2026-03-23 19:32:16]   +special (S000069, S000020) [closure rule 1, origin: s 69 25]
+[2026-03-23 19:32:16]   +special (S000069, S000026) [closure rule 1, origin: s 69 25]
+[2026-03-23 19:32:16]   +special (S000069, S000027) [closure rule 1, origin: s 69 25]
+[2026-03-23 19:32:16]   +special (S000069, S000028) [closure rule 1, origin: s 69 25]
+[2026-03-23 19:32:16]   +special (S000069, S000033) [closure rule 1, origin: s 69 25]
+[2026-03-23 19:32:16]   +special (S000069, S000034) [closure rule 1, origin: s 69 25]
+[2026-03-23 19:32:16]   +special (S000069, S000062) [closure rule 1, origin: s 69 25]
+[2026-03-23 19:32:16]   +special (S000069, S000146) [closure rule 1, origin: s 69 25]
+[2026-03-23 19:32:16]   +special (S000069, S000147) [closure rule 1, origin: s 69 25]
+[2026-03-23 19:32:16]   +special (S000069, S000148) [closure rule 1, origin: s 69 25]
+[2026-03-23 19:32:16]   +special (S000069, S000158) [closure rule 1, origin: s 69 25]
+[2026-03-23 19:32:16]   +special (S000069, S000198) [closure rule 1, origin: s 69 25]
+[2026-03-23 19:32:16]   +special (S000069, S000202) [closure rule 1, origin: s 69 25]
+[2026-03-23 19:32:16]   +special (S000069, S000210) [closure rule 1, origin: s 69 25]
+[2026-03-23 19:32:32] s 70 25
+[2026-03-23 19:32:34]   +special_pairs (S000070, S000025) [direct]
+[2026-03-23 19:32:34]   +special (S000070, S000020) [closure rule 1, origin: s 70 25]
+[2026-03-23 19:32:34]   +special (S000070, S000026) [closure rule 1, origin: s 70 25]
+[2026-03-23 19:32:34]   +special (S000070, S000027) [closure rule 1, origin: s 70 25]
+[2026-03-23 19:32:34]   +special (S000070, S000028) [closure rule 1, origin: s 70 25]
+[2026-03-23 19:32:34]   +special (S000070, S000033) [closure rule 1, origin: s 70 25]
+[2026-03-23 19:32:34]   +special (S000070, S000034) [closure rule 1, origin: s 70 25]
+[2026-03-23 19:32:34]   +special (S000070, S000062) [closure rule 1, origin: s 70 25]
+[2026-03-23 19:32:34]   +special (S000070, S000146) [closure rule 1, origin: s 70 25]
+[2026-03-23 19:32:34]   +special (S000070, S000147) [closure rule 1, origin: s 70 25]
+[2026-03-23 19:32:34]   +special (S000070, S000148) [closure rule 1, origin: s 70 25]
+[2026-03-23 19:32:34]   +special (S000070, S000158) [closure rule 1, origin: s 70 25]
+[2026-03-23 19:32:34]   +special (S000070, S000198) [closure rule 1, origin: s 70 25]
+[2026-03-23 19:32:34]   +special (S000070, S000202) [closure rule 1, origin: s 70 25]
+[2026-03-23 19:32:34]   +special (S000070, S000210) [closure rule 1, origin: s 70 25]
+[2026-03-23 19:32:57] s 73 25
+[2026-03-23 19:32:58]   +special_pairs (S000073, S000025) [direct]
+[2026-03-23 19:32:58]   +special (S000073, S000002) [closure rule 1, origin: s 73 25]
+[2026-03-23 19:32:58]   +special (S000073, S000020) [closure rule 1, origin: s 73 25]
+[2026-03-23 19:32:58]   +special (S000073, S000026) [closure rule 1, origin: s 73 25]
+[2026-03-23 19:32:58]   +special (S000073, S000027) [closure rule 1, origin: s 73 25]
+[2026-03-23 19:32:58]   +special (S000073, S000028) [closure rule 1, origin: s 73 25]
+[2026-03-23 19:32:58]   +special (S000073, S000033) [closure rule 1, origin: s 73 25]
+[2026-03-23 19:32:58]   +special (S000073, S000034) [closure rule 1, origin: s 73 25]
+[2026-03-23 19:32:58]   +special (S000073, S000062) [closure rule 1, origin: s 73 25]
+[2026-03-23 19:32:58]   +special (S000073, S000146) [closure rule 1, origin: s 73 25]
+[2026-03-23 19:32:58]   +special (S000073, S000147) [closure rule 1, origin: s 73 25]
+[2026-03-23 19:32:58]   +special (S000073, S000148) [closure rule 1, origin: s 73 25]
+[2026-03-23 19:32:58]   +special (S000073, S000158) [closure rule 1, origin: s 73 25]
+[2026-03-23 19:32:58]   +special (S000073, S000198) [closure rule 1, origin: s 73 25]
+[2026-03-23 19:32:58]   +special (S000073, S000202) [closure rule 1, origin: s 73 25]
+[2026-03-23 19:32:58]   +special (S000073, S000210) [closure rule 1, origin: s 73 25]
+[2026-03-23 19:33:02] s 75 25
+[2026-03-23 19:33:03]   +special_pairs (S000075, S000025) [direct]
+[2026-03-23 19:33:03]   +special (S000075, S000002) [closure rule 1, origin: s 75 25]
+[2026-03-23 19:33:03]   +special (S000075, S000020) [closure rule 1, origin: s 75 25]
+[2026-03-23 19:33:03]   +special (S000075, S000026) [closure rule 1, origin: s 75 25]
+[2026-03-23 19:33:03]   +special (S000075, S000027) [closure rule 1, origin: s 75 25]
+[2026-03-23 19:33:03]   +special (S000075, S000028) [closure rule 1, origin: s 75 25]
+[2026-03-23 19:33:03]   +special (S000075, S000033) [closure rule 1, origin: s 75 25]
+[2026-03-23 19:33:03]   +special (S000075, S000034) [closure rule 1, origin: s 75 25]
+[2026-03-23 19:33:03]   +special (S000075, S000062) [closure rule 1, origin: s 75 25]
+[2026-03-23 19:33:03]   +special (S000075, S000146) [closure rule 1, origin: s 75 25]
+[2026-03-23 19:33:03]   +special (S000075, S000147) [closure rule 1, origin: s 75 25]
+[2026-03-23 19:33:03]   +special (S000075, S000148) [closure rule 1, origin: s 75 25]
+[2026-03-23 19:33:03]   +special (S000075, S000158) [closure rule 1, origin: s 75 25]
+[2026-03-23 19:33:03]   +special (S000075, S000198) [closure rule 1, origin: s 75 25]
+[2026-03-23 19:33:03]   +special (S000075, S000202) [closure rule 1, origin: s 75 25]
+[2026-03-23 19:33:03]   +special (S000075, S000210) [closure rule 1, origin: s 75 25]
+[2026-03-23 19:33:29] s 99 25
+[2026-03-23 19:33:30]   +special_pairs (S000099, S000025) [direct]
+[2026-03-23 19:33:30]   +special (S000099, S000020) [closure rule 1, origin: s 99 25]
+[2026-03-23 19:33:30]   +special (S000099, S000026) [closure rule 1, origin: s 99 25]
+[2026-03-23 19:33:30]   +special (S000099, S000027) [closure rule 1, origin: s 99 25]
+[2026-03-23 19:33:30]   +special (S000099, S000028) [closure rule 1, origin: s 99 25]
+[2026-03-23 19:33:30]   +special (S000099, S000033) [closure rule 1, origin: s 99 25]
+[2026-03-23 19:33:30]   +special (S000099, S000034) [closure rule 1, origin: s 99 25]
+[2026-03-23 19:33:30]   +special (S000099, S000062) [closure rule 1, origin: s 99 25]
+[2026-03-23 19:33:30]   +special (S000099, S000146) [closure rule 1, origin: s 99 25]
+[2026-03-23 19:33:30]   +special (S000099, S000147) [closure rule 1, origin: s 99 25]
+[2026-03-23 19:33:30]   +special (S000099, S000148) [closure rule 1, origin: s 99 25]
+[2026-03-23 19:33:30]   +special (S000099, S000158) [closure rule 1, origin: s 99 25]
+[2026-03-23 19:33:30]   +special (S000099, S000198) [closure rule 1, origin: s 99 25]
+[2026-03-23 19:33:30]   +special (S000099, S000202) [closure rule 1, origin: s 99 25]
+[2026-03-23 19:33:30]   +special (S000099, S000210) [closure rule 1, origin: s 99 25]
+[2026-03-23 19:33:51] s 105 25
+[2026-03-23 19:33:59]   +special_pairs (S000105, S000025) [direct]
+[2026-03-23 19:33:59]   +special (S000105, S000002) [closure rule 1, origin: s 105 25]
+[2026-03-23 19:33:59]   +special (S000105, S000020) [closure rule 1, origin: s 105 25]
+[2026-03-23 19:33:59]   +special (S000105, S000026) [closure rule 1, origin: s 105 25]
+[2026-03-23 19:33:59]   +special (S000105, S000027) [closure rule 1, origin: s 105 25]
+[2026-03-23 19:33:59]   +special (S000105, S000028) [closure rule 1, origin: s 105 25]
+[2026-03-23 19:33:59]   +special (S000105, S000033) [closure rule 1, origin: s 105 25]
+[2026-03-23 19:33:59]   +special (S000105, S000034) [closure rule 1, origin: s 105 25]
+[2026-03-23 19:33:59]   +special (S000105, S000062) [closure rule 1, origin: s 105 25]
+[2026-03-23 19:33:59]   +special (S000105, S000146) [closure rule 1, origin: s 105 25]
+[2026-03-23 19:33:59]   +special (S000105, S000147) [closure rule 1, origin: s 105 25]
+[2026-03-23 19:33:59]   +special (S000105, S000148) [closure rule 1, origin: s 105 25]
+[2026-03-23 19:33:59]   +special (S000105, S000158) [closure rule 1, origin: s 105 25]
+[2026-03-23 19:33:59]   +special (S000105, S000198) [closure rule 1, origin: s 105 25]
+[2026-03-23 19:33:59]   +special (S000105, S000202) [closure rule 1, origin: s 105 25]
+[2026-03-23 19:33:59]   +special (S000105, S000210) [closure rule 1, origin: s 105 25]
+[2026-03-23 19:34:56] s 134 25
+[2026-03-23 19:34:57]   +special_pairs (S000134, S000025) [direct]
+[2026-03-23 19:34:57]   +special (S000134, S000020) [closure rule 1, origin: s 134 25]
+[2026-03-23 19:34:57]   +special (S000134, S000026) [closure rule 1, origin: s 134 25]
+[2026-03-23 19:34:57]   +special (S000134, S000027) [closure rule 1, origin: s 134 25]
+[2026-03-23 19:34:57]   +special (S000134, S000028) [closure rule 1, origin: s 134 25]
+[2026-03-23 19:34:57]   +special (S000134, S000033) [closure rule 1, origin: s 134 25]
+[2026-03-23 19:34:57]   +special (S000134, S000034) [closure rule 1, origin: s 134 25]
+[2026-03-23 19:34:57]   +special (S000134, S000062) [closure rule 1, origin: s 134 25]
+[2026-03-23 19:34:57]   +special (S000134, S000146) [closure rule 1, origin: s 134 25]
+[2026-03-23 19:34:57]   +special (S000134, S000147) [closure rule 1, origin: s 134 25]
+[2026-03-23 19:34:57]   +special (S000134, S000148) [closure rule 1, origin: s 134 25]
+[2026-03-23 19:34:57]   +special (S000134, S000158) [closure rule 1, origin: s 134 25]
+[2026-03-23 19:34:57]   +special (S000134, S000198) [closure rule 1, origin: s 134 25]
+[2026-03-23 19:34:57]   +special (S000134, S000202) [closure rule 1, origin: s 134 25]
+[2026-03-23 19:34:57]   +special (S000134, S000210) [closure rule 1, origin: s 134 25]
+[2026-03-23 19:35:02] ss 135 25
+[2026-03-23 19:35:12] q
+[2026-03-23 19:35:12] --- session end ---
+[2026-03-23 19:35:15] --- session start --- Reduced=42172 Special=2688
+[2026-03-23 19:35:19] status
+[2026-03-23 19:35:24] s 135 25
+[2026-03-23 19:35:25]   +special_pairs (S000135, S000025) [direct]
+[2026-03-23 19:35:25]   +special (S000135, S000020) [closure rule 1, origin: s 135 25]
+[2026-03-23 19:35:25]   +special (S000135, S000026) [closure rule 1, origin: s 135 25]
+[2026-03-23 19:35:25]   +special (S000135, S000027) [closure rule 1, origin: s 135 25]
+[2026-03-23 19:35:25]   +special (S000135, S000028) [closure rule 1, origin: s 135 25]
+[2026-03-23 19:35:25]   +special (S000135, S000033) [closure rule 1, origin: s 135 25]
+[2026-03-23 19:35:25]   +special (S000135, S000034) [closure rule 1, origin: s 135 25]
+[2026-03-23 19:35:25]   +special (S000135, S000062) [closure rule 1, origin: s 135 25]
+[2026-03-23 19:35:25]   +special (S000135, S000146) [closure rule 1, origin: s 135 25]
+[2026-03-23 19:35:25]   +special (S000135, S000147) [closure rule 1, origin: s 135 25]
+[2026-03-23 19:35:25]   +special (S000135, S000148) [closure rule 1, origin: s 135 25]
+[2026-03-23 19:35:25]   +special (S000135, S000158) [closure rule 1, origin: s 135 25]
+[2026-03-23 19:35:25]   +special (S000135, S000198) [closure rule 1, origin: s 135 25]
+[2026-03-23 19:35:25]   +special (S000135, S000202) [closure rule 1, origin: s 135 25]
+[2026-03-23 19:35:25]   +special (S000135, S000210) [closure rule 1, origin: s 135 25]
+[2026-03-23 19:35:33] show 25
+[2026-03-23 19:36:01] s 143 25
+[2026-03-23 19:36:02]   +special_pairs (S000143, S000025) [direct]
+[2026-03-23 19:36:02]   +special (S000143, S000002) [closure rule 1, origin: s 143 25]
+[2026-03-23 19:36:02]   +special (S000143, S000020) [closure rule 1, origin: s 143 25]
+[2026-03-23 19:36:02]   +special (S000143, S000026) [closure rule 1, origin: s 143 25]
+[2026-03-23 19:36:02]   +special (S000143, S000027) [closure rule 1, origin: s 143 25]
+[2026-03-23 19:36:02]   +special (S000143, S000028) [closure rule 1, origin: s 143 25]
+[2026-03-23 19:36:02]   +special (S000143, S000033) [closure rule 1, origin: s 143 25]
+[2026-03-23 19:36:02]   +special (S000143, S000034) [closure rule 1, origin: s 143 25]
+[2026-03-23 19:36:02]   +special (S000143, S000062) [closure rule 1, origin: s 143 25]
+[2026-03-23 19:36:02]   +special (S000143, S000146) [closure rule 1, origin: s 143 25]
+[2026-03-23 19:36:02]   +special (S000143, S000147) [closure rule 1, origin: s 143 25]
+[2026-03-23 19:36:02]   +special (S000143, S000148) [closure rule 1, origin: s 143 25]
+[2026-03-23 19:36:02]   +special (S000143, S000158) [closure rule 1, origin: s 143 25]
+[2026-03-23 19:36:02]   +special (S000143, S000198) [closure rule 1, origin: s 143 25]
+[2026-03-23 19:36:02]   +special (S000143, S000202) [closure rule 1, origin: s 143 25]
+[2026-03-23 19:36:02]   +special (S000143, S000210) [closure rule 1, origin: s 143 25]
+[2026-03-23 19:36:18] s 175 25
+[2026-03-23 19:36:19]   +special_pairs (S000175, S000025) [direct]
+[2026-03-23 19:36:19]   +special (S000175, S000020) [closure rule 1, origin: s 175 25]
+[2026-03-23 19:36:19]   +special (S000175, S000026) [closure rule 1, origin: s 175 25]
+[2026-03-23 19:36:19]   +special (S000175, S000027) [closure rule 1, origin: s 175 25]
+[2026-03-23 19:36:19]   +special (S000175, S000028) [closure rule 1, origin: s 175 25]
+[2026-03-23 19:36:19]   +special (S000175, S000033) [closure rule 1, origin: s 175 25]
+[2026-03-23 19:36:19]   +special (S000175, S000034) [closure rule 1, origin: s 175 25]
+[2026-03-23 19:36:19]   +special (S000175, S000062) [closure rule 1, origin: s 175 25]
+[2026-03-23 19:36:19]   +special (S000175, S000146) [closure rule 1, origin: s 175 25]
+[2026-03-23 19:36:19]   +special (S000175, S000147) [closure rule 1, origin: s 175 25]
+[2026-03-23 19:36:19]   +special (S000175, S000148) [closure rule 1, origin: s 175 25]
+[2026-03-23 19:36:19]   +special (S000175, S000158) [closure rule 1, origin: s 175 25]
+[2026-03-23 19:36:19]   +special (S000175, S000198) [closure rule 1, origin: s 175 25]
+[2026-03-23 19:36:19]   +special (S000175, S000202) [closure rule 1, origin: s 175 25]
+[2026-03-23 19:36:19]   +special (S000175, S000210) [closure rule 1, origin: s 175 25]
+[2026-03-23 19:36:45] propagate
+[2026-03-23 19:37:57] show 25
+[2026-03-23 19:38:10] q
+[2026-03-23 19:38:10] --- session end ---
+[2026-03-24 03:34:01] --- session start --- Reduced=42172 Special=2734
+[2026-03-24 03:34:04] show 125
+[2026-03-24 03:34:16] show1 125
+[2026-03-24 03:36:16] s 125 27
+[2026-03-24 03:36:16]   +special_pairs (S000125, S000027) [direct]
+[2026-03-24 03:36:16]   +special (S000125, S000002) [closure rule 1, origin: s 125 27]
+[2026-03-24 03:36:16]   +special (S000125, S000020) [closure rule 1, origin: s 125 27]
+[2026-03-24 03:36:16]   +special (S000125, S000033) [closure rule 1, origin: s 125 27]
+[2026-03-24 03:36:16]   +special (S000125, S000034) [closure rule 1, origin: s 125 27]
+[2026-03-24 03:36:16]   +special (S000125, S000202) [closure rule 1, origin: s 125 27]
+[2026-03-24 03:36:21] show1 125
+[2026-03-24 03:36:32] see 27 26
+[2026-03-24 03:36:55] s 126 27
+[2026-03-24 03:36:56]   +special_pairs (S000126, S000027) [direct]
+[2026-03-24 03:36:56]   +special (S000126, S000002) [closure rule 1, origin: s 126 27]
+[2026-03-24 03:36:56]   +special (S000126, S000020) [closure rule 1, origin: s 126 27]
+[2026-03-24 03:36:56]   +special (S000126, S000033) [closure rule 1, origin: s 126 27]
+[2026-03-24 03:36:56]   +special (S000126, S000034) [closure rule 1, origin: s 126 27]
+[2026-03-24 03:36:56]   +special (S000126, S000202) [closure rule 1, origin: s 126 27]
+[2026-03-24 03:37:24] s 124 26
+[2026-03-24 03:37:45] show1 124
+[2026-03-24 03:39:30] see 125 26
+[2026-03-24 03:41:44] show1 27
+[2026-03-24 03:42:11] history 10
+[2026-03-24 03:42:24] propagate
+[2026-03-24 03:42:40] q
+[2026-03-24 03:42:40] --- session end ---
