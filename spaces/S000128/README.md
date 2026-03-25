@@ -17,7 +17,7 @@ Inductively define for each $\alpha$ an $M_\alpha \subset K$ and simple closed c
 4. $J_\alpha$ separates $K$
 5. $J_\alpha \cap \Delta \setminus D_\alpha = J_\alpha \cap M = \emptyset$ where $M = \bigcup_{\alpha < \kappa} M_\alpha$
 
-Let $X = \Delta \cup M \subset \mathbb{R}^2$ with the subspace topology.  
+Let $X = \Delta \cup M \subset \mathbb{R}^2$ with the subspace topology. 
 
 Defined as counterexample #131 ("Miller's Biconnected Set")
 in {{zb:0386.54001}}.
