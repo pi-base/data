@@ -1,6 +1,6 @@
 ---
 uid: S000223
-name: Ellentuck topology
+name: Ellentuck topology on $[\omega]^\omega$
 refs:
   - zb: "0546.03029"
     name: Random isols (E. Ellentuck)
