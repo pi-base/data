@@ -20,7 +20,7 @@ refs:
 Let $X=\mathbb R\setminus\mathbb Q$ with the subspace topology from {S25}.
 
 This space is homeomorphic to the *Baire space* $\omega^\omega=B(\aleph_0)$ with the
-product topology.  See for example {{mathse:352547}}.
+product topology. See for example {{mathse:352547}}.
 
 Defined as counterexample #31 ("The Irrational Numbers")
 and as counterexample #102 ("$\mathbb Z^{\mathbb Z}$")

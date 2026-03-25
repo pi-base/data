@@ -8,6 +8,6 @@ refs:
     name: Answer to "Relationship between weak Hausdorff and US properties"
 ---
 
-Let $\omega_1$ be the first uncountable ordinal.  Take $\omega_1+1=[0,\omega_1]$ with its usual order topology and then split the maximum point into two points, similar to the construction of {S65}.  In other words, take $X=[0,\omega_1]\cup\{\omega'_1\}$ where sets of the form $(\beta,\omega_1)\cup\{\omega'_1\}$ with $\beta<\omega_1$ form a neighborhood basis at $\omega'_1$.
+Let $\omega_1$ be the first uncountable ordinal. Take $\omega_1+1=[0,\omega_1]$ with its usual order topology and then split the maximum point into two points, similar to the construction of {S65}. In other words, take $X=[0,\omega_1]\cup\{\omega'_1\}$ where sets of the form $(\beta,\omega_1)\cup\{\omega'_1\}$ with $\beta<\omega_1$ form a neighborhood basis at $\omega'_1$.
 
 See Example 1 in {{mathse:4268177}}.

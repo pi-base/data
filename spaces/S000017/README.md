@@ -11,7 +11,7 @@ refs:
   - wikipedia: Cocountable_topology
     name: Cocountable topology on Wikipedia
 ---
-Let $X=\mathbb R$ be the set of real numbers.  Define the topology on $X$ by letting a set in $X$ be open iff it is empty or its complement is countable. 
+Let $X=\mathbb R$ be the set of real numbers. Define the topology on $X$ by letting a set in $X$ be open iff it is empty or its complement is countable. 
 
 Defined as counterexample #20 ("Countable Complement Topology")
 in {{zb:0386.54001}}.

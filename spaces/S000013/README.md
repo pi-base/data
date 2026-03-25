@@ -11,7 +11,7 @@ refs:
     name: Excluded point topology on Wikipedia
 ---
 
-Let $X=\mathbb R$ be the set of real numbers.  A set is open in this
+Let $X=\mathbb R$ be the set of real numbers. A set is open in this
 topology if it excludes a particular point $p=0$ or is the whole space.
 
 Defined as counterexample #15 ("Uncountable Excluded Point Topology")
