@@ -17,4 +17,6 @@ $$[s, A] = \{B \in X: s \subseteq B \subseteq s \cup A \;\text{ and }\; \max(s) 
 for a finite $s\subseteq\omega$ and an infinite $A\subseteq\omega$.
 If $s = \emptyset$ we let $\max(s) = -1$.
 
+*Note*: Omitting the condition $\max(s) < \min(B \setminus s)$ would give another base for the same topology, but the form chosen above is usually more convenient.
+
 Introduced by Ellentuck in {{zb:0292.02054}} (<https://www.jstor.org/stable/2272356>). See also Definition 26.25 in {{zb:1007.03002}} and the section "The Ellentuck Topology" on p. 248 of {{zb:1400.03002}}
