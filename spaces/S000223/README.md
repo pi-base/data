@@ -5,9 +5,9 @@ refs:
   - zb: "0292.02054"
     name: A new proof that analytic sets are Ramsey (E. Ellentuck)
   - zb: "1007.03002"
-    name: Set theory. The third millennium edition, revised and expanded (T. Jech)
+    name: Set theory (T. Jech, 2003)
   - zb: "1400.03002"
-    name: Combinatorial set theory. With a gentle introduction to forcing. 2nd edition (L. J. Halbeisen)
+    name: Combinatorial set theory (L. Halbeisen, 2017)
 ---
 
 Let $X = [\omega]^\omega$, the set of infinite sets of nonnegative integers, and give it the topology with basis consisting of all sets
