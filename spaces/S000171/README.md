@@ -9,7 +9,7 @@ refs:
 ---
 
 Let $X = \mathbb{R}$ and let $(X_i)_{i\in \omega}$ be a partition of $X$ into [Bernstein sets](https://en.wikipedia.org/wiki/Bernstein_set) (for the Euclidean topology).
-Given some $x \in X$, there is a unique $n \in \omega$ such that $x \in X_n$. Then $\{x\} \cup (U \cap \bigcup_{i<n}X_i)$, with $U \subseteq X$ with $U$ open in the usual topology, for a neighbourhood basis for $x$.
+Given some $x \in X$, there is a unique $n \in \omega$ such that $x \in X_n$. Then $\{x\} \cup (U \cap \bigcup_{i<n}X_i)$, with $U \subseteq X$ with $U$ open in the usual topology, form a neighbourhood basis for $x$.
 
 This topology in finer than {S25}.
 
