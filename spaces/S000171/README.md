@@ -5,7 +5,7 @@ refs:
   - mo: 416331
     name: Example of an uncountable scattered space with some properties
   - wikipedia: Bernstein_set
-  - name: Bernstein set on Wikipedia
+    name: Bernstein set on Wikipedia
 ---
 
 Let $X = \mathbb{R}$ and let $(X_i)_{i\in \omega}$ be a partition of $X$ into [Bernstein sets](https://en.wikipedia.org/wiki/Bernstein_set) (for the Euclidean topology).
