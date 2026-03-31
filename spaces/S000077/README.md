@@ -1,9 +1,11 @@
 ---
 uid: S000077
-name: Michael's product topology
+name: Product of Michael line and irrational numbers
+aliases:
+  - Michael's product topology
 counterexamples_id: 85
 refs:
-  - zb: "0386.54001" 
+  - zb: "0386.54001"
     name: Counterexamples in Topology
 ---
 
