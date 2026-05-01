@@ -17,27 +17,25 @@ refs:
   - wikipedia: Fréchet–Urysohn_space
     name: Fréchet–Urysohn space on Wikipedia
 ---
-The subset $\mathbb{R}^\infty$ of eventually $0$ sequences in $\mathbb{R}^\omega$, with the finest 
-topology such that the standard inclusion maps $\mathbb{R}^n \hookrightarrow \mathbb{R}^\infty$, 
-$x \mapsto (x^1, \ldots, x^n, 0, \ldots)$, are continuous for each $n$, where $\mathbb{R}^n$ has 
-the Euclidean topology.
+$X$ is the subset $\mathbb{R}^\infty$ of eventually $0$ sequences in $\mathbb{R}^\omega$, with the final 
+topology with respect to the standard inclusion maps $\mathbb{R}^n \hookrightarrow \mathbb{R}^\infty$, 
+$x \mapsto (x^1, \ldots, x^n, 0, \ldots)$. By definition of final topology, this means that $\mathbb{R}^\infty$ has the finest topology such that each such inclusion map is continuous.
 
 Equivalently, the set $U \subset \mathbb{R}^\infty$ is open if and only if $U \cap \mathbb{R}^n$ 
 is open in $\mathbb{R}^n$ for each $n$, where we identify each Euclidean space $\mathbb{R}^n$ with 
-its image.
+its image. 
 
-Equivalently, $\mathbb{R}^\infty$ is the direct limit $\varinjlim \mathbb{R}^n$ of the directed 
+Equivalently, $\mathbb{R}^\infty$ is the direct limit $\varinjlim \mathbb{R}^n := (\bigsqcup_{i = 1}^\infty \mathbb{R}^i)/\sim$ of the directed 
 system consisting of Euclidean spaces and standard inclusion maps 
 $\mathbb{R}^i \hookrightarrow \mathbb{R}^j$, $x \mapsto (x^1, \ldots, x^i, 0, \ldots)$, 
-for each $i < j$.
+for each $i < j$. The equivalence relation $\sim$ identifies points which correspond under these inclusions.
+For general discussion on direct limits, see {{wikipedia:Direct_limit}}.
 
 Equivalently, $\mathbb{R}^\infty \subset \mathbb{R}^\omega$ has the subspace topology, where
 $\mathbb{R}^\omega$ is given the box topology; this is shown in {{mathse:3961052}}. Moreover,
 it is shown in {{mathse:5012784}} that $\mathbb{R}^\infty$ is a quasi-component of the origin in
 $\mathbb{R}^\omega$. Hence $\mathbb{R}^\infty$ embeds into {{S107}}
 as a path component.
-
-For general discussion on direct limits, see {{wikipedia:Direct_limit}}.
 
 Defined on page 62 of {{zb:"0298.57008"}}, on page 2 of {{zb:"0307.55015"}}, 
 on page 56 of {{zb:"1280.54001}}, and on {{wikipedia:Fréchet–Urysohn_space}} 
