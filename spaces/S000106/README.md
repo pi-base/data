@@ -37,6 +37,6 @@ it is shown in {{mathse:5012784}} that $\mathbb{R}^\infty$ is a quasi-component 
 $\mathbb{R}^\omega$. Hence $\mathbb{R}^\infty$ embeds into {{S107}}
 as a path component.
 
-Defined on page 62 of {{zb:"0298.57008"}}, on page 2 of {{zb:"0307.55015"}}, 
-on page 56 of {{zb:"1280.54001}}, and on {{wikipedia:Fréchet–Urysohn_space}} 
+Defined on page 62 of {{zb:0298.57008}}, on page 2 of {{zb:0307.55015}}, 
+on page 56 of {{zb:1280.54001}}, and on {{wikipedia:Fréchet–Urysohn_space}} 
 under Direct limit of finite-dimensional Euclidean spaces.
