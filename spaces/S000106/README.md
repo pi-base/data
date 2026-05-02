@@ -34,7 +34,7 @@ For general discussion on direct limits, see {{wikipedia:Direct_limit}}.
 Equivalently, $\mathbb{R}^\infty \subset \mathbb{R}^\omega$ has the subspace topology, where
 $\mathbb{R}^\omega$ is given the box topology; this is shown in {{mathse:3961052}}. Moreover,
 it is shown in {{mathse:5012784}} that $\mathbb{R}^\infty$ is a quasi-component of the origin in
-$\mathbb{R}^\omega$. Hence $\mathbb{R}^\infty$ embeds into {{S107}}
+$\mathbb{R}^\omega$. Hence $\mathbb{R}^\infty$ embeds into {S107}
 as a path component.
 
 Defined on page 62 of {{zb:0298.57008}}, on page 2 of {{zb:0307.55015}}, 
