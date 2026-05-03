@@ -17,13 +17,13 @@ refs:
   - wikipedia: Fréchet–Urysohn_space
     name: Fréchet–Urysohn space on Wikipedia
 ---
-$X$ is the subset $\mathbb{R}^\infty$ of eventually $0$ sequences in $\mathbb{R}^\omega$, with the final 
-topology with respect to the standard inclusion maps $\mathbb{R}^n \hookrightarrow \mathbb{R}^\infty$, 
-$x \mapsto (x^1, \ldots, x^n, 0, \ldots)$. By definition of final topology, this means that $\mathbb{R}^\infty$ has the finest topology such that each such inclusion map is continuous.
-
-Equivalently, the set $U \subset \mathbb{R}^\infty$ is open if and only if $U \cap \mathbb{R}^n$ 
-is open in $\mathbb{R}^n$ for each $n$, where we identify each Euclidean space $\mathbb{R}^n$ with 
-its image. 
+$X$ is the subset $\mathbb{R}^\infty$ of eventually $0$ sequences in $\mathbb{R}^\omega$,
+with the [final topology](https://en.wikipedia.org/wiki/Final_topology)
+with respect to the standard inclusion maps $\mathbb{R}^n \hookrightarrow \mathbb{R}^\infty$,
+$x \mapsto (x^1, \ldots, x^n, 0, \ldots)$.
+Thus, a set $U \subseteq \mathbb{R}^\infty$ is open iff $U \cap \mathbb{R}^n$
+is open in $\mathbb{R}^n$ for each $n$,
+where we identify each Euclidean space $\mathbb{R}^n$ with its image. 
 
 Equivalently, $\mathbb{R}^\infty$ is the direct limit $\varinjlim \mathbb{R}^n := (\bigsqcup_{i = 1}^\infty \mathbb{R}^i)/\sim$ of the directed 
 system consisting of Euclidean spaces and standard inclusion maps 
