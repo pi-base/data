@@ -25,11 +25,10 @@ Thus, a set $U \subseteq \mathbb{R}^\infty$ is open iff $U \cap \mathbb{R}^n$
 is open in $\mathbb{R}^n$ for each $n$,
 where we identify each Euclidean space $\mathbb{R}^n$ with its image. 
 
-Equivalently, $\mathbb{R}^\infty$ is the direct limit $\varinjlim \mathbb{R}^n := (\bigsqcup_{i = 1}^\infty \mathbb{R}^i)/\sim$ of the directed 
-system consisting of Euclidean spaces and standard inclusion maps 
-$\mathbb{R}^i \hookrightarrow \mathbb{R}^j$, $x \mapsto (x^1, \ldots, x^i, 0, \ldots)$, 
-for each $i < j$. The equivalence relation $\sim$ identifies points which correspond under these inclusions.
-For general discussion on direct limits, see {{wikipedia:Direct_limit}}.
+The space $\mathbb{R}^\infty$ is the [direct limit](https://en.wikipedia.org/wiki/Direct_limit)
+$\varinjlim \mathbb{R}^n$ of the direct system consisting of Euclidean spaces $\mathbb R^n$
+and standard inclusion maps $\mathbb{R}^n \hookrightarrow \mathbb{R}^m$,
+$x \mapsto (x^1, \ldots, x^n, 0, \ldots,0)$, for each $n < m$.
 
 Equivalently, $\mathbb{R}^\infty \subset \mathbb{R}^\omega$ has the subspace topology, where
 $\mathbb{R}^\omega$ is given the box topology; this is shown in {{mathse:3961052}}. Moreover,
