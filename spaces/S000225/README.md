@@ -1,6 +1,6 @@
 ---
 uid: S000225
-name: Closed half-plane $\mathbb R^2_+$
+name: Closed upper half-plane $\mathbb R^2_+$
 ---
 
 The subspace $\mathbb R^2_+=\{(x,y)\in\mathbb R^2 : y\ge 0\}$ of {S176}.
