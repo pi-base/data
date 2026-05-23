@@ -1,8 +1,6 @@
 ---
 uid: S000135
-name: Radial intervals through the origin of the plane
-aliases:
-- Radial interval topology
+name: Radial interval topology on $\mathbb R^2$
 counterexamples_id: 141
 refs:
 - zb: "0386.54001"
