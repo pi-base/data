@@ -1,0 +1,13 @@
+# Candidate implications => P000214 (α₄)
+# No known counterexample, and NOT already provable from theorems alone.
+# "α₄ unknown" = spaces where ante holds but α₄ is not yet determined.
+# Format: ANTECEDENT  |  Ante holds  |  α₄ unknown
+
+P000228                |  154  |  1
+P000104                         |   81  |  1
+P000219                               |   29  |  0
+P000075                              |   27  |  0
+P000208                            |   27  |  1
+P000138   |   18  |  1
+P000195                           |   13  |  0
+P000127                                |    1  |  0
