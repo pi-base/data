@@ -12,4 +12,4 @@ Two subspaces are worth noting:
 
 $X$ could also be described as the result of "gluing"
 {S155} and {S10} at their limit points;
-that is, $X$ is the quotient of the topological sum of these two spaces with their limit points identified.
+that is, $X$ is homeomorphic to the quotient of the topological sum of these two spaces with their limit points identified.
