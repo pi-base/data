@@ -16,5 +16,5 @@ with $U$ (basic) open neighbourhood of $x$ in the Euclidean topology.
 
 This topology is finer than {S25}.
 
-This space was constructed in {{mo:416331}} by Will Brian, providing an example in ZFC for an uncountable, Hausdorff,
+This space was constructed in {{mo:416752}} by Will Brian, providing an example in ZFC for an uncountable, Hausdorff,
 first-countable, scattered, Lindelöf space.
