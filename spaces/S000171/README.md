@@ -8,10 +8,13 @@ refs:
     name: Bernstein set on Wikipedia
 ---
 
-Let $X = \mathbb{R}$ and let $(X_i)_{i\in \omega}$ be a partition of $X$ into [Bernstein sets](https://en.wikipedia.org/wiki/Bernstein_set) (for the Euclidean topology).
-Given some $x \in X$, there is a unique $n \in \omega$ such that $x \in X_n$. Then $\{x\} \cup (U \cap \bigcup_{i<n}X_i)$, with $U \subseteq X$ with $U$ open in the usual topology, form a neighbourhood basis for $x$.
+Let $X = \mathbb{R}$ and let $(X_i)_{i\in \omega}$ be a countably infinite partition of $X$ into
+[Bernstein sets](https://en.wikipedia.org/wiki/Bernstein_set) (for the Euclidean topology).
+Given $x \in X$, let $n \in \omega$ be such that $x \in X_n$.
+Then basic open neighbourhoods of $x$ are given by the sets $\{x\} \cup (U \cap \bigcup_{i<n}X_i)$,
+with $U$ (basic) open neighbourhood of $x$ in the Euclidean topology.
 
-This topology in finer than {S25}.
+This topology is finer than {S25}.
 
 This space was constructed in {{mo:416331}} by Will Brian, providing an example in ZFC for an uncountable, Hausdorff,
 first-countable, scattered, Lindelöf space.
