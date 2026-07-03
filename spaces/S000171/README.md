@@ -2,8 +2,8 @@
 uid: S000171
 name: Brian's stack of Bernstein sets
 refs:
-  - mo: 416331
-    name: Example of an uncountable scattered space with some properties
+  - mo: 416752
+    name: Answer to "Example of an uncountable scattered space with some properties"
   - wikipedia: Bernstein_set
     name: Bernstein set on Wikipedia
 ---
