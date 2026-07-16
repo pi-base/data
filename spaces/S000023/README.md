@@ -3,7 +3,7 @@ uid: S000023
 name: Arens-Fort Space
 counterexamples_id: 26
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
   - wikipedia: Arens-Fort_space
     name: Arens-Fort space
@@ -14,6 +14,6 @@ Define a set containing $(0,0)$ to be open if and only if it contains all but
 a finite number of points in all but a finite number of columns.
 
 Defined as counterexample #26 ("Arens-Fort Space")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.
 
 This space is homeomorphic to a subspace of {S156}.

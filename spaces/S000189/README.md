@@ -1,16 +1,18 @@
 ---
 uid: S000189
-name: Discrete Topology on a Three-Point Set
+name: Discrete topology on $\{0,1,2\}$
 aliases:
-  - Finite Discrete Topology
+  - Discrete topology on a three-point set
+  - Finite discrete topology
 refs:
-  - doi: 10.1007/978-1-4612-6290-9
+  - zb: "0386.54001"
     name: Counterexamples in Topology
   - wikipedia: Discrete_space
-    name: Discrete Space on Wikipedia
+    name: Discrete space on Wikipedia
 ---
-Let $X=3=\{0,1,2\}$ be a space containing three points and
+
+Let $X=3=\{0,1,2\}$, a set with three elements, and
 let all subsets of $X$ be open.
 
 See counterexample #1 ("Finite Discrete Topology")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

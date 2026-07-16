@@ -10,7 +10,7 @@ refs:
   wikipedia: Weak_topology
 counterexamples_id: null
 ---
-Let $H$ be a infinite-dimensional separable real Hilbert space (such
+Let $H$ be an infinite-dimensional separable real Hilbert space (such
 as the space $l^2$ of square-summable sequences) with inner product
 $\langle \cdot, \cdot \rangle$.  (All such spaces are isometrically
 isomorphic.)  The continuous dual $H^*$ is the set of all linear

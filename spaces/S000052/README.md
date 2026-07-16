@@ -5,12 +5,22 @@ counterexamples_id: 60
 aliases:
 - Golomb Topology
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
   - wikipedia: Arithmetic_progression_topologies
     name: Arithmetic progression topologies on Wikipedia
+  - mathse: 4460847
+    name: The Kirch topology is the same as the prime integer topology
+  - zb: "1474.54066"
+    name: On continuous self-maps and homeomorphisms of the Golomb space (T. Banakh et al.)
 ---
-Let $X=\mathbb{Z}^+$, the set of positive integers.  For $a,b \in X$, let $U_a(b) = \{b+na \in X : n \in \mathbb{Z}\} = (b+a\mathbb{Z})\cap X$.  Then $\{U_a(b) : a,b \in X, gcd(a,b)=1\}$ forms a basis for the relatively prime integer topology on $X$.
+Let $X=\mathbb{Z}^+$, the set of positive integers.  For $a,b \in X$, let $U_a(b) = \{b+na \in X : n \in \mathbb{Z}\} = (b+a\mathbb{Z})\cap X$.  Then $\{U_a(b) : a,b \in X, \gcd(a,b)=1\}$ forms a basis for the relatively prime integer topology on $X$.
 
+Alternatively, a basis is given by $\{U'_a(b) : a,b \in X, \gcd(a,b)=1\}$ with $U'_a(b) = \{b+na \in X : n\ge 0\}$.
+See {{mathse:4460847}} for a proof of the equivalence.
+
+As a space, $X$ is often called the *Golomb space*, for example in {{zb:1474.54066}}.
 Defined as counterexample #60 ("Relatively Prime Integer Topology")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.
+
+Compare with {S53}, which has a coarser topology.

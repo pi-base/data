@@ -3,12 +3,21 @@ uid: S000088
 name: Tychonoff corkscrew
 counterexamples_id: 90
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001"
     name: Counterexamples in Topology
+  - doi: 10.1007/BFb0064021
+    name: Hereditarily separable, non-completely regular spaces
+  - zb: "0652.54016"
+    name: Extensions and absolutes of Hausdorff spaces
 ---
-For each ordinal $\alpha$ let $A_\alpha$ denote the linearly ordered set $(-0, -1, -2, \dots, \alpha, \dots, 2, 1, 0)$ with the order topology. Let $P = A_{\omega_1} \times A_{\omega}$ and $P^\ast = P \setminus \{(\omega_1, \omega)\}$. We may regard $P^\ast$ as a rectangular lattice with coordinate axes $A_{\omega_1}$ and $A_\omega$.
 
-Form a corkscrew by taking a (countably) infinite stack of copies of $P^\ast$ by slitting each $P^\ast$ immediately below the positive $A_{\omega_1}$ axis and the joining the fourth quadrant of one plane to the first quadrant of the one immediately below it. Complete the space by adjoining a point $a^+$ with neighborhoods all points above a certain level and $a^-$ with neighborhoods all points below a certain level.
+The space $X=\mathrm{DJ}(Y,H,K)$ is the result of applying the double-sided variation of the "Jones machine" to the space $Y=$ {S79} and its two closed subsets $H=\omega_1\times\{\omega\}$ and $K=\{\omega_1\}\times\omega$ (which have the property that they cannot be separated by open sets in $Y$). It is obtained by taking a two-sided sequence of copies of $Y$, plus two extra limit points $a^-, a^+$, and alternately gluing adjacent copies of $Y$ along either $H$ or $K$.
 
-Defined as counterexample #90 ("Tychonoff Corkscrew")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+Formally, define $Z = (Y\times \mathbb{Z}) \cup \{p^-, p^+\}$, where $p^\pm$ are two new points, to have topology such that $U\subseteq Z$ is open iff $U\cap (Y\times \mathbb{Z})$ is open in the product topology where $\mathbb{Z}$ is discrete,
+and if $p^+\in U$ (resp. $p^-\in U$) then $Y\times \{n\in \mathbb{Z} : n\geq N\}\subseteq U$
+(resp. $Y\times \{n\in \mathbb{Z} : n\leq -N\}\subseteq U$) for some $N\in\mathbb{N}$.
+Define $X=\mathrm{DJ}(Y,H,K)$ as the quotient space $Z/{\sim}$ where the equivalence relation $\sim$ is given by $(x, 2n)\sim (x, 2n+1)$ for $x\in H$ and $(x, 2n-1)\sim (x, 2n)$ for $x\in K$, and no other relations between distinct points. If $q:Z\to X$ is the quotient map, define $a^\pm = q(p^\pm)$.
+
+The construction above is described in Problem 1Y in {{zb:0652.54016}}, based on the original idea in {{doi:10.1007/BFb0064021}}.
+
+The space $X$ is defined in a more informal way as counterexample #90 ("Tychonoff Corkscrew") in {{zb:0386.54001}}.

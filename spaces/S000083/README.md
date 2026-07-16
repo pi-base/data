@@ -12,6 +12,6 @@ The space $X$ is obtained by taking $\mathbb R$ ({S25}) and replacing the origin
 
 The space can also be obtained as a quotient space of the disjoint union of $\mathbb R\times\{1\}$ and $\mathbb R\times\{2\}$ by identifying points $(x,1)$ and $(x,2)$ for $x\ne 0$.
 
-This space is similar to {S65} and provides an example of {P123} space that is not {P3}.
+This space is similar to {S65} and provides an example of a {P123} space that is not {P3}.
 
 See {{wikipedia:Non-Hausdorff_manifold}} and Exercise 5 of section 36 in {{zb:0951.54001}}.

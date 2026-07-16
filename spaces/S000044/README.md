@@ -3,7 +3,7 @@ uid: S000044
 name: Nested interval topology
 counterexamples_id: 52
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001" 
     name: Counterexamples in Topology
   - wikipedia: Nested_interval_topology
     name: Nested interval topology on Wikipedia
@@ -16,4 +16,4 @@ Equivalently, the product of {S199}
 and {S194}.
 
 Defined as counterexample #52 ("Nested Interval Topology")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+in {{zb:0386.54001}}.

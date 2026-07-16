@@ -12,6 +12,9 @@ refs:
 
 The integers $\mathbb Z$ with $\{\{2i-1,2i,2i+1\}\mid i\in\mathbb Z\}\cup\{\{2i+1\}\mid i\in\mathbb Z\}$ as a basis for the topology.
 
+This space is homeomorphic to:
+- The quotient of {S25} identifying the open interval $(i, i + 1)$ to a point for each $i \in \mathbb Z$.
+
 It is the unique {P205} such that no proper subspace is also a cut point space.
 See Theorem 4.5 of {{doi:10.1090/s0002-9939-99-04839-x}} for a proof.
 

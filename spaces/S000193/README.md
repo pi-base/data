@@ -1,14 +1,16 @@
 ---
 uid: S000193
-name: Indiscrete Topology on a Countably Infinite Set
+name: Indiscrete topology on $\omega$
+aliases:
+  - Indiscrete topology on a countably infinite set
 refs:
-  - doi: 10.1007/978-1-4612-6290-9 
+  - zb: "0386.54001"
     name: Counterexamples in Topology
   - wikipedia: Trivial_topology
     name: Trivial topology on Wikipedia
 ---
-Let $X=\omega=\{0,1,2,\dots\}$ be the space containing a countably infinite
-number of points and let only the sets $X$ and $\emptyset$ be open.
 
-See counterexample #4 ("Indiscrete Topology")
-in {{doi:10.1007/978-1-4612-6290-9}}.
+Let $X=\omega=\{0,1,2,\dots\}$, a set with a countably infinite
+number of points, and let $X$ and $\emptyset$ be the only open sets.
+
+See counterexample #4 ("Indiscrete Topology") in {{zb:0386.54001}}.
