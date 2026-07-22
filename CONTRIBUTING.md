@@ -2,10 +2,10 @@ You'll need to log in or [join GitHub](https://www.github.com/join/) to contribu
 
 ## Discussions
 
-Not sure where to begin? Head over to our [Discussion board](https://github.com/pi-base/data/discussions) and start a new thread!
+Not sure where to begin? Either open a topic on our
+[Zulip chat](https://code4math.zulipchat.com/#narrow/channel/416467-pi-base) or
+[open an Issue to ask your question](https://github.com/pi-base/data/issues).
 We're always happy to have new community members join the conversation.
-
-[Here is the thread for discussing these guidelines in particular.](https://github.com/pi-base/data/discussions/322)
 
 ## Opening an Issue
 
@@ -16,8 +16,11 @@ If you have a specific improvement you'd like to see made to the pi-Base, you ca
   Links to <https://topology.pi-base.org> are encouraged.
 - A description of the changes you'd recommend.
 
+Most common suggestions have templates that can be followed to ensure all the necessary information
+is provided.
+
 After discussion of your suggestion, any contributor can make a "Pull Request" (see below) to
-implement your improvement. 
+implement your improvement.
 
 ## Make a Pull Request
 
@@ -25,11 +28,12 @@ To add a pull request implementing any changes to the repository, [fork](https:/
 this project to your own account, which creates a copy of <https://github.com/pi-base/data/> to
 something like <https://github.com/StevenClontz/pibase-data/>.
 
-The easiest way to edit your fork of the repository is to use GitHub.**dev**.
-For example, if your fork is located at <https://github.com/StevenClontz/pibase-data>, you can either edit the URL to say
-<https://github.dev/StevenClontz/pibase-data> (note the `.dev`), or press the period key on your physical keyboard
-while viewing the repository to be redirected automatically. This opens a file editor in your web browser where you can make
-whatever changes you'd like. 
+The easiest way to edit your fork of the repository is to use **VSCode.dev**.
+For example, if your fork is located at <https://github.com/UserName/pibase-data>, you can either edit the URL to say
+<https://vscode.dev/github/UserName/pibase-data> (or even just <https://github.dev/UserName/pibase-data>),
+or press the period key on your physical keyboard while viewing the repository to be redirected automatically.
+This opens a file editor in your web browser where you can make whatever changes you'd like, and prompts to
+install the pi-Base extension to add pi-Base specific functionality. 
 
 It's good to change the branch name from `main` to something like
 `UserName/describe-your-contribution`. (Please do not use the `|` character or anything else
@@ -38,8 +42,8 @@ Then you can "commit & push" your changes to that branch on your fork.
 
 ![image](https://github.com/pi-base/data/assets/1559632/3306fed3-9ac0-4b47-845b-feb6b324dc5f)
 
-When editing, be sure to review [our conventions](https://github.com/pi-base/data#conventions) on notation
-and naming, and read below on information about references, our review criteria, etc.
+When editing, try to be familiar with this document which includes our conventions on notation and naming,
+information about references, our review criteria, etc.
 
 Once you're happy with your changes, you can
 [open up all pull request for review](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
@@ -47,7 +51,7 @@ Then one of our volunteer reviewers will check your work and discuss the propose
 and any required effort necessary before they can be merged into the main data repository.
 
 After you've made one or two contributions, you will likely be invited to make branches directly
-on the pi-base/data repository, so they are available to preview using https://topology.pi-base.org/dev
+on the `pi-base/data` repository, so they are available to preview using https://topology.pi-base.org/dev
 
 ## Labels
 
@@ -63,7 +67,7 @@ or DOI link. Sometimes Wikipedia references are also appropriate.
 The recommended form of reference to a publication is [zbMath](https://zbmath.org/) link.
 
 pi-Base is not a forum for peer review, so
-to contribute improvements not directly reflected in the literature, we encourage you to ask (and self-answer
+to contribute non-trivial improvements not directly reflected in the literature, we encourage you to ask (and self-answer
 if necessary) an appropriate question on either <https://math.stackexchange.com/> or <https://mathoverflow.net/>,
 and use that as your citation.
 
@@ -93,16 +97,15 @@ If you use artificial intelligence (such as, by using github's copilot mode, ask
 
 In particular, submissions that are the unedited output of an AI tool will be closed without review. These tools should be used only to provide a starting point for a contribution, or possibly to help with editing. However, contributions should ultimately be the work of a human who understands and can vouch for their work.
 
-
 # Conventions and Style
 
-# Notation
+## Notation
 
 In property descriptions and in proofs of theorems, we often use $X$ to implicitly denote the space being discussed.
 
 When providing the proof of a theorem, for example `A + B implies C`, we usually make the implicit assumption that the hypotheses, `A` and `B` in the example, hold for the space $X$.  So there is usually no need to explicitly state it up front.
 
-# Separation axioms
+## Separation axioms
 
 For the separation axioms, `T_n ⇒ T_m` whenever `n ≥ m`. 
 For example [regular](https://github.com/pi-base/data/blob/master/properties/P000011.md)
@@ -110,13 +113,13 @@ is defined to assert that closed points and sets can be separated;
 [T₃](https://github.com/pi-base/data/blob/master/properties/P000005.md) is defined to be both `regular` and `T₀`. 
 See e.g. [wikipedia](https://en.wikipedia.org/wiki/Separation_axiom#Main_definitions) for more information.
 
-# Local Properties
+## Local Properties
 
 A property is "locally `P`" if every point in the space has a neighborhood base satisfying P for every member of the base. On the other hand, some authors define "locally `P`" to mean there is a single neighborhood satisfying `P` for each point. These definitions are occasionally equivalent (e.g. locally metrizable), but are not equivalent in general (e.g. locally compact). See [this issue](https://github.com/pi-base/data/issues/42) for discussion.
 
 Use "locally P" when the P neighborhoods form a neighborhood base, and (when not equivalent) use "weakly locally P" when only a single P neighborhood is required.
 
-# Meta-properties
+## Meta-properties
 
 At this moment $\pi$-Base does not support *meta-properties* but we collect them on property pages for the use in proofs and also for the visitors as additional mathematical facts. Below you can find the list of currently tracked meta-properties and their standardized phrasing:
 
@@ -150,13 +153,13 @@ Of course whenever a property is said to be hereditary with respect to e.g. open
 
 See also the thread [#1071](https://github.com/pi-base/data/issues/1071).
 
-# Notation advice
+## Notation advice
 
 - Whenever dealing with intervals and **pairs** (tuples), the latter should be better denoted by $\langle x, y\rangle$ (`\langle` and `rangle`) than $(x,y)$.
 If there is no need to care about the intervals, standard pair notation can be used.
 - For open covers the `\mathscr` font is commonly used.
 
-# References
+## References
 
 When referencing the literature we shall use **zbMath** links whenever possible, especially when the zbMath entry provides the DOI.
 Appropriate modification of old files is advised (upon editing them);
@@ -173,7 +176,7 @@ This does not include branches opened on forks of the repository (to prevent com
 could have unwanted or illegal content). So after a pull request is seen to be legitimate, a reviewer
 may duplicate the content of a pull request to a new branch via these steps.
 
-First, use GitHub.dev to open the pull request.
+First, use GitHub.dev (VSCode.dev/github) to open the pull request.
 
 ![image](https://github.com/pi-base/data/assets/1559632/1d3446a9-ae93-45d1-b815-17ca87de5e9a)
 
@@ -267,6 +270,3 @@ At least one of the folowing should be satisfied.
   - Put another way, it's okay to accept a contribution of "$T_3$ and P implies Q" even when the result
     could be improved to "regular and P implies Q". But this does not mean we should reject a later
     improvement of the result to say "regular and P implies Q" if a contributor suggests doing so.
-
-
-
