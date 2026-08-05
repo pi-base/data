@@ -1,6 +1,6 @@
 ---
 uid: S000107
-name: Countable box product of reals
+name: Countable box product of reals $\square^\omega\mathbb R$
 aliases:
   - Countable boolean product of reals
   - Box product topology on R^ω
