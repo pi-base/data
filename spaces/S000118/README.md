@@ -10,7 +10,8 @@ refs:
 ---
 Let $X \subset \mathbb{R}^2$ consist of points with polar coordinates $\{(n,\theta)\ \mid\ n \in \omega, \theta \in \{0\} \cup \{1/n\}_{n=1}^\infty\}$. Define a topology on $X$ by taking as a basis all sets of the form $U \times V$ where $U$ is an open set in the right order topology on the positive integers and $V$ is open in $\{0\} \cup \{1/n\}_{n=1}^\infty \subset \mathbb{R}$. The only neighborhood of the origin is $X$ itself.
 
-This space is the quotient of the product of {S200} with {S20} where all points whose first components are 0 are identified.
+This space is the quotient of the product of {S200} with
+{S20} where all points whose first component is $0$ are identified.
 
 Defined as counterexample #121 ("The Integer Broom")
 in {{zb:0386.54001}}.
