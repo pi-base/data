@@ -1,6 +1,6 @@
 ---
 uid: S000224
-name: Torus
+name: Torus $S^1\times S^1$
 refs:
   - wikipedia: Torus
     name: Torus on Wikipedia
