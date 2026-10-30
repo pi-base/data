@@ -2,8 +2,8 @@
 uid: S000101
 name: Product space $\omega^\mathfrak c$
 aliases:
-  - Continuum power of a countable discrete space
-  - Uncountable products of Z+
+  - Continuum power of $\omega$
+  - Uncountable product of $\mathbb Z^+$
 counterexamples_id: 103
 refs:
 - zb: "0386.54001"
@@ -12,5 +12,5 @@ refs:
 The product topology on $\omega^{\mathfrak c}= \omega^{\beth_1}$,
 where each factor is {S2}.
 
-Defined as counterexample #103 ("Uncountable Products of \(\mathbb{Z}^+\)")
+Defined as counterexample #103 ("Uncountable Products of $\mathbb{Z}^+$")
 in {{zb:0386.54001}}.
