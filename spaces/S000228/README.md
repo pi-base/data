@@ -1,5 +1,5 @@
 ---
-uid: S000227
+uid: S000228
 name: Wheel with detached spokes
 ---
 
